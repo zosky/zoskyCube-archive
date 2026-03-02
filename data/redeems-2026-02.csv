@@ -1,7 +1,7 @@
 timestamp,steamid,username,cost,gamename
 2026-02-01T20:27:00.856Z,457210,foreeeveeer,30940,SEUM: Speedrunners from Hell
 2026-02-01T22:58:34.927Z,264730,daniempirerevolution,19760,Deadly 30
-2026-02-01T23:30:50.591Z,,daniempirerevolution,-19760,Refund dedKey: deadly 30
+2026-02-01T23:30:50.591Z,264730,daniempirerevolution,-19760,Refund dedKey: deadly 30
 2026-02-02T01:54:45.108Z,1837580,zoskycube,104800,Mia and the Dragon Princess
 2026-02-03T01:03:05.788Z,745960,snoopys030,33800,A Sky Full of Stars 仰望夜空的星辰
 2026-02-03T03:00:48.779Z,326480,slay_da_b,19500,If My Heart Had Wings
@@ -39,7 +39,7 @@ timestamp,steamid,username,cost,gamename
 2026-02-13T17:25:31.425Z,1714240,alfims,36140,Soul Stalker
 2026-02-13T21:56:17.685Z,2243250,darkgammeth,97500,Moonlight Pulse
 2026-02-13T23:02:55.541Z,1983260,100bitlive,41080,Dungeons of Hinterberg
-2026-02-13T23:23:20.238Z,,100bitlive,-41080,Refund dedKey: dungeon of hinterberg
+2026-02-13T23:23:20.238Z,1983260,100bitlive,-41080,Refund dedKey: dungeon of hinterberg
 2026-02-14T18:54:47.303Z,1815230,ivanpetrov32,54860,Summum Aeterna
 2026-02-14T21:34:58.685Z,GIFT_CARD,rzvlover,130420,Steam Wallet Funds (5CAD)
 2026-02-15T00:31:51.099Z,2997260,operacional_cae,36400,SATAN
