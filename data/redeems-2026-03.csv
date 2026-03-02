@@ -1,6 +1,6 @@
-timestamp,steamid,username,gamename,cost
-2026-03-01T08:31:04.627Z,508760,foreeeveeer,Ball of Wonder,25740
-2026-03-01T11:12:05.230Z,2312160,skillfielder,Frogun Encore,68040
-2026-03-01T14:01:34.334Z,703530,daniempirerevolution,Grav Blazer Squared,10420
-2026-03-02T04:33:37.890Z,1291010,somemarblesfriday,Warpips,25340
-2026-03-02T10:59:32.984Z,1196090,smogracing,Scars Above,61620
+timestamp,steamid,username,cost,gamename
+2026-03-01T08:31:04.627Z,508760,foreeeveeer,25740,Ball of Wonder
+2026-03-01T11:12:05.230Z,2312160,skillfielder,68040,Frogun Encore
+2026-03-01T14:01:34.334Z,703530,daniempirerevolution,10420,Grav Blazer Squared
+2026-03-02T04:33:37.890Z,1291010,somemarblesfriday,25340,Warpips
+2026-03-02T10:59:32.984Z,1196090,smogracing,61620,Scars Above
