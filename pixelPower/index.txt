@@ -1,8 +1,9 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:16:20.835Z
+# Updated: 2026-03-03T12:16:24.699Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 288
+# Sessions: 289
 #
+img_1770468574818	V3	2026-02-07T12:49:35.451Z	https://youtu.be/nPAptQwjpko	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770468574818.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770468574818_panel1_narration.mp3	18	60	11300	A world under tyranny, where the natural habitat was a desol
 img_1770452513358	V3	2026-02-07T08:22:01.159Z	https://youtu.be/tCe8G4jQg-s	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770452513358.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770452513358_panel1_narration.mp3	21	60	12227	Elara, a flaxen-haired teacher and thinker, had travelled ma
 img_1770431606866	V3	2026-02-07T02:33:27.448Z	https://youtu.be/IFnuiFM7tfc	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770431606866.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770431606866_panel1_narration.mp3	22	60	11742	Our protagonist, a wishful young sociology student with a de
 img_1770412032010	V3	2026-02-06T21:07:12.684Z	https://youtu.be/vVUmDJaYYlk	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770412032010.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770412032010_panel1_narration.mp3	20	60	12618	The neophyte insider, though older, possessed a keen intelle
