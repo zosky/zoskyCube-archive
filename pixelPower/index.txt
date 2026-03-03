@@ -1,8 +1,9 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:19:28.118Z
+# Updated: 2026-03-03T12:19:32.475Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 331
+# Sessions: 332
 #
+img_1771405472248	V3	2026-02-18T09:04:32.991Z	https://youtu.be/WKgYNhLzvII	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771405472248.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771405472248_panel1_narration.mp3	18	100	22945	Eleanor, a workaholic in veteran journalism, set out to deve
 img_1771381381402	V3	2026-02-18T02:23:02.055Z	https://youtu.be/bf8F1VOUfp4	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771381381402.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771381381402_panel1_narration.mp3	25	100	17656	Elara, an elderly woman with a past defeat haunting her, liv
 img_1771337220075	V3	2026-02-17T14:07:00.742Z	https://youtu.be/ekGCwDaCpd4	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771337220075.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771337220075_panel1_narration.mp3	23	100	19785	Elara, a seasoned artistic scientist with streaks of gray in
 img_1771294589828	V3	2026-02-17T02:16:30.492Z	-	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771294589828.png	-	20	100	19711	Eleanor, a seasoned corporate fixer, reviewed her meticulous
