@@ -1,8 +1,9 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:16:52.371Z
+# Updated: 2026-03-03T12:16:56.806Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 296
+# Sessions: 297
 #
+img_1770620385946	V3	2026-02-09T06:59:46.433Z	https://youtu.be/-fR4k3uqvlU	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770620385946.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770620385946_panel1_narration.mp3	18	60	11630	Elara, a human inventor with a somewhat nebulous past, often
 img_1770595853454	V3	2026-02-09T00:10:54.082Z	https://youtu.be/H_KjzqsLUM4	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770595853454.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770595853454_panel1_narration.mp3	20	60	12191	The licensed journalist, known for his virtuous pursuit of j
 img_1770577857139	V3	2026-02-08T19:10:57.840Z	https://youtu.be/kiMUhVZj-Sk	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770577857139.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770577857139_panel1_narration.mp3	18	60	11186	Elara, an orphan in the modern, industrial city, woke up wit
 img_1770562211186	V3	2026-02-08T14:50:11.881Z	https://youtu.be/-YGrLLImstI	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770562211186.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1770562211186_panel1_narration.mp3	17	60	10680	Dr. Vesper, an early and elect genius in science, often went
