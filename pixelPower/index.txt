@@ -1,8 +1,9 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:20:33.453Z
+# Updated: 2026-03-03T12:20:38.038Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 345
+# Sessions: 346
 #
+img_1771796254799	V3	2026-02-22T21:37:35.532Z	https://youtu.be/6-zHAeBS-1k	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771796254799.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771796254799_panel1_narration.mp3	22	100	21178	Professor Lena Petrova, a woman whose face bore the lines of
 img_1771772378843	V3	2026-02-22T14:59:39.681Z	https://youtu.be/f9M3jPSt4q4	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771772378843.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771772378843_panel1_narration.mp3	23	100	21247	Elias, a lonely, unkempt techie, lived in a secluded cabin d
 img_1771749315366	V3	2026-02-22T08:35:16.077Z	https://youtu.be/rbx9a_qbP-I	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771749315366.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771749315366_panel1_narration.mp3	18	100	22939	The sandstones of the canyon seemed to flicker with an ancie
 img_1771727887398	V3	2026-02-22T02:38:08.004Z	https://youtu.be/BZh81hZakZI	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771727887398.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771727887398_panel1_narration.mp3	23	100	21794	Elias, a seasoned operative long past his trainee days, felt
