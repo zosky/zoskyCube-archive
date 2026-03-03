@@ -1,8 +1,9 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:20:14.221Z
+# Updated: 2026-03-03T12:20:18.621Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 341
+# Sessions: 342
 #
+img_1771699054042	V3	2026-02-21T18:37:34.649Z	https://youtu.be/UZ0E5CXtGrA	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771699054042.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771699054042_panel1_narration.mp3	21	100	22536	A seasoned jeweler, Elias, an independent expert from the ea
 img_1771675366571	V3	2026-02-21T12:02:47.220Z	https://youtu.be/zqt4knr9WMg	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771675366571.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771675366571_panel1_narration.mp3	25	100	21105	Elias Thorne, a seasoned journalist turned historian, found 
 img_1771632199804	V3	2026-02-21T00:03:20.545Z	-	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771632199804.png	-	23	100	21439	<b>Mister</b> Thorne, a man whose weary eyes held the weight
 img_1771606096231	V3	2026-02-20T16:48:16.778Z	https://youtu.be/Ow4XnSnosoI	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771606096231.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771606096231_panel1_narration.mp3	21	100	19850	Old Elara, an oracle of forgotten lore, sat, the scent of fr
