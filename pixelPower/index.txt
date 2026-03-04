@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-03T12:20:56.896Z
+# Updated: 2026-03-04T18:11:52.000Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 350
+# Sessions: 354
 #
+img_1771941888338	V3	2026-02-24T14:04:49.053Z	https://youtu.be/w7LwF0qZcnQ	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771941888338.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771941888338_panel1_narration.mp3	23	100	22134	Kael, an aging and weary replicant operator, meticulously lo
+img_1771963823466	V3	2026-02-24T20:10:24.225Z	https://youtu.be/F7qiUafIpPA	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771963823466.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771963823466_panel1_narration.mp3	25	100	23454	Elias Thorne, a seasoned cyberpunk investigator, felt a fami
+img_1771997823406	V3	2026-02-25T05:37:04.096Z	https://youtu.be/FkNEWigBH8E	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771997823406.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771997823406_panel1_narration.mp3	22	100	24769	Retired Jacky, once a dauntless intelligence agent, felt a h
+img_1772032059550	V3	2026-02-25T15:07:40.317Z	https://youtu.be/V5Wl3uprdWM	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772032059550.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772032059550_panel1_narration.mp3	25	100	21585	Elias, once a virtuoso juggler whose repertoire was textbook
 img_1771925842624	V3	2026-02-24T09:37:23.317Z	https://youtu.be/_XDNgdwN7-s	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771925842624.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771925842624_panel1_narration.mp3	25	100	20920	An aging, reclusive former operative, currently inactive aft
 img_1771888293702	V3	2026-02-23T23:11:34.465Z	https://youtu.be/OvZ_PuKfLdc	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771888293702.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771888293702_panel1_narration.mp3	24	100	21657	Dr. Aris Thorne, a grizzled hunter of ancient legends, found
 img_1771864108760	V3	2026-02-23T16:28:29.421Z	https://youtu.be/c5_ivKqecgI	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771864108760.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771864108760_panel1_narration.mp3	24	100	23974	Arthur Vance, a regular man pushing fifty, found simple deli
