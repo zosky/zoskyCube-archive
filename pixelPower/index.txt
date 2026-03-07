@@ -1,8 +1,15 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-05T16:52:02.672Z
+# Updated: 2026-03-07T16:52:21.350Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 356
+# Sessions: 363
 #
+img_1772134049816	V3	2026-02-26T19:27:30.588Z	https://youtu.be/pjuWnmEWvKY	https://archive.zoskycube.com/pixelPower/2026/02/img_1772134049816.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772134049816_panel1_narration.mp3	25	100	23338	A grizzled, noir lawyer with a fixed mindset, past his prime
+img_1772152684806	V3	2026-02-27T00:38:05.443Z	https://youtu.be/zv2AlArSwi8	https://archive.zoskycube.com/pixelPower/2026/02/img_1772152684806.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772152684806_panel1_narration.mp3	21	100	23096	A seasoned traveler, his face etched with the lines of many 
+img_1772200327014	V3	2026-02-27T13:52:07.720Z	https://youtu.be/sbiOpaVk0XI	https://archive.zoskycube.com/pixelPower/2026/02/img_1772200327014.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772200327014_panel1_narration.mp3	27	100	20521	The waking city, already darker under a sky of industrial oi
+img_1772228467035	V3	2026-02-27T21:41:07.779Z	https://youtu.be/u2pBeYDjumc	https://archive.zoskycube.com/pixelPower/2026/02/img_1772228467035.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772228467035_panel1_narration.mp3	26	100	23053	Veteran explorer, Elara Vance, a woman with a lifetime of su
+img_1772246940343	V3	2026-02-28T02:49:01.072Z	https://youtu.be/IMXmAUco3Lw	https://archive.zoskycube.com/pixelPower/2026/02/img_1772246940343.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772246940343_panel1_narration.mp3	18	100	24347	Agnes, a frumpy woman in her late 50s, had lovingly maintain
+img_1772275105213	V3	2026-02-28T10:38:25.898Z	https://youtu.be/_f82mLPtmFk	https://archive.zoskycube.com/pixelPower/2026/02/img_1772275105213.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772275105213_panel1_narration.mp3	23	100	22396	Kael, a former senior scout now a seemingly slacker living i
+img_1772294530110	V3	2026-02-28T16:02:10.711Z	https://youtu.be/-N42c4CLbKw	https://archive.zoskycube.com/pixelPower/2026/02/img_1772294530110.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772294530110_panel1_narration.mp3	21	100	22273	Elias, a trusted man with an aristocrat's bearing, lived a l
 img_1772082523146	V3	2026-02-26T05:08:43.771Z	https://youtu.be/Yd-cBUlnLvc	https://archive.zoskycube.com/pixelPower/2026/02/img_1772082523146.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772082523146_panel1_narration.mp3	25	100	21620	A wrinkled former deckhand, now a raconteur known as Old Sil
 img_1772110644375	V3	2026-02-26T12:57:25.016Z	https://youtu.be/aWf8BDOudJ0	https://archive.zoskycube.com/pixelPower/2026/02/img_1772110644375.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1772110644375_panel1_narration.mp3	27	100	22353	The graying grandpa, a retired collector, sat at his desk, h
 img_1771941888338	V3	2026-02-24T14:04:49.053Z	https://youtu.be/w7LwF0qZcnQ	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771941888338.png	https://zosky.github.io/zoskyCube-archive/pixelPower/2026/02/img_1771941888338_panel1_narration.mp3	23	100	22134	Kael, an aging and weary replicant operator, meticulously lo
