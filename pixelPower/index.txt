@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-20T15:42:11.852Z
+# Updated: 2026-03-22T16:42:04.699Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 407
+# Sessions: 413
 #
+img_1773439616995	V3	2026-03-13T22:06:57.673Z	https://youtu.be/j5KSyqvqHHE	https://archive.zoskycube.com/pixelPower/2026/03/img_1773439616995.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773439616995_panel1_narration.mp3	23	100	21265	A nascent newbie, I tried to notice the lowbrow style of mat
+img_1773456304464	V3	2026-03-14T02:45:05.190Z	https://youtu.be/kBh9MhaAtBI	https://archive.zoskycube.com/pixelPower/2026/03/img_1773456304464.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773456304464_panel1_narration.mp3	20	100	24649	Detective Kael, an introverted cybersecurity expert, embrace
+img_1773501816928	V3	2026-03-14T15:23:37.817Z	https://youtu.be/z8HLiA2NKGY	https://archive.zoskycube.com/pixelPower/2026/03/img_1773501816928.png	-	24	100	23350	During the annual festival, a special time of holidays in ab
+img_1773532461254	V3	2026-03-14T23:54:22.132Z	https://youtu.be/4dWp59Rs_KI	https://archive.zoskycube.com/pixelPower/2026/03/img_1773532461254.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773532461254_panel1_narration.mp3	25	100	20990	Our protagonist, a cyber-ranger known as the "Decker," felt 
+img_1773550237901	V3	2026-03-15T04:50:45.425Z	https://youtu.be/hcSQWI8BaJg	https://archive.zoskycube.com/pixelPower/2026/03/img_1773550237901.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773550237901_panel1_narration.mp3	17	100	26508	A wannabe hero, tired from his day job as a hairdresser and 
+img_1773579892075	V3	2026-03-15T13:04:52.945Z	https://youtu.be/cDY1mhepbFU	https://archive.zoskycube.com/pixelPower/2026/03/img_1773579892075.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773579892075_panel1_narration.mp3	18	100	25296	As dawn's electric light pierced the greenhouse, a sense of 
 img_1772814849076	V3	2026-03-06T16:34:09.862Z	https://youtu.be/mwoTGR0FJI4	https://archive.zoskycube.com/pixelPower/2026/03/img_1772814849076.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1772814849076_panel1_narration.mp3	25	100	20274	In a `wealthy`, `neon`, and often `narrow` sector, a celebra
 img_1772831631653	V3	2026-03-06T21:13:52.305Z	https://youtu.be/MJs7_2lUPFQ	https://archive.zoskycube.com/pixelPower/2026/03/img_1772831631653.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1772831631653_panel1_narration.mp3	23	100	21296	Our darling protagonist, a callow bachelor, found simple rel
 img_1772847672676	V5	2026-03-07T01:41:13.804Z	-	https://archive.zoskycube.com/pixelPower/2026/03/img_1772847672676.png	-	23	100	21296	Our darling protagonist, a sagacious merchant with a fond at
