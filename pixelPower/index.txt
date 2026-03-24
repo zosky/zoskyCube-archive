@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-22T16:42:04.699Z
+# Updated: 2026-03-24T17:42:08.626Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 413
+# Sessions: 419
 #
+img_1773613079697	V3	2026-03-15T22:18:00.491Z	https://youtu.be/MOtAZciWs2E	https://archive.zoskycube.com/pixelPower/2026/03/img_1773613079697.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773613079697_panel1_narration.mp3	26	100	23366	The village held a ceremonial `kickoff` under the `monsoon` 
+img_1773650113816	V3	2026-03-16T08:35:22.522Z	https://youtu.be/skeyeMLqXuc	https://archive.zoskycube.com/pixelPower/2026/03/img_1773650113816.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773650113816_panel1_narration.mp3	19	100	23161	Our protagonist, a nebbish scholar from a faraway university
+img_1773672683080	V3	2026-03-16T14:51:23.974Z	https://youtu.be/Bv_IMa6Okw4	https://archive.zoskycube.com/pixelPower/2026/03/img_1773672683080.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773672683080_panel1_narration.mp3	21	100	22108	Our protagonist, a retired professional jogger, now living i
+img_1773696917585	V3	2026-03-16T21:35:18.477Z	https://youtu.be/6h9CQJz2lgw	https://archive.zoskycube.com/pixelPower/2026/03/img_1773696917585.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773696917585_panel1_narration.mp3	21	100	23843	Elara, a jealous amateur alchemist, tried to justify the con
+img_1773734079158	V3	2026-03-17T07:54:39.896Z	https://youtu.be/J1t3WjIV5wc	https://archive.zoskycube.com/pixelPower/2026/03/img_1773734079158.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773734079158_panel1_narration.mp3	20	100	25964	Jacky, an oddball raconteur and spokesman for multiplayer ga
+img_1773750650669	V3	2026-03-17T12:30:51.521Z	https://youtu.be/Tz0wMYHUBP8	https://archive.zoskycube.com/pixelPower/2026/03/img_1773750650669.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773750650669_panel1_narration.mp3	16	100	26560	Retired from a career of writing about abstruse philology, P
 img_1773439616995	V3	2026-03-13T22:06:57.673Z	https://youtu.be/j5KSyqvqHHE	https://archive.zoskycube.com/pixelPower/2026/03/img_1773439616995.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773439616995_panel1_narration.mp3	23	100	21265	A nascent newbie, I tried to notice the lowbrow style of mat
 img_1773456304464	V3	2026-03-14T02:45:05.190Z	https://youtu.be/kBh9MhaAtBI	https://archive.zoskycube.com/pixelPower/2026/03/img_1773456304464.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773456304464_panel1_narration.mp3	20	100	24649	Detective Kael, an introverted cybersecurity expert, embrace
 img_1773501816928	V3	2026-03-14T15:23:37.817Z	https://youtu.be/z8HLiA2NKGY	https://archive.zoskycube.com/pixelPower/2026/03/img_1773501816928.png	-	24	100	23350	During the annual festival, a special time of holidays in ab
