@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-24T17:42:08.626Z
+# Updated: 2026-03-26T18:42:16.173Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 419
+# Sessions: 425
 #
+img_1773772921471	V3	2026-03-17T18:42:02.260Z	https://youtu.be/v4JckMOULq8	https://archive.zoskycube.com/pixelPower/2026/03/img_1773772921471.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773772921471_panel1_narration.mp3	21	100	24698	Alex, a `writer` known for her `vividly` `memorized` tales, 
+img_1773811441570	V3	2026-03-18T05:24:02.288Z	https://youtu.be/wrplGnXSEsE	https://archive.zoskycube.com/pixelPower/2026/03/img_1773811441570.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773811441570_panel1_narration.mp3	26	100	23002	Nighthawk, a professional falcon and survivor, felt like a d
+img_1773844836957	V3	2026-03-18T14:40:37.573Z	https://youtu.be/iQGYs1F66NQ	https://archive.zoskycube.com/pixelPower/2026/03/img_1773844836957.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773844836957_panel1_narration.mp3	25	100	24831	Under the scorching sun, a thoughtful lone worker, long deta
+img_1773861232611	V3	2026-03-18T19:13:53.401Z	https://youtu.be/6xx6mMenBWo	https://archive.zoskycube.com/pixelPower/2026/03/img_1773861232611.png	-	22	100	26001	The daytime revealed a utopian promise, yet a hairline fract
+img_1773884868270	V3	2026-03-19T01:47:49.064Z	https://youtu.be/OM1eJ5EYjuw	https://archive.zoskycube.com/pixelPower/2026/03/img_1773884868270.png	-	25	100	21612	In an old farmhouse by offshore winds, young Elara, known fo
+img_1773919588852	V3	2026-03-19T11:26:29.655Z	https://youtu.be/W5qVRzeYC8c	https://archive.zoskycube.com/pixelPower/2026/03/img_1773919588852.png	-	26	100	20840	Kael, an outcast machinist in a voxel-rendered workshop, cra
 img_1773613079697	V3	2026-03-15T22:18:00.491Z	https://youtu.be/MOtAZciWs2E	https://archive.zoskycube.com/pixelPower/2026/03/img_1773613079697.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773613079697_panel1_narration.mp3	26	100	23366	The village held a ceremonial `kickoff` under the `monsoon` 
 img_1773650113816	V3	2026-03-16T08:35:22.522Z	https://youtu.be/skeyeMLqXuc	https://archive.zoskycube.com/pixelPower/2026/03/img_1773650113816.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773650113816_panel1_narration.mp3	19	100	23161	Our protagonist, a nebbish scholar from a faraway university
 img_1773672683080	V3	2026-03-16T14:51:23.974Z	https://youtu.be/Bv_IMa6Okw4	https://archive.zoskycube.com/pixelPower/2026/03/img_1773672683080.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773672683080_panel1_narration.mp3	21	100	22108	Our protagonist, a retired professional jogger, now living i
