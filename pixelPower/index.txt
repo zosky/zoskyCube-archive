@@ -1,8 +1,15 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-26T18:42:16.173Z
+# Updated: 2026-03-28T19:42:18.202Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 425
+# Sessions: 432
 #
+img_1773946028979	V3	2026-03-19T18:47:09.672Z	https://youtu.be/f8hXPZUMdx8	https://archive.zoskycube.com/pixelPower/2026/03/img_1773946028979.png	-	26	100	20823	A hardworking valedictorian, born with a smart mind, often f
+img_1773963312227	V3	2026-03-19T23:35:13.045Z	https://youtu.be/RfaZor-NXlU	https://archive.zoskycube.com/pixelPower/2026/03/img_1773963312227.png	-	23	100	23193	Kai, a juvenile orphan, spent her days reading old journals 
+img_1773982329567	V3	2026-03-20T04:52:10.602Z	https://youtu.be/TJzUm9f6Cu0	https://archive.zoskycube.com/pixelPower/2026/03/img_1773982329567.png	-	19	100	23740	Norman, a handsome but unliked gladiator, entered the witchy
+img_1774022483719	V3	2026-03-20T16:01:24.306Z	https://youtu.be/_i_u0xz83kk	https://archive.zoskycube.com/pixelPower/2026/03/img_1774022483719.png	-	24	100	21382	The hapless grownup backpacker, a vested keeper and lover of
+img_1774049602023	V3	2026-03-20T23:33:30.848Z	https://youtu.be/SyY2agRJFW0	https://archive.zoskycube.com/pixelPower/2026/03/img_1774049602023.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774049602023_panel1_narration.mp3	24	100	21238	A warrior, haunted by an imperfect backstory and the unjust 
+img_1774071005147	V3	2026-03-21T05:30:05.913Z	https://youtu.be/eV5WMSE6kZ0	https://archive.zoskycube.com/pixelPower/2026/03/img_1774071005147.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774071005147_panel1_narration.mp3	21	100	22308	Beneath the sunshine in his mundane apartment, a peculiar or
+img_1774092804595	V3	2026-03-21T11:33:25.264Z	https://youtu.be/Rr4fBfq2-G8	https://archive.zoskycube.com/pixelPower/2026/03/img_1774092804595.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774092804595_panel1_narration.mp3	21	100	24820	In the sprawling urban dystopia, Elara, a prodigy who had ma
 img_1773772921471	V3	2026-03-17T18:42:02.260Z	https://youtu.be/v4JckMOULq8	https://archive.zoskycube.com/pixelPower/2026/03/img_1773772921471.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773772921471_panel1_narration.mp3	21	100	24698	Alex, a `writer` known for her `vividly` `memorized` tales, 
 img_1773811441570	V3	2026-03-18T05:24:02.288Z	https://youtu.be/wrplGnXSEsE	https://archive.zoskycube.com/pixelPower/2026/03/img_1773811441570.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773811441570_panel1_narration.mp3	26	100	23002	Nighthawk, a professional falcon and survivor, felt like a d
 img_1773844836957	V3	2026-03-18T14:40:37.573Z	https://youtu.be/iQGYs1F66NQ	https://archive.zoskycube.com/pixelPower/2026/03/img_1773844836957.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1773844836957_panel1_narration.mp3	25	100	24831	Under the scorching sun, a thoughtful lone worker, long deta
