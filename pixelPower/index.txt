@@ -1,8 +1,15 @@
 # Pixel Power Archive Index
-# Updated: 2026-03-28T19:42:18.202Z
+# Updated: 2026-03-30T20:42:22.667Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 432
+# Sessions: 439
 #
+img_1774131548063	V3	2026-03-21T22:19:08.725Z	https://youtu.be/4hKUGS94ywg	https://archive.zoskycube.com/pixelPower/2026/03/img_1774131548063.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774131548063_panel1_narration.mp3	25	100	22469	In the darkest outer sectors, a looming gentrification proje
+img_1774162638481	V3	2026-03-22T06:57:19.161Z	https://youtu.be/mFiUh02evDI	https://archive.zoskycube.com/pixelPower/2026/03/img_1774162638481.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774162638481_panel1_narration.mp3	24	100	23497	Kael, a scruffy hacker and underdog, had a vast backlog of c
+img_1774180336782	V3	2026-03-22T11:52:17.440Z	https://youtu.be/iYyQWY_SC0M	https://archive.zoskycube.com/pixelPower/2026/03/img_1774180336782.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774180336782_panel1_narration.mp3	19	100	23818	Within their retro-futuristic home, a nexus of abandoned glo
+img_1774195339419	V3	2026-03-22T16:02:20.141Z	https://youtu.be/NTSACgzOeJM	https://archive.zoskycube.com/pixelPower/2026/03/img_1774195339419.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774195339419_panel1_narration.mp3	22	100	24072	The `oligarch` `influencer`, `vaguely` remembered Earth's `m
+img_1774249786415	V3	2026-03-23T07:09:47.069Z	https://youtu.be/tB3CVEBDmhY	https://archive.zoskycube.com/pixelPower/2026/03/img_1774249786415.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774249786415_panel1_narration.mp3	28	100	22073	The `upscale` `terraria` city, its `vast` `nanotubes` formin
+img_1774271873509	V3	2026-03-23T13:17:54.128Z	https://youtu.be/4zq1L2t4oqk	https://archive.zoskycube.com/pixelPower/2026/03/img_1774271873509.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774271873509_panel1_narration.mp3	18	100	22789	Our protagonist, an outgoing and courageous accountant, Kael
+img_1774286667501	V3	2026-03-23T17:24:28.185Z	https://youtu.be/_UVB_31pZaM	https://archive.zoskycube.com/pixelPower/2026/03/img_1774286667501.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774286667501_panel1_narration.mp3	21	100	23573	As a seasoned `network` `editor`, Elara possessed an innate 
 img_1773946028979	V3	2026-03-19T18:47:09.672Z	https://youtu.be/f8hXPZUMdx8	https://archive.zoskycube.com/pixelPower/2026/03/img_1773946028979.png	-	26	100	20823	A hardworking valedictorian, born with a smart mind, often f
 img_1773963312227	V3	2026-03-19T23:35:13.045Z	https://youtu.be/RfaZor-NXlU	https://archive.zoskycube.com/pixelPower/2026/03/img_1773963312227.png	-	23	100	23193	Kai, a juvenile orphan, spent her days reading old journals 
 img_1773982329567	V3	2026-03-20T04:52:10.602Z	https://youtu.be/TJzUm9f6Cu0	https://archive.zoskycube.com/pixelPower/2026/03/img_1773982329567.png	-	19	100	23740	Norman, a handsome but unliked gladiator, entered the witchy
