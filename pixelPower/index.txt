@@ -1,8 +1,15 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-01T21:42:23.263Z
+# Updated: 2026-04-03T22:42:29.373Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 445
+# Sessions: 452
 #
+img_1774478702771	V3	2026-03-25T22:45:03.504Z	https://youtu.be/M8cgXiH6GfA	https://archive.zoskycube.com/pixelPower/2026/03/img_1774478702771.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774478702771_panel1_narration.mp3	26	100	23839	On the highland, a hefty task awaited a group of juveniles, 
+img_1774494703645	V3	2026-03-26T03:11:44.142Z	https://youtu.be/h7qWFSEpKzo	https://archive.zoskycube.com/pixelPower/2026/03/img_1774494703645.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774494703645_panel1_narration.mp3	18	100	25529	The old builder, known for his naivety, would often looky at
+img_1774524633629	V3	2026-03-26T11:30:34.279Z	https://youtu.be/kTcSsX-v5Ao	https://archive.zoskycube.com/pixelPower/2026/03/img_1774524633629.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774524633629_panel1_narration.mp3	22	100	23583	A young living tinkerer, known for his geekery and wanderlus
+img_1774555796057	V3	2026-03-26T20:09:56.727Z	https://youtu.be/e5o0GT3ms3Q	https://archive.zoskycube.com/pixelPower/2026/03/img_1774555796057.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774555796057_panel1_narration.mp3	26	100	23185	Despite the tiredness from a weekend spent sifting through b
+img_1774588053492	V3	2026-03-27T05:07:34.179Z	https://youtu.be/TTW67E3Te5U	https://archive.zoskycube.com/pixelPower/2026/03/img_1774588053492.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774588053492_panel1_narration.mp3	25	100	22183	On a remote, dry island in a forgotten world, an old lumberj
+img_1774609671743	V3	2026-03-27T11:07:52.216Z	https://youtu.be/VHgi5yJtJHw	https://archive.zoskycube.com/pixelPower/2026/03/img_1774609671743.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774609671743_panel1_narration.mp3	21	100	23837	From his dusty attic perch, the maestro of forgotten games, 
+img_1774628143933	V3	2026-03-27T16:15:44.514Z	https://youtu.be/tPL4YR_Hm08	https://archive.zoskycube.com/pixelPower/2026/03/img_1774628143933.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774628143933_panel1_narration.mp3	23	100	24212	At daybreak, the nonconformist astronomer, deep in melanchol
 img_1774307844747	V3	2026-03-23T23:17:33.484Z	https://youtu.be/MrujN2QEI_I	https://archive.zoskycube.com/pixelPower/2026/03/img_1774307844747.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774307844747_panel1_narration.mp3	27	100	20686	The meticulous manager of mankind's grand wolfberry farm on 
 img_1774351871843	V3	2026-03-24T11:31:12.440Z	https://youtu.be/XsKImwUL6PM	https://archive.zoskycube.com/pixelPower/2026/03/img_1774351871843.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774351871843_panel1_narration.mp3	26	100	23131	The gigantic space station, once a forsaken relic, now achie
 img_1774374320307	V3	2026-03-24T17:45:20.948Z	https://youtu.be/R3cg1qcSDPY	https://archive.zoskycube.com/pixelPower/2026/03/img_1774374320307.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774374320307_panel1_narration.mp3	27	100	22542	In a secluded neighborhood where felicity often felt like an
