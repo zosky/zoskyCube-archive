@@ -1,8 +1,16 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-03T22:42:29.373Z
+# Updated: 2026-04-05T23:42:28.649Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 452
+# Sessions: 460
 #
+img_1774657968620	V3	2026-03-28T00:32:49.232Z	https://youtu.be/jU16TFg3FDM	https://archive.zoskycube.com/pixelPower/2026/03/img_1774657968620.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774657968620_panel1_narration.mp3	24	100	23780	Within the Ninth Orbital Hegemony, a janitor named Jax worke
+img_1774694633979	V3	2026-03-28T10:43:54.702Z	https://youtu.be/gB0rfUb1bxE	https://archive.zoskycube.com/pixelPower/2026/03/img_1774694633979.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774694633979_panel1_narration.mp3	23	100	22621	A unique dweller in a shacky housing unit, often mocked for 
+img_1774711488347	V3	2026-03-28T15:24:49.102Z	https://youtu.be/knN3fkD_jCA	https://archive.zoskycube.com/pixelPower/2026/03/img_1774711488347.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774711488347_panel1_narration.mp3	20	100	26103	A weary cyborg wanderer, with lilac ocular implants, stood o
+img_1774731948096	V3	2026-03-28T21:05:48.689Z	https://youtu.be/4GdPzP0vl84	https://archive.zoskycube.com/pixelPower/2026/03/img_1774731948096.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774731948096_panel1_narration.mp3	25	100	23517	Elias, a taciturn former champion of a forgotten kriegspiel,
+img_1774764479330	V3	2026-03-29T06:07:59.915Z	https://youtu.be/1oWvQ1mbSPs	https://archive.zoskycube.com/pixelPower/2026/03/img_1774764479330.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774764479330_panel1_narration.mp3	25	100	20826	A solitary, minimalistic gardener, living within domestic wa
+img_1774795655898	V3	2026-03-29T14:47:36.535Z	https://youtu.be/rsfaaZTHONg	https://archive.zoskycube.com/pixelPower/2026/03/img_1774795655898.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774795655898_panel1_narration.mp3	28	100	21832	Our junior sailor, partway through an experiment on other-wo
+img_1774808605201	V3	2026-03-29T18:23:25.794Z	https://youtu.be/vaujNjtJYV0	https://archive.zoskycube.com/pixelPower/2026/03/img_1774808605201.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774808605201_panel1_narration.mp3	25	100	23675	The neurotic goalkeeper, largely genial but uxorious, saw hi
+img_1774821370952	V3	2026-03-29T21:56:11.567Z	https://youtu.be/M_u2lBEpCYM	https://archive.zoskycube.com/pixelPower/2026/03/img_1774821370952.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774821370952_panel1_narration.mp3	23	100	25462	In a `cyberpunk` `galaxy`, `unfortunately` beset by `mediocr
 img_1774478702771	V3	2026-03-25T22:45:03.504Z	https://youtu.be/M8cgXiH6GfA	https://archive.zoskycube.com/pixelPower/2026/03/img_1774478702771.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774478702771_panel1_narration.mp3	26	100	23839	On the highland, a hefty task awaited a group of juveniles, 
 img_1774494703645	V3	2026-03-26T03:11:44.142Z	https://youtu.be/h7qWFSEpKzo	https://archive.zoskycube.com/pixelPower/2026/03/img_1774494703645.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774494703645_panel1_narration.mp3	18	100	25529	The old builder, known for his naivety, would often looky at
 img_1774524633629	V3	2026-03-26T11:30:34.279Z	https://youtu.be/kTcSsX-v5Ao	https://archive.zoskycube.com/pixelPower/2026/03/img_1774524633629.png	https://archive.zoskycube.com/pixelPower/2026/03/img_1774524633629_panel1_narration.mp3	22	100	23583	A young living tinkerer, known for his geekery and wanderlus
