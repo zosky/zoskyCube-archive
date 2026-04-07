@@ -1,20 +1,20 @@
-timestamp,steamid,username,cost,gamename
-2026-04-01T13:01:43.882Z,2386310,madagascaradam,89368,Ultros
-2026-04-02T21:24:21.100Z,303210,zoskycube,222800,The Beginner's Guide
-2026-04-02T22:53:24.384Z,640880,daniempirerevolution,25423,Hyper Sentinel
-2026-04-02T23:02:26.233Z,1703140,valase,78960,Isle of Jura
-2026-04-03T04:20:24.950Z,341940,slay_da_b,32001,Hatred
-2026-04-03T14:58:34.072Z,621830,jaxjaxus,59660,WRC 7 FIA World Rally Championship
-2026-04-03T20:53:57.309Z,2322830,smogracing,227860,Hot Lap Racing
-2026-04-04T05:31:49.666Z,1004750,jaxjaxus,72900,WRC 8 FIA World Rally Championship
-2026-04-04T06:26:10.488Z,621830,alburldador,59660,WRC 7 FIA World Rally Championship
-2026-04-04T12:53:40.337Z,1949190,pika_gamy,88784,Necrosmith
-2026-04-04T18:17:47.745Z,968250,rzvlover,73404,King of Retail
-2026-04-05T00:47:32.038Z,1220150,darkgammeth,83200,Blue Fire
-2026-04-05T12:47:58.372Z,1220150,shadowladyex,83200,Blue Fire
-2026-04-05T17:38:49.036Z,1163740,alfims,67968,Card Hog
-2026-04-06T03:27:38.396Z,1671720,thanossoul,157824,Athenian Rhapsody
-2026-04-06T07:13:11.600Z,2509120,slay_da_b,61056,AtmaSphere 2
-2026-04-06T09:07:34.171Z,934700,yurigiu,391376,Dead Island 2
-2026-04-06T11:20:29.442Z,468100,alburldador,42732,AquaMoto + SnowMoto Racing Utopia
-2026-04-06T18:39:34.309Z,1676910,klon302,28480,Onde
+timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
+2026-04-01T13:01:43.882Z,2386310,madagascaradam,89368,,1,0,Ultros
+2026-04-02T21:24:21.100Z,303210,zoskycube,222800,,1,105,The Beginner's Guide
+2026-04-02T22:53:24.384Z,640880,daniempirerevolution,25423,,1,0,Hyper Sentinel
+2026-04-02T23:02:26.233Z,1703140,valase,78960,,1,0,Isle of Jura
+2026-04-03T04:20:24.950Z,341940,slay_da_b,32001,,1,164,Hatred
+2026-04-03T14:58:34.072Z,621830,jaxjaxus,59660,,1,110,WRC 7 FIA World Rally Championship
+2026-04-03T20:53:57.309Z,2322830,smogracing,227860,,1,0,Hot Lap Racing
+2026-04-04T05:31:49.666Z,1004750,jaxjaxus,72900,,1,0,WRC 8 FIA World Rally Championship
+2026-04-04T06:26:10.488Z,621830,alburldador,59660,,1,0,WRC 7 FIA World Rally Championship
+2026-04-04T12:53:40.337Z,1949190,pika_gamy,88784,,,,Necrosmith
+2026-04-04T18:17:47.745Z,968250,rzvlover,73404,,1,394,King of Retail
+2026-04-05T00:47:32.038Z,1220150,darkgammeth,83200,,1,0,Blue Fire
+2026-04-05T12:47:58.372Z,1220150,shadowladyex,83200,,1,188,Blue Fire
+2026-04-05T17:38:49.036Z,1163740,alfims,67968,,1,90,Card Hog
+2026-04-06T03:27:38.396Z,1671720,thanossoul,157824,,1,0,Athenian Rhapsody
+2026-04-06T07:13:11.600Z,2509120,slay_da_b,61056,,1,167,AtmaSphere 2
+2026-04-06T09:07:34.171Z,934700,yurigiu,391376,,1,0,Dead Island 2
+2026-04-06T11:20:29.442Z,468100,alburldador,42732,,1,0,AquaMoto + SnowMoto Racing Utopia
+2026-04-06T18:39:34.309Z,1676910,klon302,28480,,,,Onde
