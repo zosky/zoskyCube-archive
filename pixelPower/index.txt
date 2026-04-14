@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-12T02:42:44.514Z
+# Updated: 2026-04-14T03:42:49.875Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 479
+# Sessions: 485
 #
+img_1775367282214	V3	2026-04-05T05:34:51.224Z	https://youtu.be/arryn7gyfl8	https://archive.zoskycube.com/pixelPower/2026/04/img_1775367282214.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775367282214_panel1_narration.mp3	22	100	24174	Luckily, Jane, a daredevil from the northern borderlands, fe
+img_1775414429825	V3	2026-04-05T18:40:30.611Z	https://youtu.be/rTaF-ZpzmtI	https://archive.zoskycube.com/pixelPower/2026/04/img_1775414429825.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775414429825_panel1_narration.mp3	27	100	21165	At a vibrant vernissage, the goosy journalist, lately sensin
+img_1775432183620	V3	2026-04-05T23:36:24.410Z	https://youtu.be/6ETken7aOC4	https://archive.zoskycube.com/pixelPower/2026/04/img_1775432183620.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775432183620_panel1_narration.mp3	20	100	24652	A young inventor, often `antisocial` and considered `lesser`
+img_1775458394390	V3	2026-04-06T06:53:15.250Z	https://youtu.be/K8yelecoWyg	https://archive.zoskycube.com/pixelPower/2026/04/img_1775458394390.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775458394390_panel1_narration.mp3	20	100	25174	A blocky jet, moving with thick, strange rhythms, delivered 
+img_1775506940106	V3	2026-04-06T20:22:20.959Z	https://youtu.be/OV-NX43gXXI	https://archive.zoskycube.com/pixelPower/2026/04/img_1775506940106.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775506940106_panel1_narration.mp3	27	100	23472	In the fifteenth cycle, a young prodigy felt deeply out of s
+img_1775525618665	V3	2026-04-07T01:33:39.554Z	https://youtu.be/bJXUDrcFBBw	https://archive.zoskycube.com/pixelPower/2026/04/img_1775525618665.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775525618665_panel1_narration.mp3	19	100	27823	In a sprawling, retro-futuristic workplace, the daily payrol
 img_1775220583405	V3	2026-04-03T12:49:44.222Z	https://youtu.be/63yW2LORB8w	https://archive.zoskycube.com/pixelPower/2026/04/img_1775220583405.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775220583405_panel1_narration.mp3	26	100	21953	Leo, a picker for international independents, often found hi
 img_1775233797684	V3	2026-04-03T16:29:58.553Z	https://youtu.be/WC11ASDQ0d8	https://archive.zoskycube.com/pixelPower/2026/04/img_1775233797684.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775233797684_panel1_narration.mp3	21	100	24860	Woken from a deep sojourn, the deject man pulled his wicker 
 img_1775252647132	V3	2026-04-03T21:44:07.825Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1775252647132.png	-	24	100	22569	Our protagonist, a `historian` dismissed for his `dorkiness`
