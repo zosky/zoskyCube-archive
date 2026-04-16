@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-14T03:42:49.875Z
+# Updated: 2026-04-16T04:42:50.324Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 485
+# Sessions: 489
 #
+img_1775551480371	V3	2026-04-07T08:44:41.169Z	https://youtu.be/x1kdvXVw-PI	https://archive.zoskycube.com/pixelPower/2026/04/img_1775551480371.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775551480371_panel1_narration.mp3	22	100	24376	Captain Whacker, a janitor in wooly pyjama, weakly masked hi
+img_1775605522270	V3	2026-04-07T23:45:23.006Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1775605522270.png	-	26	100	21604	Bobby, a hardworking sentry for the embassy, huffed as he fi
+img_1775636642121	V3	2026-04-08T08:24:03.191Z	https://youtu.be/GKBWpD89Njg	https://archive.zoskycube.com/pixelPower/2026/04/img_1775636642121.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775636642121_panel1_narration.mp3	18	100	24528	The city buzzed with `tremors`, an `itchy warning` of impend
+img_1775667867992	V3	2026-04-08T17:04:28.945Z	https://youtu.be/7CqcbCsojaE	https://archive.zoskycube.com/pixelPower/2026/04/img_1775667867992.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775667867992_panel1_narration.mp3	20	100	24276	The internaut Jessamine, a playful spirit amongst the mocker
 img_1775367282214	V3	2026-04-05T05:34:51.224Z	https://youtu.be/arryn7gyfl8	https://archive.zoskycube.com/pixelPower/2026/04/img_1775367282214.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775367282214_panel1_narration.mp3	22	100	24174	Luckily, Jane, a daredevil from the northern borderlands, fe
 img_1775414429825	V3	2026-04-05T18:40:30.611Z	https://youtu.be/rTaF-ZpzmtI	https://archive.zoskycube.com/pixelPower/2026/04/img_1775414429825.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775414429825_panel1_narration.mp3	27	100	21165	At a vibrant vernissage, the goosy journalist, lately sensin
 img_1775432183620	V3	2026-04-05T23:36:24.410Z	https://youtu.be/6ETken7aOC4	https://archive.zoskycube.com/pixelPower/2026/04/img_1775432183620.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775432183620_panel1_narration.mp3	20	100	24652	A young inventor, often `antisocial` and considered `lesser`
