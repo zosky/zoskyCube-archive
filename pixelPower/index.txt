@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-16T04:42:50.324Z
+# Updated: 2026-04-18T05:42:56.921Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 489
+# Sessions: 495
 #
+img_1775715182032	V3	2026-04-09T06:13:02.633Z	https://youtu.be/QhsnmKnnU6c	https://archive.zoskycube.com/pixelPower/2026/04/img_1775715182032.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775715182032_panel1_narration.mp3	21	100	21208	Initially, a lone nomad, once a brawler, walked through the 
+img_1775738218622	V3	2026-04-09T12:36:59.484Z	https://youtu.be/gRri0eQY3bQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1775738218622.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775738218622_panel1_narration.mp3	20	100	21596	Aunty Agnes, a slightly older woman who was usually quite se
+img_1775760066910	V3	2026-04-09T18:41:07.859Z	https://youtu.be/ArL3vDUC8Dk	https://archive.zoskycube.com/pixelPower/2026/04/img_1775760066910.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775760066910_panel1_narration.mp3	23	100	23800	Halfway across the offshore rig, a homesick bachelor, typica
+img_1775811996563	V3	2026-04-10T09:06:37.318Z	https://youtu.be/d-Fmz7KgZUY	https://archive.zoskycube.com/pixelPower/2026/04/img_1775811996563.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775811996563_panel1_narration.mp3	23	100	22260	A lone female dweller, known for her unique perspective, tru
+img_1775831334275	V3	2026-04-10T14:28:54.915Z	https://youtu.be/mTu9WZ3lWuQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1775831334275.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775831334275_panel1_narration.mp3	19	100	26603	Tonight, the handsome hacker, known only by his online alias
+img_1775861338372	V3	2026-04-10T22:48:58.875Z	https://youtu.be/zEeH3ILjI_k	https://archive.zoskycube.com/pixelPower/2026/04/img_1775861338372.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775861338372_panel1_narration.mp3	21	100	23465	Jan, a boyish warden of forgotten tech, maintained a meticul
 img_1775551480371	V3	2026-04-07T08:44:41.169Z	https://youtu.be/x1kdvXVw-PI	https://archive.zoskycube.com/pixelPower/2026/04/img_1775551480371.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775551480371_panel1_narration.mp3	22	100	24376	Captain Whacker, a janitor in wooly pyjama, weakly masked hi
 img_1775605522270	V3	2026-04-07T23:45:23.006Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1775605522270.png	-	26	100	21604	Bobby, a hardworking sentry for the embassy, huffed as he fi
 img_1775636642121	V3	2026-04-08T08:24:03.191Z	https://youtu.be/GKBWpD89Njg	https://archive.zoskycube.com/pixelPower/2026/04/img_1775636642121.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775636642121_panel1_narration.mp3	18	100	24528	The city buzzed with `tremors`, an `itchy warning` of impend
