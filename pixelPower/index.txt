@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-18T05:42:56.921Z
+# Updated: 2026-04-20T06:43:00.472Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 495
+# Sessions: 501
 #
+img_1775909703068	V3	2026-04-11T12:15:03.919Z	https://youtu.be/JoJENjNSdlQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1775909703068.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775909703068_panel1_narration.mp3	26	100	21452	At the entire train station, a strange teenager with an upbe
+img_1775924005836	V3	2026-04-11T16:13:26.434Z	https://youtu.be/WdsSifVGp6M	https://archive.zoskycube.com/pixelPower/2026/04/img_1775924005836.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775924005836_panel1_narration.mp3	18	100	22301	Commander Kael, a vigilant warrior with a `freckle` on his c
+img_1775951526810	V3	2026-04-11T23:52:07.747Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1775951526810.png	-	26	100	22867	In a world where machinery intertwined with forgotten lore, 
+img_1776004537782	V3	2026-04-12T14:35:38.524Z	https://youtu.be/3DpzYgjoR9A	https://archive.zoskycube.com/pixelPower/2026/04/img_1776004537782.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776004537782_panel1_narration.mp3	27	100	21731	Our junior worker, often lacked respect among the dukes of t
+img_1776019837701	V3	2026-04-12T18:50:38.299Z	https://youtu.be/KEQz8Q_uiFQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776019837701.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776019837701_panel1_narration.mp3	21	100	23756	A young intern, a kalmuck by heritage, spent her days inking
+img_1776059863636	V3	2026-04-13T05:57:44.516Z	https://youtu.be/yJcjfDijdIA	https://archive.zoskycube.com/pixelPower/2026/04/img_1776059863636.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776059863636_panel1_narration.mp3	23	100	21326	Dr. Aris, a knowledgeable but mildly reclusive scientist, ma
 img_1775715182032	V3	2026-04-09T06:13:02.633Z	https://youtu.be/QhsnmKnnU6c	https://archive.zoskycube.com/pixelPower/2026/04/img_1775715182032.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775715182032_panel1_narration.mp3	21	100	21208	Initially, a lone nomad, once a brawler, walked through the 
 img_1775738218622	V3	2026-04-09T12:36:59.484Z	https://youtu.be/gRri0eQY3bQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1775738218622.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775738218622_panel1_narration.mp3	20	100	21596	Aunty Agnes, a slightly older woman who was usually quite se
 img_1775760066910	V3	2026-04-09T18:41:07.859Z	https://youtu.be/ArL3vDUC8Dk	https://archive.zoskycube.com/pixelPower/2026/04/img_1775760066910.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775760066910_panel1_narration.mp3	23	100	23800	Halfway across the offshore rig, a homesick bachelor, typica
