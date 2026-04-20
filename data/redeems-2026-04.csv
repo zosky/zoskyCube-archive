@@ -13,7 +13,7 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-04-05T00:47:32.038Z,1220150,darkgammeth,83200,,1,0,Blue Fire
 2026-04-05T12:47:58.372Z,1220150,shadowladyex,83200,,1,1250,Blue Fire
 2026-04-05T17:38:49.036Z,1163740,alfims,67968,,1,90,Card Hog
-2026-04-06T03:27:38.396Z,1671720,thanossoul,157824,,1,309,Athenian Rhapsody
+2026-04-06T03:27:38.396Z,1671720,thanossoul,157824,,1,417,Athenian Rhapsody
 2026-04-06T07:13:11.600Z,2509120,slay_da_b,61056,,1,200,AtmaSphere 2
 2026-04-06T09:07:34.171Z,934700,yurigiu,391376,,1,0,Dead Island 2
 2026-04-06T11:20:29.442Z,468100,alburldador,42732,,1,0,AquaMoto + SnowMoto Racing Utopia
@@ -40,8 +40,8 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-04-13T12:45:12.499Z,330020,irblacky,95680,0,0,,Children of Morta
 2026-04-13T13:10:07.308Z,1231990,shadowladyex,256640,0,0,,Gestalt: Steam & Cinder
 2026-04-13T16:09:13.459Z,242700,giggadigga69,102240,0,,,Injustice: Gods Among Us Ultimate Edition
-2026-04-13T20:55:10.868Z,2272400,alburldador,49248,0,1,0,Station to Station
-2026-04-14T14:04:39.635Z,1288410,pika_gamy,67392,0,0,,Outshine
+2026-04-13T20:55:10.868Z,2272400,alburldador,49248,0,1,39,Station to Station
+2026-04-14T14:04:39.635Z,1288410,pika_gamy,67392,0,1,0,Outshine
 2026-04-14T14:42:54.709Z,1269950,player0451,32464,0,1,222,Buddy Simulator 1984
 2026-04-15T20:50:08.121Z,258890,rzvlover,55088,0,1,134,Type:Rider
 2026-04-16T00:14:21.852Z,1231990,zoskycube,115800,0,1,181,Gestalt: Steam & Cinder
@@ -54,5 +54,5 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-04-16T23:04:28.249Z,366870,madagascaradam,85248,0,1,0,Narcosis
 2026-04-17T15:11:31.700Z,1802880,madagascaradam,154784,0,1,0,The Devil Within: Satgat
 2026-04-17T19:32:43.780Z,3145620,dahhel,48000,0,1,84,Without a Dawn
-2026-04-18T11:18:58.132Z,400910,cliffelee,244864,0,1,205,Rabi-Ribi
+2026-04-18T11:18:58.132Z,400910,cliffelee,244864,0,1,225,Rabi-Ribi
 2026-04-18T19:07:53.904Z,2330380,alburldador,58752,0,1,0,Golf VS Zombies
