@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-20T06:43:00.472Z
+# Updated: 2026-04-22T07:43:02.321Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 501
+# Sessions: 506
 #
+img_1776092846729	V3	2026-04-13T15:07:27.318Z	https://youtu.be/G5WnkZwMdgA	https://archive.zoskycube.com/pixelPower/2026/04/img_1776092846729.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776092846729_panel1_narration.mp3	26	100	23656	From a unique point of view, the impending collapse of the v
+img_1776113805335	V3	2026-04-13T20:56:46.164Z	https://youtu.be/tlMcWf70pJw	https://archive.zoskycube.com/pixelPower/2026/04/img_1776113805335.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776113805335_panel1_narration.mp3	23	100	23609	A subtle tremor ran through the antiquated settlement on the
+img_1776147487071	V3	2026-04-14T06:18:15.726Z	https://youtu.be/hEA9ydMq11Q	https://archive.zoskycube.com/pixelPower/2026/04/img_1776147487071.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776147487071_panel1_narration.mp3	24	100	24063	Frankly, the lovely nymph, known for her monkish habits, was
+img_1776177585181	V3	2026-04-14T14:39:45.817Z	https://youtu.be/N-2eoTpQ5TY	https://archive.zoskycube.com/pixelPower/2026/04/img_1776177585181.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776177585181_panel1_narration.mp3	28	100	21593	In a time of increasingly experimental thinking, an egghead 
+img_1776216634682	V3	2026-04-15T01:30:35.464Z	https://youtu.be/dfb34faK4Vo	https://archive.zoskycube.com/pixelPower/2026/04/img_1776216634682.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776216634682_panel1_narration.mp3	23	100	23322	In a hazy, mazed lowland, an outsider, unworthy and unoffici
 img_1775909703068	V3	2026-04-11T12:15:03.919Z	https://youtu.be/JoJENjNSdlQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1775909703068.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775909703068_panel1_narration.mp3	26	100	21452	At the entire train station, a strange teenager with an upbe
 img_1775924005836	V3	2026-04-11T16:13:26.434Z	https://youtu.be/WdsSifVGp6M	https://archive.zoskycube.com/pixelPower/2026/04/img_1775924005836.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1775924005836_panel1_narration.mp3	18	100	22301	Commander Kael, a vigilant warrior with a `freckle` on his c
 img_1775951526810	V3	2026-04-11T23:52:07.747Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1775951526810.png	-	26	100	22867	In a world where machinery intertwined with forgotten lore, 
