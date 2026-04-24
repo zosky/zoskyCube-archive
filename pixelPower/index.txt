@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-22T07:43:02.321Z
+# Updated: 2026-04-24T08:43:02.420Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 506
+# Sessions: 511
 #
+img_1776251283630	V3	2026-04-15T11:08:04.610Z	https://youtu.be/Z3npOgEH8eY	https://archive.zoskycube.com/pixelPower/2026/04/img_1776251283630.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776251283630_panel1_narration.mp3	18	100	23793	It was the dawning of a new era, but the old tavern still bu
+img_1776286949368	V3	2026-04-15T21:02:38.141Z	https://youtu.be/5prhDCa7MIQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776286949368.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776286949368_panel1_narration.mp3	26	100	20207	The city's neon backdrop glowed, framing the sakura petals f
+img_1776325557203	V3	2026-04-16T07:45:57.934Z	https://youtu.be/s4_uoSTV0eQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776325557203.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776325557203_panel1_narration.mp3	18	100	21021	Amidst much backlogs, the doughty, resilient clerk felt whel
+img_1776347595553	V3	2026-04-16T13:53:16.304Z	https://youtu.be/2Xlac0eI0ag	https://archive.zoskycube.com/pixelPower/2026/04/img_1776347595553.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776347595553_panel1_narration.mp3	20	100	21069	Kael, a celebrated racer and brilliant inventor, had settled
+img_1776376574053	V3	2026-04-16T21:56:14.824Z	https://youtu.be/ct5EFI_0uMU	https://archive.zoskycube.com/pixelPower/2026/04/img_1776376574053.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776376574053_panel1_narration.mp3	26	100	22007	A jaded analyst, one of eleven, watched the tech world evolv
 img_1776092846729	V3	2026-04-13T15:07:27.318Z	https://youtu.be/G5WnkZwMdgA	https://archive.zoskycube.com/pixelPower/2026/04/img_1776092846729.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776092846729_panel1_narration.mp3	26	100	23656	From a unique point of view, the impending collapse of the v
 img_1776113805335	V3	2026-04-13T20:56:46.164Z	https://youtu.be/tlMcWf70pJw	https://archive.zoskycube.com/pixelPower/2026/04/img_1776113805335.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776113805335_panel1_narration.mp3	23	100	23609	A subtle tremor ran through the antiquated settlement on the
 img_1776147487071	V3	2026-04-14T06:18:15.726Z	https://youtu.be/hEA9ydMq11Q	https://archive.zoskycube.com/pixelPower/2026/04/img_1776147487071.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776147487071_panel1_narration.mp3	24	100	24063	Frankly, the lovely nymph, known for her monkish habits, was
