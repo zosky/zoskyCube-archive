@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-24T08:43:02.420Z
+# Updated: 2026-04-26T09:43:11.440Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 511
+# Sessions: 517
 #
+img_1776423772444	V3	2026-04-17T11:03:01.533Z	https://youtu.be/JPKCBuIU-kQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776423772444.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776423772444_panel1_narration.mp3	22	100	21221	In a new `millennium`, Elara, a `candidate` for advanced `cl
+img_1776438991946	V3	2026-04-17T15:16:32.696Z	https://youtu.be/ACfRIJP_xkc	https://archive.zoskycube.com/pixelPower/2026/04/img_1776438991946.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776438991946_panel1_narration.mp3	21	100	21984	Elara, a kindhearted former classmate, often found herself s
+img_1776470312976	V3	2026-04-17T23:58:33.935Z	https://youtu.be/QgLIPufbVJg	https://archive.zoskycube.com/pixelPower/2026/04/img_1776470312976.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776470312976_panel1_narration.mp3	28	100	19000	The exotic autumn landscape, often viewed as art, felt dull 
+img_1776522985654	V3	2026-04-18T14:36:26.206Z	https://youtu.be/ikJ4h5iVUwQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776522985654.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776522985654_panel1_narration.mp3	29	100	20532	A carefree loner, known for deejaying and his habit of eatin
+img_1776539748143	V3	2026-04-18T19:15:48.885Z	https://youtu.be/jTdW2TOz_AU	https://archive.zoskycube.com/pixelPower/2026/04/img_1776539748143.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776539748143_panel1_narration.mp3	21	100	23298	Amidst the sterile dorm and its perceived academic neutralit
+img_1776564236377	V3	2026-04-19T02:04:04.865Z	https://youtu.be/QWsXSLTgdW0	https://archive.zoskycube.com/pixelPower/2026/04/img_1776564236377.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776564236377_panel1_narration.mp3	26	100	20313	The veteran educator, now officially designated, stood vigil
 img_1776251283630	V3	2026-04-15T11:08:04.610Z	https://youtu.be/Z3npOgEH8eY	https://archive.zoskycube.com/pixelPower/2026/04/img_1776251283630.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776251283630_panel1_narration.mp3	18	100	23793	It was the dawning of a new era, but the old tavern still bu
 img_1776286949368	V3	2026-04-15T21:02:38.141Z	https://youtu.be/5prhDCa7MIQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776286949368.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776286949368_panel1_narration.mp3	26	100	20207	The city's neon backdrop glowed, framing the sakura petals f
 img_1776325557203	V3	2026-04-16T07:45:57.934Z	https://youtu.be/s4_uoSTV0eQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776325557203.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776325557203_panel1_narration.mp3	18	100	21021	Amidst much backlogs, the doughty, resilient clerk felt whel
