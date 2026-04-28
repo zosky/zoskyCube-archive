@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-26T09:43:11.440Z
+# Updated: 2026-04-28T10:43:14.103Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 517
+# Sessions: 523
 #
+img_1776601570491	V3	2026-04-19T12:26:11.269Z	https://youtu.be/b4A5rFWJs0M	https://archive.zoskycube.com/pixelPower/2026/04/img_1776601570491.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776601570491_panel1_narration.mp3	23	100	19170	Decades of failing infrastructure led to a graduals decline,
+img_1776630096723	V3	2026-04-19T20:21:37.506Z	https://youtu.be/sB8HzOjq0UY	https://archive.zoskycube.com/pixelPower/2026/04/img_1776630096723.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776630096723_panel1_narration.mp3	26	100	21451	The reclusive, `indecisive` `author`, often dismissed as an 
+img_1776655848315	V3	2026-04-20T03:30:49.051Z	https://youtu.be/ryKviHJ7Or4	https://archive.zoskycube.com/pixelPower/2026/04/img_1776655848315.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776655848315_panel1_narration.mp3	22	100	21823	A grand, bejeweled leader, a maverick airman known for his e
+img_1776686230096	V3	2026-04-20T11:57:10.909Z	https://youtu.be/gluDa6CnWTE	https://archive.zoskycube.com/pixelPower/2026/04/img_1776686230096.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776686230096_panel1_narration.mp3	23	100	22887	In the opulent, yet abandoned city, a gray usurper had risen
+img_1776724030863	V3	2026-04-20T22:27:11.508Z	https://youtu.be/4Pu7hYaibTk	https://archive.zoskycube.com/pixelPower/2026/04/img_1776724030863.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776724030863_panel1_narration.mp3	31	100	13145	The forgotten `tideway` to an `aurora` once fueled `filmmaki
+img_1776751439096	V3	2026-04-21T06:03:59.743Z	https://youtu.be/gu45VG3DjsM	https://archive.zoskycube.com/pixelPower/2026/04/img_1776751439096.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776751439096_panel1_narration.mp3	23	100	11106	The intro to the endless cyberpunk cityscape was lit by the 
 img_1776423772444	V3	2026-04-17T11:03:01.533Z	https://youtu.be/JPKCBuIU-kQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1776423772444.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776423772444_panel1_narration.mp3	22	100	21221	In a new `millennium`, Elara, a `candidate` for advanced `cl
 img_1776438991946	V3	2026-04-17T15:16:32.696Z	https://youtu.be/ACfRIJP_xkc	https://archive.zoskycube.com/pixelPower/2026/04/img_1776438991946.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776438991946_panel1_narration.mp3	21	100	21984	Elara, a kindhearted former classmate, often found herself s
 img_1776470312976	V3	2026-04-17T23:58:33.935Z	https://youtu.be/QgLIPufbVJg	https://archive.zoskycube.com/pixelPower/2026/04/img_1776470312976.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776470312976_panel1_narration.mp3	28	100	19000	The exotic autumn landscape, often viewed as art, felt dull 
