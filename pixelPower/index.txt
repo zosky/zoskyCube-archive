@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-04-28T10:43:14.103Z
+# Updated: 2026-04-30T11:43:20.033Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 523
+# Sessions: 528
 #
+img_1776782477910	V3	2026-04-21T14:41:18.729Z	https://youtu.be/QVY5Ptp-tSs	https://archive.zoskycube.com/pixelPower/2026/04/img_1776782477910.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776782477910_panel1_narration.mp3	26	100	11285	A lonely juggler with a vibrant personality performed his sh
+img_1776822016343	V3	2026-04-22T01:40:17.083Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1776822016343.png	-	29	100	10781	Earlier, in the brushy junkyard, their freedom felt kaput, a
+img_1776858329791	V3	2026-04-22T11:45:30.517Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1776858329791.png	-	25	100	13141	A mediocre, hackneyed existence filled with the offputting a
+img_1776891252092	V3	2026-04-22T20:54:12.801Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1776891252092.png	-	27	100	12982	The diligent cyborg, a polished singer and drummer, spent we
+img_1776928104134	V3	2026-04-23T07:08:24.833Z	https://youtu.be/EDRRkzalvCo	https://archive.zoskycube.com/pixelPower/2026/04/img_1776928104134.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776928104134_panel1_narration.mp3	23	100	11046	The newcomers found their scholarship to the old-fashioned e
 img_1776601570491	V3	2026-04-19T12:26:11.269Z	https://youtu.be/b4A5rFWJs0M	https://archive.zoskycube.com/pixelPower/2026/04/img_1776601570491.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776601570491_panel1_narration.mp3	23	100	19170	Decades of failing infrastructure led to a graduals decline,
 img_1776630096723	V3	2026-04-19T20:21:37.506Z	https://youtu.be/sB8HzOjq0UY	https://archive.zoskycube.com/pixelPower/2026/04/img_1776630096723.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776630096723_panel1_narration.mp3	26	100	21451	The reclusive, `indecisive` `author`, often dismissed as an 
 img_1776655848315	V3	2026-04-20T03:30:49.051Z	https://youtu.be/ryKviHJ7Or4	https://archive.zoskycube.com/pixelPower/2026/04/img_1776655848315.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776655848315_panel1_narration.mp3	22	100	21823	A grand, bejeweled leader, a maverick airman known for his e
