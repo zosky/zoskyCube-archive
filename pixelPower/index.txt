@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-02T12:43:24.408Z
+# Updated: 2026-05-04T13:43:34.079Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 533
+# Sessions: 538
 #
+img_1777132081776	V3	2026-04-25T15:48:02.465Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777132081776.png	-	20	100	13540	In the `ultramarine` `hotspot` of a hidden `valley`, `settle
+img_1777162396434	V3	2026-04-26T00:13:17.150Z	https://youtu.be/HcwS36rlmJ8	https://archive.zoskycube.com/pixelPower/2026/04/img_1777162396434.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777162396434_panel1_narration.mp3	23	100	13861	At the heart of the gigantic factory, the brilliant female e
+img_1777212273619	V3	2026-04-26T14:04:34.197Z	https://youtu.be/0hxomfxZ4ZE	https://archive.zoskycube.com/pixelPower/2026/04/img_1777212273619.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777212273619_panel1_narration.mp3	29	100	11544	The disgraced astronaut, a former inquisitor in a tattered t
+img_1777231610467	V3	2026-04-26T19:26:51.010Z	https://youtu.be/b4BdKo5Rb5s	https://archive.zoskycube.com/pixelPower/2026/04/img_1777231610467.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777231610467_panel1_narration.mp3	24	100	13233	A highly capable, telegenic native of the advanced skyscrape
+img_1777283335697	V3	2026-04-27T09:48:56.679Z	https://youtu.be/2iRvlA7hkGA	https://archive.zoskycube.com/pixelPower/2026/04/img_1777283335697.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777283335697_panel1_narration.mp3	25	100	13090	Elara, a retired journalist and former adjunct to the empire
 img_1776946682503	V3	2026-04-23T12:18:03.376Z	https://youtu.be/-ysldIRfjtI	https://archive.zoskycube.com/pixelPower/2026/04/img_1776946682503.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776946682503_panel1_narration.mp3	25	100	13481	The reclusive architect, a true genius, meticulously studied
 img_1776971953648	V3	2026-04-23T19:19:14.471Z	https://youtu.be/-jcxkYcsTfU	https://archive.zoskycube.com/pixelPower/2026/04/img_1776971953648.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1776971953648_panel1_narration.mp3	25	100	13852	Our protagonist, an omniscient but objective manager, harbor
 img_1777042762573	V3	2026-04-24T14:59:23.037Z	https://youtu.be/xoQ_NPPkIAM	https://archive.zoskycube.com/pixelPower/2026/04/img_1777042762573.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777042762573_panel1_narration.mp3	21	100	13632	Nighthawk, an outlander from the highland, known for his out
