@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-04T13:43:34.079Z
+# Updated: 2026-05-06T14:43:40.995Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 538
+# Sessions: 544
 #
+img_1777306293898	V3	2026-04-27T16:11:34.428Z	https://youtu.be/HVOzF0CLnXc	https://archive.zoskycube.com/pixelPower/2026/04/img_1777306293898.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777306293898_panel1_narration.mp3	27	100	12021	A newly-promoted historian, a woman in bespoke khaki, enjoye
+img_1777330158273	V3	2026-04-27T22:49:19.067Z	https://youtu.be/93xlGGnxRJc	https://archive.zoskycube.com/pixelPower/2026/04/img_1777330158273.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777330158273_panel1_narration.mp3	24	100	13943	Dr. Aris, a renowned father with a brilliant daughter, lived
+img_1777380918282	V3	2026-04-28T12:55:19.136Z	https://youtu.be/Cq4ToZF46yg	https://archive.zoskycube.com/pixelPower/2026/04/img_1777380918282.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777380918282_panel1_narration.mp3	25	100	13670	Under the streaked night, a vulnerable grandfather, peering 
+img_1777409519766	V3	2026-04-28T20:52:00.583Z	https://youtu.be/AybMys0mAnw	https://archive.zoskycube.com/pixelPower/2026/04/img_1777409519766.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777409519766_panel1_narration.mp3	24	100	13847	Elara, a dreamer with a perpetually curious mind, found hers
+img_1777438785641	V3	2026-04-29T04:59:46.478Z	https://youtu.be/y-MkI6HhPxA	https://archive.zoskycube.com/pixelPower/2026/04/img_1777438785641.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777438785641_panel1_narration.mp3	21	100	14203	Jack, a grizzled mechanic, felt perpetually ticked off by th
+img_1777471858139	V3	2026-04-29T14:10:59.019Z	https://youtu.be/7aym7HbHlrc	https://archive.zoskycube.com/pixelPower/2026/04/img_1777471858139.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777471858139_panel1_narration.mp3	25	100	13936	Elara, a seemingly bashful featherhead, held a crucial vocat
 img_1777132081776	V3	2026-04-25T15:48:02.465Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777132081776.png	-	20	100	13540	In the `ultramarine` `hotspot` of a hidden `valley`, `settle
 img_1777162396434	V3	2026-04-26T00:13:17.150Z	https://youtu.be/HcwS36rlmJ8	https://archive.zoskycube.com/pixelPower/2026/04/img_1777162396434.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777162396434_panel1_narration.mp3	23	100	13861	At the heart of the gigantic factory, the brilliant female e
 img_1777212273619	V3	2026-04-26T14:04:34.197Z	https://youtu.be/0hxomfxZ4ZE	https://archive.zoskycube.com/pixelPower/2026/04/img_1777212273619.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777212273619_panel1_narration.mp3	29	100	11544	The disgraced astronaut, a former inquisitor in a tattered t
