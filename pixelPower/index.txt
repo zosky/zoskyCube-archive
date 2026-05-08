@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-06T14:43:40.995Z
+# Updated: 2026-05-08T15:43:46.267Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 544
+# Sessions: 550
 #
+img_1777502514145	V3	2026-04-29T22:41:54.942Z	https://youtu.be/gHElCiNdbwQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1777502514145.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777502514145_panel1_narration.mp3	29	100	11292	A solitary oarsman, Kael, propelled his vessel through the m
+img_1777531865527	V3	2026-04-30T06:51:06.354Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777531865527.png	-	19	100	13736	Max, an astrophysics student at the university, often felt d
+img_1777567598098	V3	2026-04-30T16:46:38.857Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777567598098.png	-	29	100	12113	Our protagonist, a wanderer who backpacked through forgotten
+img_1777597655447	V3	2026-05-01T01:07:36.095Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1777597655447.png	-	24	100	12347	In the greenhouse, a hairy squirrel was nibbling a strawberr
+img_1777616830624	V3	2026-05-01T06:27:11.491Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1777616830624.png	-	25	100	14364	In the large northland orchard, a grizzled lumberjack, nearl
+img_1777646284478	V3	2026-05-01T14:38:05.362Z	https://youtu.be/M6uZ7xiqwI8	https://archive.zoskycube.com/pixelPower/2026/05/img_1777646284478.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777646284478_panel1_narration.mp3	26	100	13540	Molly, a chubby woman with an offset cowlick, found her day 
 img_1777306293898	V3	2026-04-27T16:11:34.428Z	https://youtu.be/HVOzF0CLnXc	https://archive.zoskycube.com/pixelPower/2026/04/img_1777306293898.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777306293898_panel1_narration.mp3	27	100	12021	A newly-promoted historian, a woman in bespoke khaki, enjoye
 img_1777330158273	V3	2026-04-27T22:49:19.067Z	https://youtu.be/93xlGGnxRJc	https://archive.zoskycube.com/pixelPower/2026/04/img_1777330158273.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777330158273_panel1_narration.mp3	24	100	13943	Dr. Aris, a renowned father with a brilliant daughter, lived
 img_1777380918282	V3	2026-04-28T12:55:19.136Z	https://youtu.be/Cq4ToZF46yg	https://archive.zoskycube.com/pixelPower/2026/04/img_1777380918282.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777380918282_panel1_narration.mp3	25	100	13670	Under the streaked night, a vulnerable grandfather, peering 
