@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-08T15:43:46.267Z
+# Updated: 2026-05-10T16:43:45.470Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 550
+# Sessions: 555
 #
+img_1777693852328	V3	2026-05-02T03:50:52.993Z	https://youtu.be/B7ATak4Sroc	https://archive.zoskycube.com/pixelPower/2026/05/img_1777693852328.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777693852328_panel1_narration.mp3	24	100	11080	The scruffy barber in a middle-tier dojo felt like a turnkey
+img_1777713731351	V3	2026-05-02T09:22:12.171Z	https://youtu.be/WYW-ho5SIHY	https://archive.zoskycube.com/pixelPower/2026/05/img_1777713731351.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777713731351_panel1_narration.mp3	21	100	15161	Jones, known for his unique collection of eighty antique ref
+img_1777751847587	V3	2026-05-02T19:57:28.225Z	https://youtu.be/hmQ2L0rWHxM	https://archive.zoskycube.com/pixelPower/2026/05/img_1777751847587.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777751847587_panel1_narration.mp3	25	100	11949	Chapman, peering through his window at the sunset over the f
+img_1777794701583	V3	2026-05-03T07:51:42.222Z	https://youtu.be/38FYE3m8SRU	https://archive.zoskycube.com/pixelPower/2026/05/img_1777794701583.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777794701583_panel1_narration.mp3	26	100	11336	Within the domed metro, an ownsome gardener pursued alien ho
+img_1777809782416	V3	2026-05-03T12:03:03.129Z	https://youtu.be/sva6xibUBZI	https://archive.zoskycube.com/pixelPower/2026/05/img_1777809782416.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777809782416_panel1_narration.mp3	21	100	14481	A jobless programmer, a true prodigy, felt a colicky unease 
 img_1777502514145	V3	2026-04-29T22:41:54.942Z	https://youtu.be/gHElCiNdbwQ	https://archive.zoskycube.com/pixelPower/2026/04/img_1777502514145.png	https://archive.zoskycube.com/pixelPower/2026/04/img_1777502514145_panel1_narration.mp3	29	100	11292	A solitary oarsman, Kael, propelled his vessel through the m
 img_1777531865527	V3	2026-04-30T06:51:06.354Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777531865527.png	-	19	100	13736	Max, an astrophysics student at the university, often felt d
 img_1777567598098	V3	2026-04-30T16:46:38.857Z	-	https://archive.zoskycube.com/pixelPower/2026/04/img_1777567598098.png	-	29	100	12113	Our protagonist, a wanderer who backpacked through forgotten
