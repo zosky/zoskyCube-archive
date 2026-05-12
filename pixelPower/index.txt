@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-10T16:43:45.470Z
+# Updated: 2026-05-12T17:43:53.667Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 555
+# Sessions: 561
 #
+img_1777835970338	V3	2026-05-03T19:19:31.066Z	https://youtu.be/xe68Q1IaTOA	https://archive.zoskycube.com/pixelPower/2026/05/img_1777835970338.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777835970338_panel1_narration.mp3	28	100	10722	Elara, an affable economist, easily dismissed the anxiety th
+img_1777890520414	V3	2026-05-04T10:28:41.126Z	https://youtu.be/GdegZApV07A	https://archive.zoskycube.com/pixelPower/2026/05/img_1777890520414.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777890520414_panel1_narration.mp3	28	100	10775	The unkempt ranger, employed by a general administrator in a
+img_1777905228030	V3	2026-05-04T14:33:48.880Z	https://youtu.be/zNZYCpo1I3M	https://archive.zoskycube.com/pixelPower/2026/05/img_1777905228030.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777905228030_panel1_narration.mp3	21	100	13549	In the early morning, the antique clock in Elias's living qu
+img_1777934476487	V3	2026-05-04T22:41:17.199Z	https://youtu.be/htyOGZHUwk0	https://archive.zoskycube.com/pixelPower/2026/05/img_1777934476487.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777934476487_panel1_narration.mp3	26	100	12277	The wise old gnome undertook a grand makeover of the green l
+img_1777976384445	V3	2026-05-05T10:19:45.163Z	https://youtu.be/5JacRip6bi0	https://archive.zoskycube.com/pixelPower/2026/05/img_1777976384445.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777976384445_panel1_narration.mp3	26	100	10745	A legendary mapmaker, usually found in his entrenched jobbin
+img_1777994759530	V3	2026-05-05T15:26:00.060Z	https://youtu.be/3-9N8p-NJQg	https://archive.zoskycube.com/pixelPower/2026/05/img_1777994759530.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777994759530_panel1_narration.mp3	24	100	11811	A wholly good week began, until an orbital anomaly, an oval 
 img_1777693852328	V3	2026-05-02T03:50:52.993Z	https://youtu.be/B7ATak4Sroc	https://archive.zoskycube.com/pixelPower/2026/05/img_1777693852328.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777693852328_panel1_narration.mp3	24	100	11080	The scruffy barber in a middle-tier dojo felt like a turnkey
 img_1777713731351	V3	2026-05-02T09:22:12.171Z	https://youtu.be/WYW-ho5SIHY	https://archive.zoskycube.com/pixelPower/2026/05/img_1777713731351.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777713731351_panel1_narration.mp3	21	100	15161	Jones, known for his unique collection of eighty antique ref
 img_1777751847587	V3	2026-05-02T19:57:28.225Z	https://youtu.be/hmQ2L0rWHxM	https://archive.zoskycube.com/pixelPower/2026/05/img_1777751847587.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777751847587_panel1_narration.mp3	25	100	11949	Chapman, peering through his window at the sunset over the f
