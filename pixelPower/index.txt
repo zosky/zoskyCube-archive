@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-12T17:43:53.667Z
+# Updated: 2026-05-14T18:43:49.990Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 561
+# Sessions: 567
 #
+img_1778012297585	V3	2026-05-05T20:18:18.320Z	https://youtu.be/BhQ_Rojgaac	https://archive.zoskycube.com/pixelPower/2026/05/img_1778012297585.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778012297585_panel1_narration.mp3	23	100	13843	Amidst the `hammam`’s `volumetric` projections, a `veejay` f
+img_1778050237207	V3	2026-05-06T06:50:37.695Z	https://youtu.be/3CDG7jedaO0	https://archive.zoskycube.com/pixelPower/2026/05/img_1778050237207.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778050237207_panel1_narration.mp3	25	100	11820	Jaded Dr. Kael, onboard with his dark vision, watched the ge
+img_1778084190879	V3	2026-05-06T16:16:31.579Z	https://youtu.be/zjEi0pJim5Y	https://archive.zoskycube.com/pixelPower/2026/05/img_1778084190879.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778084190879_panel1_narration.mp3	27	100	10395	The young duchess, having undertaken a significant upswing i
+img_1778105091235	V3	2026-05-06T22:04:51.874Z	https://youtu.be/Iiv3k-PJJNM	https://archive.zoskycube.com/pixelPower/2026/05/img_1778105091235.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778105091235_panel1_narration.mp3	23	100	12523	The dandified paymaster, with his handsome but pawky grin, h
+img_1778133392888	V3	2026-05-07T05:56:41.670Z	https://youtu.be/V8KXrgE91Wo	https://archive.zoskycube.com/pixelPower/2026/05/img_1778133392888.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778133392888_panel1_narration.mp3	19	100	14358	Ejected from his family, the maladjusted dropout sat by the 
+img_1778165222656	V3	2026-05-07T14:47:06.952Z	https://youtu.be/nbDuPdVVHA4	https://archive.zoskycube.com/pixelPower/2026/05/img_1778165222656.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778165222656_panel1_narration.mp3	21	100	11932	Despite her shabby appearance, the refugee with the fluffy u
 img_1777835970338	V3	2026-05-03T19:19:31.066Z	https://youtu.be/xe68Q1IaTOA	https://archive.zoskycube.com/pixelPower/2026/05/img_1777835970338.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777835970338_panel1_narration.mp3	28	100	10722	Elara, an affable economist, easily dismissed the anxiety th
 img_1777890520414	V3	2026-05-04T10:28:41.126Z	https://youtu.be/GdegZApV07A	https://archive.zoskycube.com/pixelPower/2026/05/img_1777890520414.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777890520414_panel1_narration.mp3	28	100	10775	The unkempt ranger, employed by a general administrator in a
 img_1777905228030	V3	2026-05-04T14:33:48.880Z	https://youtu.be/zNZYCpo1I3M	https://archive.zoskycube.com/pixelPower/2026/05/img_1777905228030.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1777905228030_panel1_narration.mp3	21	100	13549	In the early morning, the antique clock in Elias's living qu
