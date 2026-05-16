@@ -1,8 +1,14 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-14T18:43:49.990Z
+# Updated: 2026-05-16T19:43:57.285Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 567
+# Sessions: 573
 #
+img_1778210620220	V3	2026-05-08T03:23:40.948Z	https://youtu.be/8IZETMbMNOg	https://archive.zoskycube.com/pixelPower/2026/05/img_1778210620220.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778210620220_panel1_narration.mp3	24	100	11637	A nameless leader, jonesing for more than payday from janky 
+img_1778235905299	V3	2026-05-08T10:25:05.916Z	https://youtu.be/bR8M7PUclh8	https://archive.zoskycube.com/pixelPower/2026/05/img_1778235905299.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778235905299_panel1_narration.mp3	20	100	15407	In the outlying, grungy corner of his lawn, a newbie invento
+img_1778261859452	V3	2026-05-08T17:37:40.201Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1778261859452.png	-	27	100	13855	Viola, a hybrid illustrator with radical charisma, felt an u
+img_1778306158014	V3	2026-05-09T05:55:58.602Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1778306158014.png	-	28	100	10400	The finicky main avenger, known for his acute elbows, direct
+img_1778325862840	V3	2026-05-09T11:24:23.450Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1778325862840.png	-	18	100	14703	The phantom whicker of data streams in the sprawling ginkgo 
+img_1778354407551	V3	2026-05-09T19:20:08.181Z	https://youtu.be/sZJR1J-qZ-8	https://archive.zoskycube.com/pixelPower/2026/05/img_1778354407551.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778354407551_panel1_narration.mp3	26	100	12272	Bobby, a humble musician, found his recent promotion to a pr
 img_1778012297585	V3	2026-05-05T20:18:18.320Z	https://youtu.be/BhQ_Rojgaac	https://archive.zoskycube.com/pixelPower/2026/05/img_1778012297585.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778012297585_panel1_narration.mp3	23	100	13843	Amidst the `hammam`’s `volumetric` projections, a `veejay` f
 img_1778050237207	V3	2026-05-06T06:50:37.695Z	https://youtu.be/3CDG7jedaO0	https://archive.zoskycube.com/pixelPower/2026/05/img_1778050237207.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778050237207_panel1_narration.mp3	25	100	11820	Jaded Dr. Kael, onboard with his dark vision, watched the ge
 img_1778084190879	V3	2026-05-06T16:16:31.579Z	https://youtu.be/zjEi0pJim5Y	https://archive.zoskycube.com/pixelPower/2026/05/img_1778084190879.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778084190879_panel1_narration.mp3	27	100	10395	The young duchess, having undertaken a significant upswing i
