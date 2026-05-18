@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-16T19:43:57.285Z
+# Updated: 2026-05-18T20:43:56.340Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 573
+# Sessions: 578
 #
+img_1778405527600	V3	2026-05-10T09:32:08.152Z	https://youtu.be/obxFyVjvkgg	https://archive.zoskycube.com/pixelPower/2026/05/img_1778405527600.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778405527600_panel1_narration.mp3	29	100	11669	Our protagonist, a geek in a small canton valley, lived a ra
+img_1778421722644	V3	2026-05-10T14:02:03.352Z	https://youtu.be/Oi1R0bU5liQ	https://archive.zoskycube.com/pixelPower/2026/05/img_1778421722644.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778421722644_panel1_narration.mp3	20	100	15651	In the vast, icebound acreage surrounding the old church, on
+img_1778453394783	V3	2026-05-10T22:49:55.338Z	https://youtu.be/Vjy8ahyOgr4	https://archive.zoskycube.com/pixelPower/2026/05/img_1778453394783.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778453394783_panel1_narration.mp3	23	100	12100	In a quiet village, an ordinary folkway was often disrupted 
+img_1778502730425	V3	2026-05-11T12:32:11.057Z	https://youtu.be/CPtHF1nFTdA	https://archive.zoskycube.com/pixelPower/2026/05/img_1778502730425.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778502730425_panel1_narration.mp3	27	100	11543	Uncle Silas, overtly wearing his waistcoat, tried to cajole 
+img_1778520097207	V3	2026-05-11T17:21:37.867Z	https://youtu.be/fEt7A43NpVc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778520097207.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778520097207_panel1_narration.mp3	21	100	13991	Under the oppressive facade of a seemingly flawless utopia, 
 img_1778210620220	V3	2026-05-08T03:23:40.948Z	https://youtu.be/8IZETMbMNOg	https://archive.zoskycube.com/pixelPower/2026/05/img_1778210620220.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778210620220_panel1_narration.mp3	24	100	11637	A nameless leader, jonesing for more than payday from janky 
 img_1778235905299	V3	2026-05-08T10:25:05.916Z	https://youtu.be/bR8M7PUclh8	https://archive.zoskycube.com/pixelPower/2026/05/img_1778235905299.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778235905299_panel1_narration.mp3	20	100	15407	In the outlying, grungy corner of his lawn, a newbie invento
 img_1778261859452	V3	2026-05-08T17:37:40.201Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1778261859452.png	-	27	100	13855	Viola, a hybrid illustrator with radical charisma, felt an u
