@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-18T20:43:56.340Z
+# Updated: 2026-05-20T21:44:00.508Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 578
+# Sessions: 582
 #
+img_1778552575016	V3	2026-05-12T02:22:55.626Z	https://youtu.be/CagfuV2VAPc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778552575016.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778552575016_panel1_narration.mp3	24	100	13651	Captain Kael, a seasoned karateka with a prosthetic arm, fel
+img_1778604375351	V3	2026-05-12T16:46:16.054Z	https://youtu.be/Q374dfLIIM0	https://archive.zoskycube.com/pixelPower/2026/05/img_1778604375351.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778604375351_panel1_narration.mp3	28	100	11470	In the `vast`, `dusky` `byways` of a forgotten realm, one co
+img_1778639420197	V3	2026-05-13T02:30:20.808Z	https://youtu.be/F4OKK0kECXI	https://archive.zoskycube.com/pixelPower/2026/05/img_1778639420197.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778639420197_panel1_narration.mp3	21	100	13124	The old gaffer, a peculiar baker, lived shacked near the fac
+img_1778693288488	V3	2026-05-13T17:28:09.156Z	https://youtu.be/QG2H0HYPrSc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778693288488.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778693288488_panel1_narration.mp3	26	100	11653	In a world where digital mayhem could vilify even the royal,
 img_1778405527600	V3	2026-05-10T09:32:08.152Z	https://youtu.be/obxFyVjvkgg	https://archive.zoskycube.com/pixelPower/2026/05/img_1778405527600.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778405527600_panel1_narration.mp3	29	100	11669	Our protagonist, a geek in a small canton valley, lived a ra
 img_1778421722644	V3	2026-05-10T14:02:03.352Z	https://youtu.be/Oi1R0bU5liQ	https://archive.zoskycube.com/pixelPower/2026/05/img_1778421722644.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778421722644_panel1_narration.mp3	20	100	15651	In the vast, icebound acreage surrounding the old church, on
 img_1778453394783	V3	2026-05-10T22:49:55.338Z	https://youtu.be/Vjy8ahyOgr4	https://archive.zoskycube.com/pixelPower/2026/05/img_1778453394783.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778453394783_panel1_narration.mp3	23	100	12100	In a quiet village, an ordinary folkway was often disrupted 
