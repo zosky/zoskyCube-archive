@@ -1,8 +1,13 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-20T21:44:00.508Z
+# Updated: 2026-05-22T18:56:57.384Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 582
+# Sessions: 587
 #
+img_1778713642422	V3	2026-05-13T23:07:23.114Z	https://youtu.be/nn_2wm7zQEA	https://archive.zoskycube.com/pixelPower/2026/05/img_1778713642422.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778713642422_panel1_narration.mp3	25	100	13404	During a seemingly peaceful summertime in the downtown distr
+img_1778751306597	V3	2026-05-14T09:35:07.277Z	https://youtu.be/PEsNjhJR0dc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778751306597.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778751306597_panel1_narration.mp3	24	100	10234	Amidst the urbanisation’s glitzy, flowing neon, a rickety ja
+img_1778795963471	V3	2026-05-14T21:59:24.145Z	https://youtu.be/vmqF8A7rkSI	https://archive.zoskycube.com/pixelPower/2026/05/img_1778795963471.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778795963471_panel1_narration.mp3	25	100	11369	Amidst the forest near an old workbench, a chiffchaff sang a
+img_1778821099537	V3	2026-05-15T04:58:20.233Z	https://youtu.be/hD4uUm6KwwU	https://archive.zoskycube.com/pixelPower/2026/05/img_1778821099537.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778821099537_panel1_narration.mp3	19	100	13238	A wealthy thinker, known for his impressive aplomb, strictly
+img_1778859361778	V3	2026-05-15T15:36:02.595Z	https://youtu.be/GSLMepWGyds	https://archive.zoskycube.com/pixelPower/2026/05/img_1778859361778.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778859361778_panel1_narration.mp3	23	100	11978	Suffering a profound depression and a weary hangover, the se
 img_1778552575016	V3	2026-05-12T02:22:55.626Z	https://youtu.be/CagfuV2VAPc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778552575016.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778552575016_panel1_narration.mp3	24	100	13651	Captain Kael, a seasoned karateka with a prosthetic arm, fel
 img_1778604375351	V3	2026-05-12T16:46:16.054Z	https://youtu.be/Q374dfLIIM0	https://archive.zoskycube.com/pixelPower/2026/05/img_1778604375351.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778604375351_panel1_narration.mp3	28	100	11470	In the `vast`, `dusky` `byways` of a forgotten realm, one co
 img_1778639420197	V3	2026-05-13T02:30:20.808Z	https://youtu.be/F4OKK0kECXI	https://archive.zoskycube.com/pixelPower/2026/05/img_1778639420197.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778639420197_panel1_narration.mp3	21	100	13124	The old gaffer, a peculiar baker, lived shacked near the fac
