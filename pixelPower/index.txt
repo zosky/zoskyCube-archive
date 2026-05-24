@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-22T18:56:57.384Z
+# Updated: 2026-05-24T19:56:57.717Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 587
+# Sessions: 591
 #
+img_1778903412815	V3	2026-05-16T03:50:13.489Z	https://youtu.be/tRHnTnVxZdU	https://archive.zoskycube.com/pixelPower/2026/05/img_1778903412815.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778903412815_panel1_narration.mp3	23	100	9323	Dr. Elara, a brilliant builder and understudy, dreamt of a l
+img_1778926200714	V3	2026-05-16T10:10:01.297Z	https://youtu.be/6fak_ssOVOM	https://archive.zoskycube.com/pixelPower/2026/05/img_1778926200714.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778926200714_panel1_narration.mp3	18	100	13615	From his armchair, a solitary gardener meticulously transcri
+img_1778971378393	V3	2026-05-16T22:42:58.997Z	https://youtu.be/-hq7oxk1cFs	https://archive.zoskycube.com/pixelPower/2026/05/img_1778971378393.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778971378393_panel1_narration.mp3	24	100	11591	Elara, a strong and thoughtful girl in her hometown, had see
+img_1779009019339	V3	2026-05-17T09:10:19.971Z	https://youtu.be/LK_hGMt9nP0	https://archive.zoskycube.com/pixelPower/2026/05/img_1779009019339.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779009019339_panel1_narration.mp3	22	100	12752	In a cozy, somewhat eccentric apartment filled with the arom
 img_1778713642422	V3	2026-05-13T23:07:23.114Z	https://youtu.be/nn_2wm7zQEA	https://archive.zoskycube.com/pixelPower/2026/05/img_1778713642422.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778713642422_panel1_narration.mp3	25	100	13404	During a seemingly peaceful summertime in the downtown distr
 img_1778751306597	V3	2026-05-14T09:35:07.277Z	https://youtu.be/PEsNjhJR0dc	https://archive.zoskycube.com/pixelPower/2026/05/img_1778751306597.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778751306597_panel1_narration.mp3	24	100	10234	Amidst the urbanisation’s glitzy, flowing neon, a rickety ja
 img_1778795963471	V3	2026-05-14T21:59:24.145Z	https://youtu.be/vmqF8A7rkSI	https://archive.zoskycube.com/pixelPower/2026/05/img_1778795963471.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778795963471_panel1_narration.mp3	25	100	11369	Amidst the forest near an old workbench, a chiffchaff sang a
