@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-24T19:56:57.717Z
+# Updated: 2026-05-26T20:56:59.135Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 591
+# Sessions: 595
 #
+img_1779053736176	V3	2026-05-17T21:35:36.989Z	https://youtu.be/deQhn0hpBmc	https://archive.zoskycube.com/pixelPower/2026/05/img_1779053736176.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779053736176_panel1_narration.mp3	25	100	10741	Our protagonist, a renowned wanderer and slacker, often foun
+img_1779113465829	V3	2026-05-18T14:11:06.379Z	https://youtu.be/yQyXRGtcRPU	https://archive.zoskycube.com/pixelPower/2026/05/img_1779113465829.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779113465829_panel1_narration.mp3	22	100	11866	Dr. Kael, an unlikeable scientist, maintained absolute uptim
+img_1779158472452	V3	2026-05-19T02:41:20.792Z	https://youtu.be/LBdD9BSRy60	https://archive.zoskycube.com/pixelPower/2026/05/img_1779158472452.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779158472452_panel1_narration.mp3	20	100	13102	The newborn sentinel, Unit-J, patrolled the riverside with h
+img_1779210469631	V3	2026-05-19T17:07:50.226Z	https://youtu.be/EnqLhP5jlYI	https://archive.zoskycube.com/pixelPower/2026/05/img_1779210469631.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779210469631_panel1_narration.mp3	22	100	12850	A solo hobbyist, known for his wish to explore uncharted jun
 img_1778903412815	V3	2026-05-16T03:50:13.489Z	https://youtu.be/tRHnTnVxZdU	https://archive.zoskycube.com/pixelPower/2026/05/img_1778903412815.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778903412815_panel1_narration.mp3	23	100	9323	Dr. Elara, a brilliant builder and understudy, dreamt of a l
 img_1778926200714	V3	2026-05-16T10:10:01.297Z	https://youtu.be/6fak_ssOVOM	https://archive.zoskycube.com/pixelPower/2026/05/img_1778926200714.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778926200714_panel1_narration.mp3	18	100	13615	From his armchair, a solitary gardener meticulously transcri
 img_1778971378393	V3	2026-05-16T22:42:58.997Z	https://youtu.be/-hq7oxk1cFs	https://archive.zoskycube.com/pixelPower/2026/05/img_1778971378393.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1778971378393_panel1_narration.mp3	24	100	11591	Elara, a strong and thoughtful girl in her hometown, had see
