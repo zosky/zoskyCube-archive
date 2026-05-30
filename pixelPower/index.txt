@@ -1,8 +1,12 @@
 # Pixel Power Archive Index
-# Updated: 2026-05-28T21:56:56.810Z
+# Updated: 2026-05-30T22:56:58.408Z
 # Format: ID\tVersion\tDate\tYouTubeURL\tImageURL\tAudioURL\tContributors\tWords\tTotalzC\tTitle
-# Sessions: 599
+# Sessions: 603
 #
+img_1779443369051	V3	2026-05-22T09:49:29.549Z	https://youtu.be/W0P4l1h3S1M	https://archive.zoskycube.com/pixelPower/2026/05/img_1779443369051.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779443369051_panel1_narration.mp3	26	100	12825	Jeepers, the normally vibrant weekend outlook of the jaded c
+img_1779476949877	V3	2026-05-22T19:09:10.510Z	-	https://archive.zoskycube.com/pixelPower/2026/05/img_1779476949877.png	-	26	100	11713	The taciturn scholar, a dame by profession, adjusts her uniq
+img_1779525241675	V3	2026-05-23T08:34:02.340Z	https://youtu.be/evrn2_Fx244	https://archive.zoskycube.com/pixelPower/2026/05/img_1779525241675.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779525241675_panel1_narration.mp3	24	100	11167	A cool, impish handyman with a sharp jawline, recently retur
+img_1779559981781	V3	2026-05-23T18:13:02.381Z	https://youtu.be/DeTDjVXGdEs	https://archive.zoskycube.com/pixelPower/2026/05/img_1779559981781.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779559981781_panel1_narration.mp3	20	100	14335	In their `halcyon` `habitat` nestled beside a futuristic `wi
 img_1779251700352	V3	2026-05-20T04:35:00.972Z	https://youtu.be/cHV7hN3rEns	https://archive.zoskycube.com/pixelPower/2026/05/img_1779251700352.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779251700352_panel1_narration.mp3	21	100	12902	In a foreign, secluded outback, where archaic traditions hel
 img_1779306305081	V3	2026-05-20T19:45:05.831Z	https://youtu.be/l3Nb6nnSPbw	https://archive.zoskycube.com/pixelPower/2026/05/img_1779306305081.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779306305081_panel1_narration.mp3	21	100	12093	Within their pristine mansion, nestled in perpetual winter, 
 img_1779344980989	V3	2026-05-21T06:29:41.694Z	https://youtu.be/guY1XWC_ldQ	https://archive.zoskycube.com/pixelPower/2026/05/img_1779344980989.png	https://archive.zoskycube.com/pixelPower/2026/05/img_1779344980989_panel1_narration.mp3	20	100	13790	The city pulsed with anarchy and traffic, its fracked founda
