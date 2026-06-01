@@ -390,14 +390,13 @@
     "video": "X5o9pTyuiEcFoWTuUYUl.mp4",
     "videoDuration": 59,
     "thumbnail": "X5o9pTyuiEcFoWTuUYUl-thumbnail.png",
-    "banner": "X5o9pTyuiEcFoWTuUYUl-banner.png",
-    "narrationDuration": 72.747917
+    "banner": "X5o9pTyuiEcFoWTuUYUl-banner.png"
   },
   "youtube": null,
   "archive": {
     "baseUrl": "https://archive.zoskycube.com/pixelPower/shorts/X5o9pTyuiEcFoWTuUYUl/"
   },
   "generatedAt": "2026-06-01T10:55:33.730Z",
-  "sidecarGeneratedAt": "2026-06-01T12:22:29.845Z",
+  "sidecarGeneratedAt": "2026-06-01T12:28:00.305Z",
   "pipelineVersion": 7
 }
