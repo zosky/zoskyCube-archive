@@ -379,7 +379,10 @@
     "banner": "MbozZFK4Gksvf4NMtaHz-banner.png",
     "narrationDuration": 57.235458
   },
-  "youtube": null,
+  "youtube": {
+    "id":"c8eqP3QSVHo",
+    "url":"https://youtube.com/shorts/c8eqP3QSVHo",
+  },
   "archive": {
     "baseUrl": "https://archive.zoskycube.com/pixelPower/shorts/MbozZFK4Gksvf4NMtaHz/"
   },
