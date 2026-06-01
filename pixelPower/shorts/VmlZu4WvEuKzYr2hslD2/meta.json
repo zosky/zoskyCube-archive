@@ -393,7 +393,10 @@
     "banner": "VmlZu4WvEuKzYr2hslD2-banner.png",
     "narrationDuration": 56.506708
   },
-  "youtube": null,
+  "youtube": {
+    "id":"CW8pNgOyrA8",
+    "url":"https://youtube.com/shorts/CW8pNgOyrA8",
+  },
   "archive": {
     "baseUrl": "https://archive.zoskycube.com/pixelPower/shorts/VmlZu4WvEuKzYr2hslD2/"
   },
