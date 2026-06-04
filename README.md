@@ -1,2 +1,2 @@
 # zoskyCube-archive
-Archive storage for zoskyCube PixelPower AI-generated images, served via GitHub Pages
+Archive storage for zoskyCube data snapshots, served via GitHub Pages
