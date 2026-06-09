@@ -1,0 +1,20 @@
+---
+title: "- can do /referrals now to see your stats so far today"
+date: 2025-12-13
+timestamp: 2025-12-13T04:33:21.749Z
+discord_message_id: 1449257868456103946
+author: zosky
+channel: announcements
+reactions: 6
+categories: discordCommands,referralRewards
+images:
+  - "assets/anouncmentBanners/2025-12-13-can-do-referrals-now-to-see-your-stats-so-far-toda.png"
+---
+
+- can do `/referrals` now to see your stats so far today 
+- or include a `userName` to peep on anyone else's .... `/referrals @zoskycube`
+- also `/zCubes` ... guess what that will do ... or `/zCubes @someone`
+
+---
+
+![](../../assets/anouncmentBanners/2025-12-13-can-do-referrals-now-to-see-your-stats-so-far-toda.png)
