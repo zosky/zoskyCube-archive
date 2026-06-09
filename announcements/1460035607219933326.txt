@@ -1,0 +1,27 @@
+---
+title: "🛠️ STATE OF THE GAME: MONTH 03 RECALIBRATION"
+date: 2026-01-11
+timestamp: 2026-01-11T22:20:14.911Z
+discord_message_id: 1460035607219933326
+author: zosky
+channel: announcements
+categories: monthly
+reactions: 54
+---
+
+## 🛠️ STATE OF THE GAME: MONTH 03 RECALIBRATION
+-# Someone told me there have been "a lot of changes lately." I found that funny considering the channel isn't 3 months old yet...in fact, that was on the 2 month bday. change is constant and i will do my best to keep it all transparent. One of my all-time favorite games (🌳 I will fight Kuro to prove is better than his fav) has published a monthly *State of the Game* for more than a decade. __That is now my goal for us__ to learn from their longevity & transparency.
+Here is the list of the "latest" changes. remember like iTunes, can skip (to part2 ⬇️), add a reaction, win +250 <:zCube:1439260731399733418> . either way, its happening so TY for putting up with the construction as I continue to rebalance the system for maximum fun.
+## 🚀 NEW SYSTEMS & COMMANDS
+- (Discord) `/estimate steamID`: zBot now checks real-time key prices for any game and guesses its "Store Value" in cubes.
+  - Estimating the same game twice will give different results; that’s just how fast the market moves.
+  - request or cancel. If you ask for 42 AAA games, it is noted. No guarantees!
+  - if you find a hidden gem that hits a new HL, we might all get to join the fun.
+- `!cpr zz` & `!cpr pp`: Channel VIPs are now the official "Pinball Mechanics." 
+  - If the timers get stuck or a round hangs, they can slap the machine to get it back in line. 
+  - *(TY in advance for the help)*
+- I used to be a graphic designer xD ... so expect more eye candy.
+  - Referrals are now graphed.
+  - Weekly redeems are posted as a collage.
+  - [Community Report](https://cdn.discordapp.com/attachments/1437918615104913442/1459638998057357474/localhost_5173_monthly-infographic_4.jpg?ex=6964aaff&is=6963597f&hm=51e46909716b7b2d62f837774e3f1481d41c46dd576cb8ee9646d59d9809c39e) a new monthly infographic is live.
+-# Discord compresses images into oblivion. "Open in Browser" to see it properly, or smash the link
