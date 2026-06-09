@@ -1,0 +1,44 @@
+---
+title: "⚖️ BALANCE FOR FUN: THE SPEED PROTOCOL"
+date: 2026-01-15
+timestamp: 2026-01-15T02:26:08.290Z
+discord_message_id: 1461184650973020170
+author: zosky
+channel: announcements
+reactions: 29
+categories: meh
+images:
+  - "assets/anouncmentBanners/2026-01-15-balance-for-fun-the-speed-protocol.png"
+---
+
+## ⚖️ BALANCE FOR FUN: THE SPEED PROTOCOL
+-# The rebalance is here. @everyone **The mission: Twice as easy to win... half**.
+By making all game loops half as long (and winnings half as much), we can play twice as much. Now you win ||roughly the same amount|| <:zCube:1439260731399733418>  **twice the speed.**
+## 🕹️ __HARD MODE__ ENGAGED
+- **DailyDose** __HardMode__ 
+  - More risk, more reward. Still once every 25 hours, but now limited to 2 vouchers per 48hr stream ~~(was 3)~~.
+  - **Critical**: If you miss your cooldown, you'll need to wait until the next stream starts. No exceptions.
+- **VodVote** __HardMode__: 
+  - Twice as much fun and more chances to win. 
+  - Cooldowns are halved and rewards are halved. 
+  - Play twice as much... double the chance to win (...half).
+- **PixelPower** __HardMode__: 
+  - Recalibrated for pleasure and dopamine. 
+  - Now featuring 12 rounds of 3 words every - 1 word per person, per round. ~~(was 6x6/2pp)~~
+  - ~20 minutes between ~~(was 40)~~
+  - No more hourly limit. Since it’s ~3 rounds per hour at 1 word each, you literally can't hit a limit anymore.
+  - To keep the economy stable at this new speed, **X & Z have been retired from scoring.** 
+    - Use them for the art, but don't expect a payout for "farming" the ends of the alphabet.
+## 📉 THE NOISE TAX
+-# To keep the gears turning smoothly, the system is now taxing "noise."
+- **3 attempts without a valid dictionary word, or spamming words when past the limit.**
+  - 🟨 Yellow Card now make next word worth 50%
+  - 🟨+🟨 = 🟥 (2 Yellow = Red): Your next word is worth exactly 7 <:zCube:1439260731399733418> 
+- Reset as soon as you submit a valid word.
+TLDR: Games are faster and shorter. Winnings are halved but frequency is doubled. 
+Play fair, watch the rounds fly, and avoid the Noise Tax.
+~ z
+
+---
+
+![](../../assets/anouncmentBanners/2026-01-15-balance-for-fun-the-speed-protocol.png)
