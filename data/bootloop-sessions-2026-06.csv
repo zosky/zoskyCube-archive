@@ -1,3 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1781030444151,,false,cpu:gpu:ram:hdd,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1781030749291,,false,cpu:ram:gpu:hdd,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1781032914523,,false,cpu:ram:gpu:hdd,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1781033940026,,false,cpu:ram:hdd:gpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1781035062128,,false,hdd:gpu:cpu:ram,,0,0,0,0,0:0:0:0,,0,0,0
