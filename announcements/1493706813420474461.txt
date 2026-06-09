@@ -1,0 +1,30 @@
+---
+title: "🔄 Word Recycling Update"
+date: 2026-04-14
+timestamp: 2026-04-14T20:17:36.050Z
+discord_message_id: 1493706813420474461
+author: zosky
+channel: announcements
+reactions: 23
+categories: pixelPower,miniGames
+images:
+  - "assets/anouncmentBanners/2026-04-14-word-recycling-update.png"
+---
+
+## 🔄 Word Recycling Update
+-# Following yesterday's anti-fraud announcement, we've also addressed a pattern affecting Pixel Power directly.
+Scans detected a small number of players systematically recycling the same words on a slightly longer rotation then the old cooldown. This made the game harder for everyone, because those recycled words blocked other players from using them, while the recyclers already knew exactly which words to rotate in.
+### 🔀 What's changed:
+- Each word's cooldown window has been extended 
+  - to an undisclosed value, much much larger
+- This originally broke the game (trying to fetch too much data from the DB) 
+- now it loads much more data in a fraction of the time the original approach required
+> I am not pointing fingers at specific individuals. I am only enforcing the correct game mechanics to maintain balance for all players.
+### 📖 TLDR: 
+If your past pixel power play patterns made the game harder for everyone else, please reflect on that.
+
+~z
+
+---
+
+![](../../assets/anouncmentBanners/2026-04-14-word-recycling-update.png)
