@@ -1,0 +1,12 @@
+---
+title: "Hi@everyone few hours ago some of you may have needed to log"
+date: 2026-03-08
+timestamp: 2026-03-08T15:26:57.813Z
+discord_message_id: 1480225321126072450
+author: zosky
+channel: announcements
+categories: meh
+reactions: 48
+---
+
+Hi@everyone few hours ago some of you may have needed to login to SE again - i did ... and before i did -for ~90min- they where throwing 401 "unauthorized" errors, all points handouts failed and vouchers where refunded ... a new API key got cubes flowing again. i cant do much about what happened (at this time)... we move forward, please accept these cubes for the trouble <:zCube:1439260731399733418>
