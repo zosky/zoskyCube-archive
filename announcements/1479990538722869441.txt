@@ -5,7 +5,7 @@ timestamp: 2026-03-07T23:54:01.326Z
 discord_message_id: 1479990538722869441
 author: zosky
 channel: announcements
-categories: meh,discoCommands
+categories: meh,discordCommands
 reactions: 47
 images:
   - "assets/anouncmentBanners/2026-03-07-qol-protocols.png"
