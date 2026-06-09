@@ -1,0 +1,25 @@
+---
+title: "📢 Co-Stream Alert"
+date: 2026-06-03
+timestamp: 2026-03-06T19:11:40.059Z
+discord_message_id: 1511753299358126100
+author: zosky
+channel: announcements
+categories: meh
+reactions: 36
+images:
+  - "2026-06-01-costreaming-fgs-and-pc-game-show.png"
+---
+## 📢  Co-Stream Alert
+hi @everyone, next weekend will be here *soon* & we're gonna try something new... co-streaming **FGS** & **PC Gaming Show**
+-# react below for dem sweet cubes :zCube:  Or don't, meh either way :zany_face: 
+## :cubegg: a community **powerSurge** :powerSurge02: will be active 
+-# during both shows, double your pleasure & double your fun ... with double the cubes :zCube: on every win
+- :calendar_spiral: **Future Games Show: Summer Showcase** 
+  - <t:1780772400:F> (<t:1780772400:R>)
+- :calendar_spiral: **PC Gaming Show** 
+  - <t:1780858800:F> (<t:1780858800:R>)
+### :book:  TLDR
+this weekend ** powerSurge :powerSurge02:** & ~90 mins of industry promises. fun might be had, but no guarantees. 
+-# miniGames will be small & wrapped around (aka: live/gameplayMode)
+~z
