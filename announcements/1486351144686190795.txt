@@ -6,7 +6,7 @@ discord_message_id: 1486351144686190795
 author: zosky
 channel: announcements
 reactions: 38
-categories: votVote,miniGames
+categories: vodVote,miniGames
 images:
   - "assets/anouncmentBanners/2026-03-25-vodvote-overtime-overdose.png"
 ---
