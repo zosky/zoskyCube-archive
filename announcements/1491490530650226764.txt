@@ -6,7 +6,7 @@ discord_message_id: 1491490530650226764
 author: zosky
 channel: announcements
 reactions: 37
-categories: discoCommands,subPerks
+categories: discordCommands,subPerks
 images:
   - "assets/anouncmentBanners/2026-04-08-subsphere-blockmarket-gamerscore.png"
 ---
