@@ -1,4 +1,4 @@
-# newsnode-reactions.2026-06.txt
+# data/newsnode-reactions.2026-06.txt
 # discordMsgId,username,emojiInApp,cubes
 
 1513351019743150140,alexwifi42,👀,250
