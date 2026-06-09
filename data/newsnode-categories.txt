@@ -1,4 +1,4 @@
-# newsnode-categories.txt — category tags per announcement
+# data/newsnode-categories.txt — category tags per announcement
 # discordMsgId,categories (pipe-separated, e.g. miniGames|pixelPower)
 
 1513351019743150140,coming soon|bootLoop|miniGames
