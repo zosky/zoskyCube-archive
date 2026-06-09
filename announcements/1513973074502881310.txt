@@ -1,0 +1,34 @@
+---
+title: "NEW LIVE 🖥️ BOOT LOOP"
+date: 2026-06-09
+author: zosky
+channel: announcements
+discord_message_id: 1513973074502881310
+categories: miniGames,bootLoop
+---
+## NOW LIVE :desktop: PC BOOT LOOP
+-# the one where you fix my compute and win more cubes
+Hi @everyone i built a new mini-game and it needs your help. go figure
+### :video_game: how it works
+the community *on-stream-pc* BIOS is failing.**the community has to fix 4 components** before the kernel panics & the system crashes then needs to be rebuilt. each component has its own command. get enough players to assist the failing components & everyone wins.
+### :wrench: the 4 components
+- **CPU** solving a simple sum: `!hash <answer>`
+- **HDD** load a binary file address: `!seek <binary>`
+- **RAM** verify past pixelPower entries:`!cache <word>`
+- **GPU** warm-up the cube preShaders: `!render <3-cubes>`
+### :moneybag: rewards
+- each component you help fix = :zCube: in your pocket
+- each component requires a specific # of players get fixed *(or no rewards happen)*
+- **as the boot cycle progresses (component 2, 3, 4) each one requires more participation & gives more rewards.**
+- Phase 1: **+45** :zCube: per person | 2: **+65** :zCube: pp | 3: **+90** :zCube: pp | Phase 4: **+120** :zCube: pp
+- :star: **proStar bonus**: fix **all 4 components** in a single boot cycle & split **+500 :zCube:** more with all proStars
+-# - double-fix a component = "un-fix" the component = :yellowCube: + no :zCube:
+-# - if not enough players fix a component before it bursts into flames **the system crashes** ||...no rewards||
+-# - failed boots also require a system rebuild. a longer wait before the next boot can begin
+### :book: TLDR
+new live miniGame bootLoop has 4 mini-challenges in a 22-ish minute cycle.
+play all 4 rounds in 1 session to win even more :zCube:
+or play none of it & win nothing more. that's a choice too
+> more @ zoskyCube.com [(no) gameData (yet)](https://zoskyCube.com/bootLoop) & [help](https://zoskyCube.com/help/bootLoop)
+winning
+~z
