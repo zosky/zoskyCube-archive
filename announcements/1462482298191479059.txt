@@ -1,0 +1,42 @@
+---
+title: "🎨 PIXEL POWER 2.1: QUALITY OVER QUANTITY"
+date: 2026-01-18
+timestamp: 2026-01-18T16:22:31.496Z
+discord_message_id: 1462482298191479059
+author: zosky
+channel: announcements
+categories: pixelPower,miniGames
+reactions: 38
+images:
+  - "assets/anouncmentBanners/2026-01-18-pixel-power-2-1-quality-over-quantity.png"
+---
+
+## 🎨 PIXEL POWER 2.1: QUALITY OVER QUANTITY
+-# @everyone A wise man once said `!art fart`. Not only is it fun to say, the [resulting render](https://discord.com/channels/1360087703286186116/1439051254541062305/1462077999741665404) was epic. This is the core of why we are tweaking pixelPower once more. This is a word game and an art project, not a point-farming exercise. From now on, the system will reward those who contribute to the aesthetic.
+## 💎 THE QUALITY BONUS
+-# Short, punchy, and visual words are the lifeblood of great renders.
+- **1.5x Bonus: Any word between 4–7 letters (with no other penalties) **
+## 📉 THE TAX MANIFESTO
+-# If you are hunting for points by padding words or using clinical jargon that the AI can't visualize, you are going to pay for it. 
+The following taxes now apply:
+- -80% Medical Suffixes *( -itis, -osis, -ectomy ... )*
+- -70% Hyphenated Words *( multi-layered, self-aware )*
+- -60% Compound-Exploit / "un-" Prefix *( unhappy, unreal, over-words )*
+- -50% Plural-Padding / "-ly" Suffix *( Adding 's' or 'ly' just for length )*
+- -50% Word Length > 12 *( Stop writing novels in a single slot )*
+- -40% Lazy Suffixes *(-ness, -ment, -tion)*
+- -30% Adverb/Adjective Inflation *(bloating the words unnecessarily)*
+## 👁️ VISUALIZE OR FAIL
+Words like "adjudicate" cannot be visualized well. If the prompt can't "see" it, you aren't playing the game; you're just clicking buttons.Think about what makes an epic image and take pride in what you add to the community art. 
+- **If you continue to hunt for points via word-bloat, you will not have fun**. 
+- **If you provide quality, the renders will be epic—and so will your points.**
+## TLDR: 
+Short, visual words (4-7 letters) get a 1.5x boost. 
+Lazy padding, prefixes, and medical jargon get taxed up to 80%. 
+Play for the art, not the farm.
+
+~ z
+
+---
+
+![](../../assets/anouncmentBanners/2026-01-18-pixel-power-2-1-quality-over-quantity.png)
