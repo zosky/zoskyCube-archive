@@ -2,6 +2,8 @@
 # discordMsgId,categories (pipe-separated, e.g. miniGames|pixelPower)
 
 1513351019743150140,coming soon|bootLoop|miniGames
+1511753299358126100,meh
+1511753299358126100,vouchers
 1509600757975089203,monthly
 1508112904954576905,powerSurge|bits|miniGames
 1507186819018657852,coming soon|powerSurge|miniGames
