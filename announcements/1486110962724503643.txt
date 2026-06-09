@@ -1,0 +1,38 @@
+---
+title: "📉 INITIALIZING `pricePulse`"
+date: 2026-03-24
+timestamp: 2026-03-24T21:14:24.120Z
+discord_message_id: 1486110962724503643
+author: zosky
+channel: announcements
+reactions: 43
+categories: rewards
+images:
+  - "assets/anouncmentBanners/2026-03-24-initializing-pricepulse.png"
+---
+
+## 📉 INITIALIZING `pricePulse`
+Hi @everyone. The days of hoarding your cubes for *static & predictable store prices are officially over*. We are injecting a little real-world chaos into the mainframe. 
+### 💸  your new source of financial anxiety & inventory FOMO.
+**The store is now tethered to market forces. **The system will automatically adjust the cube value of all rewards based on what they are currently worth "in the wild". Here is how you play the market *(or how the market plays you)*:
+## 🤑 *Time is Cubes*
+- once per day, each reward will be adjusted by (+/-) 1024 zCubes to simulate real world markets
+  - if supply lines dry, values soar... cubes will go up up and away 
+  - if the value tanks, the cubes will fall, get it before someone else does
+  - If an item sits on the shelf too long, it starts to rot & its value slashed *10% more each week*
+- **proTips for winning** at `pricePulse`: 
+  - Do you want to play this ? ... now ? 
+  - Will it be ⬆️ or ⬇️ tomorrow ?
+  - Should you wait 1 more day or 1 more week ?
+  - ||Can you live with the butthurt if someone else snags it ?||
+-# **(Mandatory Legal Disclaimer** before the OSC kicks down the server rack: __CUBES HAVE ABSOLUTELY ZERO REAL-WORLD VALUE__. You cannot pay your rent in cubes. This entire system is just a brutal, elaborate simulation of real-world supply & demand designed purely for our collective amusement. Welcome to the meta-game.)
+## 📖 TLDR
+The market is live, all reward values adjusted daily (+/-1024)
+Watch, Play, & don't let the FOMO consume you 
+
+Happy Hunting & GL Gaming
+~z
+
+---
+
+![](../../assets/anouncmentBanners/2026-03-24-initializing-pricepulse.png)
