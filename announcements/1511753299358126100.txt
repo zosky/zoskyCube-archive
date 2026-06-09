@@ -1,25 +1,26 @@
 ---
-title: "📢 Co-Stream Alert"
+title: "🎮 an hour a day makes the voucher gate go away"
 date: 2026-06-03
 timestamp: 2026-03-06T19:11:40.059Z
 discord_message_id: 1511753299358126100
 author: zosky
 channel: announcements
-categories: meh
+categories: vouchers
 reactions: 36
 images:
-  - "2026-06-01-costreaming-fgs-and-pc-game-show.png"
+  - "2026-06-03-an-hour-a-day-makes-the-voucher-gate-go-away.png"
 ---
-## 📢  Co-Stream Alert
-hi @everyone, next weekend will be here *soon* & we're gonna try something new... co-streaming **FGS** & **PC Gaming Show**
--# react below for dem sweet cubes :zCube:  Or don't, meh either way :zany_face: 
-## :cubegg: a community **powerSurge** :powerSurge02: will be active 
--# during both shows, double your pleasure & double your fun ... with double the cubes :zCube: on every win
-- :calendar_spiral: **Future Games Show: Summer Showcase** 
-  - <t:1780772400:F> (<t:1780772400:R>)
-- :calendar_spiral: **PC Gaming Show** 
-  - <t:1780858800:F> (<t:1780858800:R>)
-### :book:  TLDR
-this weekend ** powerSurge :powerSurge02:** & ~90 mins of industry promises. fun might be had, but no guarantees. 
--# miniGames will be small & wrapped around (aka: live/gameplayMode)
+## 🎮 an hour a day makes the voucher gate go away
+Hi. i'd love to see @everyone *winning* max cubes :zCube: . the *minimal* participation check for vouchers is in place for the safety of your rewards. 
+> if you've not played *in a day*, don't make your first move a voucher
+- stay a while & say hi maybe. win a few cubes with commands
+- you'll quickly win more cubes then you wanted from the voucher
+  - AND THEN the voucher will be approved
+  - you are now winning double the cubes instead of being blocked from winning any
+-# specifics remain under wraps for security. 
+-# SUBs & VIPs get *a little more* wiggle room for the support
+### 📖 TLDR
+zBlocks (channel points) can be collected while you sleep. we encourage watching ads while you sleep, they turn into more games for you & me :wink: at the same time, **zBlock can *only* be converted by active players**
+> can always check [zoskyCube.com/stats](https://zoskycube.com/stats) updated hourly
+*winning*
 ~z
