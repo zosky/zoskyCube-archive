@@ -1,0 +1,42 @@
+---
+title: "double your pleasure - double your fun - double your zCubes - with *double ~~mint~~ your friends*"
+date: 2025-12-12
+timestamp: 2025-12-12T19:12:18.439Z
+discord_message_id: 1449116674300055603
+author: zosky
+channel: announcements
+categories: referralRewards
+reactions: 23
+images:
+  - "assets/anouncmentBanners/2025-12-12-double-your-pleasure-double-your-fun-double-your-z.png"
+---
+
+Hey @everyone 👋 (Yes, another ping. This one is worth risking the mute button.)
+## double your pleasure - double your fun - double your zCubes - with *double ~~mint~~ your friends*
+-# yeah so zCubes **probably wont double your friends, **
+-# but you can **double your zCubes with your friends...** 
+# 🚀 earn up to 110% more !!
+Forget trying to actually play the game or, god forbid, climb the leaderboards. __We're now rewarding you for exploiting your personal relationships__. We've launched **Referral Reward** so aggressive it might actually pay you **110%** of your own daily winnings, just for being popular.
+
+Here is the simple, yet potentially ruinous, skinny on this new system:
+- **The Condition**: 
+  - On any day you earn 1,000+ zCubes 
+  - and a friend you successfully referred also earns 1,000 zCubes, 
+- **The Payout**: 
+  - You get a bonus of **10%** whatever that friend won that day.
+  - To be clear: They still keep 100% of their winnings. 
+  - You get an extra 10% of their total. Think of it as a small finder's fee for being a good friend
+- **The FinePrint** 
+  - You can refer as many people as you like. However, for the purpose of the bonus math, we will only count the winnings from the 10 friends who earned the most zCubes that day.
+  - Your total daily referral bonus (from all friends combined) is capped at 110% of what you personally won that day.
+# 🌐 How To Sign Up Your Unwitting Recruits
+**This part is important**: The [/auth](https://zosky.github.io/zoskyCube/auth) page now has an optional field in the TTV column. Anyone new can put your `ttv-username` BONUS" and hit save. 
+## TLDR:
+Time to lean on some friends that owe you a favor
+Help them help you help them help me help you help them
+Go get recruiting! 🍻
+||proTip: refer yourself = infinite money glitch  ... or probably not||
+
+---
+
+![](../../assets/anouncmentBanners/2025-12-12-double-your-pleasure-double-your-fun-double-your-z.png)
