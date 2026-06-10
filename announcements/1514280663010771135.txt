@@ -1,0 +1,29 @@
+---
+title: "🔧 good idea / bad idea: AI edition"
+date: 2026-06-10
+author: zosky
+channel: announcements
+discord_message_id: 1514280663010771135
+categories: meh
+---
+## :tools: good idea / bad idea: AI edition
+-# hi @everyone. a quick PSA on AI, tools, and why this matters to your cubes
+> -# **good idea**: putting bread in a toaster
+> -# **bad idea**: throwing a toaster in the bath
+> -# ---
+> -# **good idea**: putting nails in a wall with a hammer
+> -# **bad idea**: putting dents in a person with a hammer
+> -# ---
+> -# **good idea**: using AI to increase dev speed & decrease effort
+> -# **bad idea**: using AI for advice. life coaching, spiritual leader, doctor...
+proTip: :brain: you *could* put butter on toast with a hammer, but there are better tools for that... like a butter knife *(it's in the name)*
+### :robot: what AI actually touches here
+FR, everything in this channel has been touched by AI in some way or another:
+- stress testing components
+- debugging python errors
+- checking spelling & grammar
+- finding new malicious patterns that try to threaten the safety of your rewards
+-# `<psa>` AI now is where the internet was when many of us were growing up; a tool most people are scared of because they don't know how to use it. meh. `</psa>`
+### :book: TLDR
+in case you missed it, **"pro @ AI"** is in my TTV bio. AI-powered solutions manifest new cubes, if you don't like that, please choose to win less (or no) cubes.
+~z
