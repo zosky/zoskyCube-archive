@@ -1,6 +1,7 @@
 # announcements/index.txt — one entry per line
 # discordMsgId,imgCount,reactionCount,title  (title is field 4-end, safe for commas)
 
+1514280663010771135,1,5,🔧 good idea / bad idea: AI edition
 1513973074502881310,1,21,NEW LIVE 🖥️ BOOT LOOP
 1513351019743150140,1,29,🔃 bootLoop coming soon
 1511753299358126100,1,33,🎮 an hour a day makes the voucher gate go away
