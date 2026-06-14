@@ -1097,7 +1097,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1780562952223,2026-06-04,2026-05-31,rafsongames,2386310,1,Ultros
 1780563053715,2026-06-04,2026-05-31,cerebralx1,1151050,4,Golf Gang
 1780563252190,2026-06-04,2026-05-31,4gazmin4,292030,1,The Witcher 3: Wild Hunt
-1780563337377,2026-06-04,2026-05-31,robin3one,,4,The Outer Worlds
+1780563337377,2026-06-04,2026-05-31,robin3one,1920490,4,The Outer Worlds
 1780563403330,2026-06-04,2026-05-31,yurigiu,1210600,1,Trepang2 Demo
 1780564231323,2026-06-04,2026-05-31,robin3one,42890,1,Sword of the Stars Complete Collection
 1780564500893,2026-06-04,2026-05-31,calypso_ba,292030,4,The Witcher 3: Wild Hunt
@@ -1745,7 +1745,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1780722219161,2026-06-06,2026-06-07,aspio9,765900,1,Leisure Suit Larry - Magna Cum Laude Uncut and Uncensored
 1780722543168,2026-06-06,2026-06-07,ragnar175,1107790,4,The Complex
 1780722841680,2026-06-06,2026-06-07,aspio9,247020,1,Cook, Serve, Delicious!
-1780722927409,2026-06-06,2026-06-07,xiaoxiao9313,,1,The Outer Worlds
+1780722927409,2026-06-06,2026-06-07,xiaoxiao9313,1920490,1,The Outer Worlds
 1780723766103,2026-06-06,2026-06-07,aspio9,367520,1,Hollow Knight
 1780724488484,2026-06-06,2026-06-07,xiaoxiao9313,568070,1,Mable
 1780724505344,2026-06-06,2026-06-07,alburldador,1953520,4,WRC Generations - The FIA WRC Official Game
@@ -2262,7 +2262,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1780863055714,2026-06-07,2026-06-07,avin_novor,374040,4,Portal Knights
 1780863064994,2026-06-07,2026-06-07,yurigiu,46570,4,Grotesque Tactics 2 - Dungeons and Donuts
 1780863260615,2026-06-07,2026-06-07,ikaliayev,1424600,4,Verne: The Shape of Fantasy
-1780863294775,2026-06-07,2026-06-07,silent_luc,,1,The Outer Worlds
+1780863294775,2026-06-07,2026-06-07,silent_luc,1920490,1,The Outer Worlds
 1780863386095,2026-06-07,2026-06-07,alburldador,720660,4,Overloop
 1780863567060,2026-06-07,2026-06-07,johnnymnemonics,323190,1,Frostpunk
 1780863869227,2026-06-07,2026-06-07,pika_gamy,1562140,2,Sophie: Starlight Whispers
@@ -2320,7 +2320,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1780886314771,2026-06-08,2026-06-07,mori2323,1037130,4,Dandy Ace
 1780886887000,2026-06-08,2026-06-07,somemarblesfriday,45760,4,Ultra Street Fighter IV
 1780886997343,2026-06-08,2026-06-07,thanossoul,350640,1,Sherlock Holmes: The Devil's Daughter
-1780887134029,2026-06-08,2026-06-07,slay_da_b,,1,The Outer Worlds
+1780887134029,2026-06-08,2026-06-07,slay_da_b,1920490,1,The Outer Worlds
 1780887551438,2026-06-08,2026-06-07,somemarblesfriday,2513280,4,SONIC X SHADOW GENERATIONS
 1780887563084,2026-06-08,2026-06-07,thanossoul,522240,1,Pool Panic
 1780888084868,2026-06-08,2026-06-07,xiaoxiao9313,1681430,1,RoboCop: Rogue City
@@ -4232,3 +4232,4 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1781398393838,2026-06-14,2026-06-14,puphik,377160,1,Fallout 4
 1781398677823,2026-06-14,2026-06-14,ikaliayev,248820,4,Risk of Rain (2013)
 1781398829318,2026-06-14,2026-06-14,darkranx,870780,4,Control Ultimate Edition
+1781399407835,2026-06-14,2026-06-14,silent_luc,9200,4,RAGE
