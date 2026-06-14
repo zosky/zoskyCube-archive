@@ -53,7 +53,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1777621742133,2026-05-01,2026-04-26,xiaoxiao9313,1108000,4,Children of Silentown
 1777621847611,2026-05-01,2026-04-26,naoka_ueno,1227690,4,Severed Steel
 1777622231455,2026-05-01,2026-04-26,alfims,1283410,4,Tails of Iron
-1777622311801,2026-05-01,2026-04-26,robin3one,,1,Hellblade: Senua's Sacrifice VR Edition
+1777622311801,2026-05-01,2026-04-26,robin3one,414340,1,Hellblade: Senua's Sacrifice VR Edition
 1777622500821,2026-05-01,2026-04-26,naoka_ueno,292030,4,The Witcher 3 REDkit
 1777622694106,2026-05-01,2026-04-26,calypso_ba,1410640,4,Syberia - The World Before
 1777623031889,2026-05-01,2026-04-26,xiaoxiao9313,13500,4,Prince of Persia: Warrior Within
@@ -339,7 +339,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1777698319973,2026-05-02,2026-05-03,alyssrentori,1641890,1,Lust from Beyond: M Edition
 1777698489901,2026-05-02,2026-05-03,dahhel,870780,2,Control Ultimate Edition
 1777698699368,2026-05-02,2026-05-03,avin_novor,609490,1,Minit
-1777698817172,2026-05-02,2026-05-03,slay_da_b,,1,Hellblade: Senua's Sacrifice VR Edition
+1777698817172,2026-05-02,2026-05-03,slay_da_b,414340,1,Hellblade: Senua's Sacrifice VR Edition
 1777698886468,2026-05-02,2026-05-03,ivanpetrov32,733210,1,Neversong
 1777699028867,2026-05-02,2026-05-03,valase,252410,4,SteamWorld Dig
 1777699251334,2026-05-02,2026-05-03,alburldador,96000,4,The Tiny Bang Story
@@ -1004,7 +1004,7 @@ timestamp,date,week_start,username,steamId,voteCount,gameName
 1777855118349,2026-05-04,2026-05-03,shadowladyex,1410640,4,Syberia - The World Before
 1777855339360,2026-05-04,2026-05-03,avin_novor,792710,1,Levelhead
 1777855867086,2026-05-04,2026-05-03,dahhel,22380,1,Fallout: New Vegas
-1777856063770,2026-05-04,2026-05-03,silent_luc,,4,Hellblade: Senua's Sacrifice VR Edition
+1777856063770,2026-05-04,2026-05-03,silent_luc,414340,4,Hellblade: Senua's Sacrifice VR Edition
 1777856313339,2026-05-04,2026-05-03,avin_novor,690640,1,Trine 4: The Nightmare Prince
 1777856518042,2026-05-04,2026-05-03,dahhel,1933840,1,Moon Mystery
 1777857335753,2026-05-04,2026-05-03,pika_gamy,866800,2,The Walking Dead: The Final Season
