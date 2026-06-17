@@ -1,7 +1,7 @@
 timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-06-01T04:10:31.297Z,1269950,alburldador,26065,0,1,873,Buddy Simulator 1984
 2026-06-01T05:59:57.893Z,2548260,sassdrake,25426,0,0,,The Devil's Typist
-2026-06-01T20:21:29.497Z,3400000,darkranx,70480,0,1,2128,Cubic Odyssey
+2026-06-01T20:21:29.497Z,3400000,darkranx,70480,0,1,2197,Cubic Odyssey
 2026-06-02T12:35:16.256Z,2441270,pika_gamy,42048,0,1,0,Kill The Crows
 2026-06-03T00:44:54.743Z,2441270,shadowladyex,42048,0,1,0,Kill The Crows
 2026-06-03T13:53:28.617Z,331870,pika_gamy,66448,0,1,0,AER Memories of Old
@@ -30,5 +30,5 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-06-14T16:43:04.414Z,590590,lillakra,55872,0,1,0,Remnants of Naezith
 2026-06-15T14:09:34.413Z,2272400,somemarblesfriday,28481,0,1,0,Station to Station
 2026-06-15T20:46:48.096Z,20820,thanossoul,36000,0,1,0,Shatter
-2026-06-16T06:01:36.559Z,1432910,slay_da_b,34064,0,1,0,Godlike Burger
+2026-06-16T06:01:36.559Z,1432910,slay_da_b,34064,0,1,258,Godlike Burger
 2026-06-16T15:27:12.074Z,2187290,alphonsoe,46656,0,1,0,Wall World
