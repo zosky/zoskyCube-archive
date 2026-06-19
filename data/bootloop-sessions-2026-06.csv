@@ -7,7 +7,7 @@ boot_1781035062128,,false,hdd:gpu:cpu:ram,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1781041307073,,false,hdd:gpu:cpu:ram,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1781208243782,,false,cpu:ram:hdd:gpu,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1781812224129,,false,hdd:ram:cpu:gpu,,0,5,0,0,45:0:0:0,,0,5,0
-boot_1781830381441,,false,hdd:cpu:gpu:ram,,0,4,0,0,45:0:0:0,,0,4,0
+boot_1781832567967,,false,gpu:ram:hdd:cpu,,0,0,8,8,45:65:0:0,,0,9,0
 boot_1781037821345,2026-06-09T20:50:11.835Z,false,gpu:cpu:ram:hdd,gpu,0,0,0,0,0:0:0:0,,0,0,390
 boot_1781039141961,2026-06-09T21:12:12.546Z,false,gpu:hdd:ram:cpu,gpu,0,0,0,0,0:0:0:0,,0,0,390
 boot_1781039986418,2026-06-09T21:26:17.987Z,false,hdd:cpu:gpu:ram,hdd,0,0,0,0,0:0:0:0,,0,0,391
@@ -512,3 +512,4 @@ boot_1781822584801,2026-06-18T22:59:03.245Z,false,ram:gpu:cpu:hdd,gpu,0,0,4,0,45
 boot_1781823993357,2026-06-18T23:33:23.832Z,false,cpu:ram:gpu:hdd,gpu,7,0,5,0,45:65:0:0,,0,7,1610
 boot_1781825813905,2026-06-19T00:15:44.419Z,true,ram:gpu:cpu:hdd,,7,7,6,8,45:65:90:120,dahhel:shadowladyex:ikaliayev:pika_gamy:silent_luc:valase,83,8,2330
 boot_1781828414838,2026-06-19T00:49:31.390Z,false,hdd:cpu:ram:gpu,ram,5,9,0,0,45:65:0:0,,0,9,1756
+boot_1781830381441,2026-06-19T01:25:57.893Z,false,hdd:cpu:gpu:ram,ram,8,4,0,7,45:65:90:0,,0,8,1976
