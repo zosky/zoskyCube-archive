@@ -1,0 +1,15 @@
+---
+title: "⚡ System (In)Stability Restored?"
+date: 2026-06-24
+author: zosky
+channel: announcements
+discord_message_id: 1519746245013409793
+categories: meh
+---
+## ⚡ System (In)Stability Restored?
+Hey @everyone, the channel was chosen to stream in 2K (double the pixels!) and Vertical (triple the pixels!), all with that same great cube flavour.
+## 🛑 Let’s Not For Now...
+Modern GPUs can smash that. Unfortunately, the stream's GPU is over a decade old & said *nope*. Frankly, it’s a miracle it captures the gaming rig so well while carrying the miniGames, discordBot, and a dozen other services on its back.
+## 🔋 TL;DR
+We are back to pumping out a rock-solid 1080p/60. Some zBlock vouchers are paused until all the cubes & pixels stabilize.
+~z
