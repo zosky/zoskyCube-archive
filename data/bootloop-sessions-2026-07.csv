@@ -2,3 +2,6 @@ sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs
 boot_1782879086477,2026-07-01T04:49:08.936Z,false,gpu:hdd:cpu:ram,ram,7,5,0,8,45:65:90:0,,0,11,2262
 boot_1782881559021,2026-07-01T05:31:15.386Z,false,cpu:hdd:ram:gpu,gpu,3,10,9,0,45:65:90:0,,0,13,2316
 boot_1782884085590,2026-07-01T06:00:33.904Z,false,cpu:hdd:ram:gpu,ram,8,6,0,0,45:65:0:0,,0,10,1548
+boot_1782885844130,2026-07-01T06:18:41.490Z,false,ram:cpu:gpu:hdd,cpu,0,0,4,0,45:0:0:0,,0,4,877
+boot_1782887171707,2026-07-01T06:49:19.238Z,false,gpu:cpu:hdd:ram,hdd,5,0,0,3,45:65:0:0,,0,7,1387
+boot_1782888769200,2026-07-01T06:59:19.525Z,false,gpu:hdd:ram:cpu,gpu,0,0,0,0,0:0:0:0,,0,0,390
