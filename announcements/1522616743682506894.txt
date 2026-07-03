@@ -1,0 +1,31 @@
+---
+title: "⚡ System (In)Stability Restored?"
+date: 2026-06-24
+author: zosky
+channel: announcements
+discord_message_id: 1522616743682506894
+categories: monthly
+---
+## 🗓️ monthly state of the cube
+-# hi @everyone june had a bunch of new firsts
+   - @m…  was first to win 3mill cubes also 1st to use `/subSphere` for a custom reward
+   - @v… was first to win 2m :zCube:  ||after mada... aka 2nd||
+   - @h… was first to spend 1.6m :zCube: ||after mada... aka 2nd||
+   - best month the stream has had so far || also 1st month without new players, meh :man_shrugging: ||
+### 🔃 new miniGame: bootloop 
+-# after some initial speed bumps (like 100+ fails in a row) **players are now winning 30-40k per day...**
+- 1290 boot attempts / 1% (22) completed / 29% (379) fixed 1 component / 36% (476) fixed 2 / 11% (150) fixed 3
+- top players: 
+  - 🥇 @d… **69,596** :zCube: (68% :star: 15 of 22)
+  - 🥈 @s… **59,176** :zCube: (50%/11:star:) 
+  - 🥉 @s… **57,256** :zCube:
+### 🧹 change
+-# a wise man once said `there's been allot of changes lately`
+-# a wiser man said `change is the only constant`
+-# a dead man said nothing... they are dead
+- pixelPwer now produces youTube shorts, has a new onStream UI to show them, and [new public page](<https://zoskycube.com/pixelPower/>)
+- [newsNode has a public page](<https://zoskycube.com/newsNode>) now too & shows which anouncments you have/have not reacted to yet || next step is to add this there :wink:||
+- last 24hr leaderboard is back on stream
+### ➡️ NEXT
+2k & vertical turned out to be a spectacular dumpster fire of pixels. to do this properly we require a new GPU & unless there is overwhelming demand for either i'd rather continue @1080/60 & spend the stream's money on more games for you & me. i've hinted at what is coming next in various places and to prepare for that the publishing schedule will change again. instead of *a few every day* it may seem random for a bit, but will make sense, soon, soon-ish... maybe sooner
+~z
