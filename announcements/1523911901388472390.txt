@@ -1,0 +1,31 @@
+---
+title: "no you do it"
+date: 2026-06-24
+author: zosky
+channel: announcements
+discord_message_id: 1523911901388472390
+categories: pricePulse
+---
+## 🚂 NO, YOU DO IT
+-# you restock the store now. deal with it
+Hi @everyone  i am done adding games to the store. each time you claim a new reward, you will trigger adding a new reward in its place.
+> -# **to be clear**: i have filled _and will continue_ filling *"the vault"*. 
+> -# **you** are responsible for things moving from the vault into the store. 
+> -# oh also, you get new games, there's that too :wink:
+### 🎮 how it works
+every redeem now triggers the hype train:
+- 📈 level up, **immediately**, resetting the hypeTrain timer
+- 🏪 drop a same-ish-value item from the vault into the store
+### 🧑‍🤝‍🧑 participation prize
+- **once a train is complete rewards will be rewarded**
+- 🚆 if the train reaches** level 6, every player wins 2% **of the cubes they used on their reward
+  - 🎖️ level 9 → **4%** :zCube:  lv. 12 → **6%** :zCube: ... 15+ → **10%** :zCube:
+### 🔒 the fine print
+> -# - 1 reward per player every 6 hours
+> -# - each reward is on cooldown for 12hrs after redeem (if not out of stock)
+> -# - want the same reward again? 18h cooldown. patience
+> -# more @ :link:  [zoskycube.com/help/pricePulse](<https://zoskycube.com/help/pricePulse>)
+### 📖 TLDR
+new games now hit the store each time a reward is claimed from the store. circle of life or something.
+-# _the you do it release_ 
+~z
