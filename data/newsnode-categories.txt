@@ -1,6 +1,7 @@
 # data/newsnode-categories.txt — category tags per announcement
 # discordMsgId,categories (pipe-separated, e.g. miniGames|pixelPower)
 
+1524594897867374653,gameplayGauntlet|miniGames
 1523911901388472390,pricePulse
 1522616743682506894,monthly
 1519746245013409793,meh
