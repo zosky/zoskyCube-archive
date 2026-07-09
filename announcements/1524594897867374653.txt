@@ -1,0 +1,20 @@
+---
+title: "⚔️ Gameplay Gauntlet: The Great Backlog Diet"
+date: 2026-07-08
+author: zosky
+channel: announcements
+discord_message_id: 1524594897867374653
+categories: gameplayGauntlet,miniGames
+---
+## ⚔️ Gameplay Gauntlet: Backlog Diet
+-# the gauntlet no longer waits for a winner. it actively hunts its own weakest links.
+Hi @everyone. The **Pile of Shame** just got smarter with crowed sourced priority ordering...
+### 🗑️ new: the list eats itself
+- every so often, the gauntlet will automatically toss *the worst* permanently, until next week.
+-# - the math is based on steam ratings & weighted by voteCounts
+### ✂️ today only: half the pile, gone
+- to kick things off, ~500 of the lowest-rated, zero-vote stragglers got **cut from the CURRENT list, right now** — roughly half the pile, in one shot.
+-# - if your ironic pick vanished — it had a Steam score that legally cannot be defended.
+### 📖 TLDR
+gauntlet's vote list now quietly murders its own worst performers, forever, and ~500 of them just got cut in one go to speed up the backlog reckoning. vote for something you'd actually want played, or watch it get erased in its sleep.
+~z
