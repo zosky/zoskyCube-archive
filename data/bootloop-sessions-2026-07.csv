@@ -1,5 +1,4 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1784403605115,,false,cpu:hdd:ram:gpu,,9,0,0,0,45:0:0:0,,0,9,0
 boot_1782879086477,2026-07-01T04:49:08.936Z,false,gpu:hdd:cpu:ram,ram,7,5,0,8,45:65:90:0,,0,11,2262
 boot_1782881559021,2026-07-01T05:31:15.386Z,false,cpu:hdd:ram:gpu,gpu,3,10,9,0,45:65:90:0,,0,13,2316
 boot_1782884085590,2026-07-01T06:00:33.904Z,false,cpu:hdd:ram:gpu,ram,8,6,0,0,45:65:0:0,,0,10,1548
@@ -913,3 +912,5 @@ boot_1784397175550,2026-07-18T18:09:33.921Z,false,cpu:ram:gpu:hdd,ram,7,0,0,0,45
 boot_1784398624115,2026-07-18T18:23:34.588Z,false,gpu:cpu:hdd:ram,gpu,0,0,0,0,0:0:0:0,,0,0,390
 boot_1784399284651,2026-07-18T18:54:02.227Z,false,ram:cpu:hdd:gpu,hdd,5,0,7,0,45:65:0:0,,0,7,1557
 boot_1784401052260,2026-07-18T19:35:34.727Z,true,hdd:cpu:gpu:ram,,10,6,9,7,45:65:90:120,pika_gamy:valase:ikaliayev:avin_novor:dahhel,100,12,2282
+boot_1784403605115,2026-07-18T20:19:30.492Z,true,cpu:hdd:ram:gpu,,9,7,9,10,45:65:90:120,lmbs00:pika_gamy:ikaliayev:dahhel:avin_novor,100,12,2365
+boot_1784406240860,2026-07-18T20:57:59.307Z,false,gpu:ram:cpu:hdd,cpu,0,0,9,12,45:65:0:0,,0,14,2038
