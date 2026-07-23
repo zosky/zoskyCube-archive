@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1784767424783,,false,gpu:hdd:cpu:ram,,0,0,0,11,45:0:0:0,,0,11,0
+boot_1784770370537,,false,hdd:cpu:ram:gpu,,9,9,0,0,45:65:0:0,,0,9,0
 boot_1782879086477,2026-07-01T04:49:08.936Z,false,gpu:hdd:cpu:ram,ram,7,5,0,8,45:65:90:0,,0,11,2262
 boot_1782881559021,2026-07-01T05:31:15.386Z,false,cpu:hdd:ram:gpu,gpu,3,10,9,0,45:65:90:0,,0,13,2316
 boot_1782884085590,2026-07-01T06:00:33.904Z,false,cpu:hdd:ram:gpu,ram,8,6,0,0,45:65:0:0,,0,10,1548
@@ -1101,3 +1101,4 @@ boot_1784758481271,2026-07-22T22:29:38.686Z,false,cpu:gpu:ram:hdd,gpu,5,0,0,0,45
 boot_1784759828750,2026-07-22T23:06:35.182Z,false,ram:hdd:cpu:gpu,cpu,0,8,9,0,45:65:0:0,,0,10,1766
 boot_1784761805284,2026-07-22T23:58:55.755Z,true,ram:gpu:cpu:hdd,,10,10,12,12,45:65:90:120,dahhel:ikaliayev:silent_luc:thanossoul:lmbs00:pika_gamy:shadowladyex:somemarblesfriday:snoopys030,55,14,2930
 boot_1784765006286,2026-07-23T00:40:14.654Z,false,ram:gpu:hdd:cpu,cpu,0,10,10,10,45:65:90:0,,0,11,2208
+boot_1784767424783,2026-07-23T01:28:20.219Z,true,gpu:hdd:cpu:ram,,7,11,9,11,45:65:90:120,thanossoul:shadowladyex:silent_luc:ikaliayev:lmbs00:dahhel,83,12,2675
