@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1785207244995,,false,gpu:cpu:ram:hdd,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1785209867836,,false,ram:cpu:gpu:hdd,,7,0,6,0,45:65:0:0,,0,9,0
 boot_1782879086477,2026-07-01T04:49:08.936Z,false,gpu:hdd:cpu:ram,ram,7,5,0,8,45:65:90:0,,0,11,2262
 boot_1782881559021,2026-07-01T05:31:15.386Z,false,cpu:hdd:ram:gpu,gpu,3,10,9,0,45:65:90:0,,0,13,2316
 boot_1782884085590,2026-07-01T06:00:33.904Z,false,cpu:hdd:ram:gpu,ram,8,6,0,0,45:65:0:0,,0,10,1548
@@ -1316,3 +1316,4 @@ boot_1785196217150,2026-07-28T00:24:29.704Z,false,ram:hdd:gpu:cpu,gpu,0,11,9,0,4
 boot_1785198479645,2026-07-28T01:07:46.212Z,false,cpu:gpu:hdd:ram,hdd,14,0,0,12,45:65:0:0,,0,14,2386
 boot_1785201076121,2026-07-28T01:53:37.653Z,true,hdd:cpu:gpu:ram,,9,11,9,8,45:65:90:120,dahhel:valase:lmbs00:snoopys030:ikaliayev:silent_luc,83,12,2541
 boot_1785203888046,2026-07-28T02:49:33.820Z,true,hdd:cpu:ram:gpu,,13,11,14,10,45:65:90:120,lmbs00:snoopys030:shadowladyex:ikaliayev:dahhel:avin_novor:valase:ragnar175,62,15,3086
+boot_1785207244995,2026-07-28T03:34:17.606Z,false,gpu:cpu:ram:hdd,hdd,8,0,9,10,45:65:90:0,,0,12,2412
