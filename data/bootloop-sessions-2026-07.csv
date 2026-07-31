@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1785506346431,,false,hdd:ram:cpu:gpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1785508374066,,false,gpu:ram:cpu:hdd,,0,0,12,9,45:65:0:0,,0,14,0
 boot_1782879086477,2026-07-01T04:49:08.936Z,false,gpu:hdd:cpu:ram,ram,7,5,0,8,45:65:90:0,,0,11,2262
 boot_1782881559021,2026-07-01T05:31:15.386Z,false,cpu:hdd:ram:gpu,gpu,3,10,9,0,45:65:90:0,,0,13,2316
 boot_1782884085590,2026-07-01T06:00:33.904Z,false,cpu:hdd:ram:gpu,ram,8,6,0,0,45:65:0:0,,0,10,1548
@@ -1471,3 +1471,4 @@ boot_1785499991976,2026-07-31T12:30:54.639Z,false,hdd:cpu:ram:gpu,cpu,0,8,0,0,45
 boot_1785501504629,2026-07-31T13:01:21.083Z,false,cpu:hdd:ram:gpu,hdd,13,0,0,0,45:0:0:0,,0,13,1376
 boot_1785503331294,2026-07-31T13:24:45.824Z,false,cpu:gpu:hdd:ram,gpu,7,0,0,0,45:0:0:0,,0,7,954
 boot_1785504735855,2026-07-31T13:55:36.354Z,false,hdd:gpu:ram:cpu,ram,0,5,0,7,45:65:0:0,,0,10,1400
+boot_1785506346431,2026-07-31T14:29:23.828Z,false,hdd:ram:cpu:gpu,cpu,0,8,11,0,45:65:0:0,,0,13,1817
