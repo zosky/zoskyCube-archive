@@ -1,0 +1,30 @@
+---
+title: "🔁 `!restart` to tilt the machine"
+date: 2026-07-12
+author: zosky
+channel: announcements
+categories: qol,infrastructure
+discord_message_id: 1525966233227497592
+image_prompt: "A retro CRT monitor glitching with green terminal text, showing a giant friendly red RESET button being pressed by multiple small pixel-art cartoon hands reaching in from the edges of the frame (representing chat voting together), electricity/sparks arcing off the button, a small cube mascot character with a wrench standing nearby looking hopeful, dark moody streaming-desk background with LED accent lighting, twitch-purple and cube-yellow color accents, digital art style, slightly humorous/chaotic energy, wide 16:9 banner composition"
+---
+## 🔁 `!restart` to tilt the machine
+Hi @everyone. Like pinball, the stream needs a tilt sometimes. TTV forgets to "hang up" (no auto 48hr restart). someone at my ISP trips over the cord sometimes. its hosed *(till i get back to my desk)*. 
+> now VIPs & SUBS can fix it...**
+> -# congrats on the promotion you didn't ask for
+### 🎮 how it works: 
+- type `!restart`
+- done
+-# - **Mods** → instant. No vote, no drama, just fixed.
+-# - **Subs/VIPs** → start (or joins) a vote. 
+-#   - Need **3 distinct subs/VIPs** within **10 minutes**
+### 🧠 it's smart about what's broken
+-# Same command either way. It figures out which fire to put out.
+  - Stream's **offline** → `!restart`: stop, breathe, start streaming again.
+  - Stream's **live**  → `!restart` restart the miniGames
+-# **Everyone else** → No hard feelings, just don't know you (yet?)
+### 🪵 accountability included for free
+instant or voted, it gets logged to the mod channel. Democracy, but with receipts.
+### 📖 TLDR
+`!restart` is chat's own panic button for a stuck miniGame or a dead stream. Mods/broadcaster = instant. Subs/VIPs = need 2 *friends* to agree within 10 min. Everyone else, see something, say something, someone might be able to help. 
+-# No more waiting for me to notice.
+~z
