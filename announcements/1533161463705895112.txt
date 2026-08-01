@@ -1,0 +1,35 @@
+---
+title: "🎩 State of the Cube: Month 9"
+date: 2026-08-01
+author: zosky
+channel: announcements
+categories: monthly
+discord_message_id: 1533161463705895112
+image prompt: A cyberpunk-meets-cozy streaming desk scene, wide 16:9 banner composition. A neon-lit trophy case overflowing with glowing pink/cyan cube currency (zCube) spilling out of a cracked treasure vault, some cubes stacked into a "1,000,000" holographic counter. Beside the vault, a glossy Steam-key vending machine sits half-buried under a chaotic pile of ~170 tiny game-disc icons (a messy digital backlog hoard), with a couple of keys physically falling into a "JUNK" labeled bin. In the background, a giant vintage dictionary book glitches/pixelates at the edges with binary code leaking out of it, representing the pixelPower word-generation chaos. A small retro arcade "POWER SURGE" lightning icon flickers erratically above, doubled/tripled like a glitch effect. Warm neon magenta and cyan lighting throughout, subtle glitch/pixel particle effects, high detail, cinematic, no text.
+---
+## 🗓️ monthly state of the cube
+-# hi @everyone month 9 done, lets keep pretending like everything is going fine
+- 3 of you have now won 1mill :zCube: unprecedented & alarming, but impressive
+- 🥇 one of you burned **3.2M** :zCube: & 2 more (3rd & 4th) torched **1.6M** :zCube:
+-# i finished Henry Stickmin and FF7 Remake using "my Cubes", which were, in fact, your Cubes.... thank you!!
+### 🗄️ key vault got its act together
+-# there was a lot of ~~trivia~~ *junk* from testing
+- `ping -> pong` the astoGateway (SE webSocket service) now has a heartbeat to auto-reconnect
+- new **Junk** state, notes, and a proper sort/cross-reference table so the admin (me) does less to find stuff
+- found & fixed a sneaky bug where a couple of restocked games stayed "sold out" forever 💀
+### 🎮 backlog & new toys
+- tossed **170 games** into the vault, added **57 new** to the store and yall **claimed 67** 
+- new milestone (250 followers) opens new doors: accepted into 2 creator programs & 3 more are reviewing application
+- planned the 1st community meetup  ✈️ with free 3D printed companion cube *(while supplies last)*
+- bundleBump auto-posts new bundles so you can signal whats hot and whats not
+- VODs now gets tagged with Season/Episode automatically, because apparently that matters
+### 🏆 miniGame overachievers
+- **GG:** **dahel** is top voter winning **22k** :zCube:
+- **PP:** **mori2323** dropped 359 words to win **76k** :zCube: 
+- **VV:** **ikaliayev** hit 73 b2b votes, winning **140k** :zCube:  
+-# ||do it better, last month you set the record with 105 😜|| 
+- **BL:** **ikaliayev** again **+115k** :zCube: 
+### 📚 TLDR
+lots of duct tape, a free vacation cube, cube on!!
+-# for more nerdCore stats check out the [monthly infoGraphic](<https://raw.githubusercontent.com/zosky/zoskyCube-archive/main/data/zoskyCube-infoGrapic-m09-202607.jpg>)
+~z
