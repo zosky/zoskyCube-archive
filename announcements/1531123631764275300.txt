@@ -1,0 +1,25 @@
+---
+title: "🧺 bundleBump"
+date: 2026-07-26
+author: zosky
+channel: announcements
+discord_message_id: 1531123631764275300
+categories: bundleBump
+---
+-# fellow freebie hunters, & connoisseurs of the ~~pile of shame~~ backlog. @ everyone.
+Gather 'round, lower your standards, also curb your expectations. there's a shiny new way to vote even more in the cube...
+## 🧺 Bundle Bump
+-# the official tool to quench your thirst ||for MORE FREE SH*T||
+🎮 How It Works
+- The Bot drops new bundles as a post in bundles
+- You tag (max 3) targets
+  - Things you want to play
+  - Or want in your backlog for reasons
+## Knowing is half the battle, G.I. Joe
+Listen, it's a way to signal what's hot & what's not. Simple & easy
+## ⏱️ TLDR
+The zBot posts a bundle $\rightarrow$ You vote for what you want. 
+Head over to the new channel, smash some buttons on the games you’re thirsty for. 
+Let me know what’s worth pulling
+-# Or don't. meh either way, it is live.
+~z
