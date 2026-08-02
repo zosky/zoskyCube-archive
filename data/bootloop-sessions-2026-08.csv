@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1785646143588,,false,cpu:ram:gpu:hdd,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1785649309442,,false,hdd:ram:cpu:gpu,,0,8,0,0,45:0:0:0,,0,8,0
 boot_1785557709036,2026-08-01T04:54:35.478Z,false,cpu:gpu:hdd:ram,ram,11,11,0,5,45:65:90:0,,0,14,2366
 boot_1785560285678,2026-08-01T05:35:36.313Z,false,cpu:gpu:ram:hdd,ram,14,0,0,10,45:65:0:0,,0,14,2250
 boot_1785562746346,2026-08-01T06:21:44.834Z,false,hdd:cpu:ram:gpu,gpu,11,10,10,0,45:65:90:0,,0,13,2558
@@ -46,3 +46,4 @@ boot_1785635614038,2026-08-02T02:27:38.657Z,false,ram:gpu:cpu:hdd,hdd,5,0,6,4,45
 boot_1785637868700,2026-08-02T03:08:12.330Z,true,hdd:gpu:ram:cpu,,7,6,6,6,45:65:90:120,valase:shadowladyex:lmbs00:dahhel:madagascaradam,100,7,2223
 boot_1785640362764,2026-08-02T04:04:26.261Z,true,cpu:ram:gpu:hdd,,9,11,10,11,45:65:90:120,lmbs00:dahhel:snoopys030:mori2323:shadowladyex:valase,83,15,3103
 boot_1785643736882,2026-08-02T04:45:33.462Z,false,ram:hdd:cpu:gpu,gpu,8,9,9,0,45:65:90:0,,0,13,2196
+boot_1785646143588,2026-08-02T05:38:19.073Z,false,cpu:ram:gpu:hdd,hdd,15,0,13,12,45:65:90:0,,0,17,2955
