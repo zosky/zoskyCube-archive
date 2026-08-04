@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1785805099387,,false,gpu:hdd:ram:cpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1785807963476,,false,ram:cpu:gpu:hdd,,0,0,10,0,45:0:0:0,,0,10,0
 boot_1785557709036,2026-08-01T04:54:35.478Z,false,cpu:gpu:hdd:ram,ram,11,11,0,5,45:65:90:0,,0,14,2366
 boot_1785560285678,2026-08-01T05:35:36.313Z,false,cpu:gpu:ram:hdd,ram,14,0,0,10,45:65:0:0,,0,14,2250
 boot_1785562746346,2026-08-01T06:21:44.834Z,false,hdd:cpu:ram:gpu,gpu,11,10,10,0,45:65:90:0,,0,13,2558
@@ -127,3 +127,4 @@ boot_1785796679718,2026-08-03T22:55:28.113Z,false,gpu:hdd:cpu:ram,hdd,0,0,0,7,45
 boot_1785798178338,2026-08-03T23:38:33.833Z,false,hdd:cpu:ram:gpu,gpu,9,7,8,0,45:65:90:0,,0,11,2135
 boot_1785800523892,2026-08-04T00:10:12.725Z,false,ram:cpu:gpu:hdd,gpu,9,0,7,0,45:65:0:0,,0,9,1689
 boot_1785802422765,2026-08-04T00:54:49.307Z,false,cpu:hdd:ram:gpu,gpu,9,9,7,0,45:65:90:0,,0,10,2466
+boot_1785805099387,2026-08-04T01:41:32.973Z,true,gpu:hdd:ram:cpu,,8,8,11,7,45:65:90:120,ikaliayev:shadowladyex:valase:dahhel:snoopys030:pika_gamy,83,11,2593
