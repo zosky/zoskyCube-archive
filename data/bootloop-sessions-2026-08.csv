@@ -1,5 +1,4 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1786322466754,,false,hdd:cpu:ram:gpu,,0,5,0,0,45:0:0:0,,0,5,0
 boot_1785557709036,2026-08-01T04:54:35.478Z,false,cpu:gpu:hdd:ram,ram,11,11,0,5,45:65:90:0,,0,14,2366
 boot_1785560285678,2026-08-01T05:35:36.313Z,false,cpu:gpu:ram:hdd,ram,14,0,0,10,45:65:0:0,,0,14,2250
 boot_1785562746346,2026-08-01T06:21:44.834Z,false,hdd:cpu:ram:gpu,gpu,11,10,10,0,45:65:90:0,,0,13,2558
@@ -419,3 +418,6 @@ boot_1786314123513,2026-08-09T22:46:54.044Z,false,hdd:gpu:ram:cpu,ram,0,4,0,5,45
 boot_1786315824167,2026-08-09T23:13:10.707Z,false,gpu:cpu:ram:hdd,ram,5,0,0,4,45:65:0:0,,0,5,1366
 boot_1786317400767,2026-08-09T23:54:15.445Z,false,gpu:hdd:ram:cpu,cpu,0,6,6,7,45:65:90:0,,0,8,2254
 boot_1786319865635,2026-08-10T00:36:36.184Z,true,gpu:ram:hdd:cpu,,9,7,7,6,45:65:90:120,pika_gamy:silent_luc:dahhel:ikaliayev:valase:snoopys030,83,9,2330
+boot_1786322466754,2026-08-10T01:10:30.174Z,false,hdd:cpu:ram:gpu,ram,8,5,0,0,45:65:0:0,,0,10,1763
+boot_1786324440507,2026-08-10T01:34:45.946Z,false,cpu:gpu:hdd:ram,gpu,9,0,0,0,45:0:0:0,,0,9,1245
+boot_1786326136163,2026-08-10T01:57:44.545Z,false,cpu:ram:hdd:gpu,ram,5,0,0,0,45:0:0:0,,0,5,928
