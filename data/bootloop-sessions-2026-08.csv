@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1787482242527,,false,hdd:ram:gpu:cpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1787484525062,,false,gpu:hdd:ram:cpu,,0,10,0,10,45:65:0:0,,0,12,0
 boot_1785557709036,2026-08-01T04:54:35.478Z,false,cpu:gpu:hdd:ram,ram,11,11,0,5,45:65:90:0,,0,14,2366
 boot_1785560285678,2026-08-01T05:35:36.313Z,false,cpu:gpu:ram:hdd,ram,14,0,0,10,45:65:0:0,,0,14,2250
 boot_1785562746346,2026-08-01T06:21:44.834Z,false,hdd:cpu:ram:gpu,gpu,11,10,10,0,45:65:90:0,,0,13,2558
@@ -1024,3 +1024,4 @@ boot_1787474606765,2026-08-23T08:49:57.417Z,false,cpu:hdd:ram:gpu,cpu,0,0,0,0,0:
 boot_1787475267524,2026-08-23T09:28:01.042Z,false,gpu:ram:hdd:cpu,cpu,0,7,5,4,45:65:90:0,,0,9,2013
 boot_1787477491060,2026-08-23T10:11:47.565Z,true,cpu:gpu:ram:hdd,,8,8,10,6,45:65:90:120,pika_gamy:alburldador:xiaoxiao9313:valase:snoopys030:alphonsoe,83,14,2416
 boot_1787480177919,2026-08-23T10:47:12.500Z,false,gpu:cpu:ram:hdd,ram,10,0,0,9,45:65:0:0,,0,11,1854
+boot_1787482242527,2026-08-23T11:25:14.998Z,false,hdd:ram:gpu:cpu,gpu,0,12,11,0,45:65:0:0,,0,13,2072
