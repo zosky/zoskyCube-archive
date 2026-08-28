@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1787895083311,,false,gpu:hdd:ram:cpu,,0,8,0,11,45:65:0:0,,0,11,0
+boot_1787899885269,,false,hdd:gpu:ram:cpu,,0,5,0,0,45:0:0:0,,0,5,0
 boot_1785557709036,2026-08-01T04:54:35.478Z,false,cpu:gpu:hdd:ram,ram,11,11,0,5,45:65:90:0,,0,14,2366
 boot_1785560285678,2026-08-01T05:35:36.313Z,false,cpu:gpu:ram:hdd,ram,14,0,0,10,45:65:0:0,,0,14,2250
 boot_1785562746346,2026-08-01T06:21:44.834Z,false,hdd:cpu:ram:gpu,gpu,11,10,10,0,45:65:90:0,,0,13,2558
@@ -1247,3 +1247,5 @@ boot_1787884282182,2026-08-28T03:00:03.813Z,false,ram:cpu:hdd:gpu,hdd,6,0,10,0,4
 boot_1787886213870,2026-08-28T03:44:22.389Z,true,gpu:cpu:hdd:ram,,10,6,8,8,45:65:90:120,shadowladyex:dahhel:xiaoxiao9313:ikaliayev:snoopys030,100,12,2448
 boot_1787888932767,2026-08-28T04:36:20.230Z,true,ram:cpu:hdd:gpu,,7,11,10,8,45:65:90:120,snoopys030:ikaliayev:dahhel:shadowladyex:mori2323,100,15,2847
 boot_1787892050668,2026-08-28T05:27:53.084Z,false,gpu:hdd:ram:cpu,cpu,0,11,11,13,45:65:90:0,,0,13,2822
+boot_1787895083311,2026-08-28T06:13:35.999Z,true,gpu:hdd:ram:cpu,,9,8,8,11,45:65:90:120,mori2323:dahhel:lmbs00:ikaliayev:shadowladyex:xiaoxiao9313,83,12,2533
+boot_1787897886553,2026-08-28T06:47:55.198Z,false,cpu:hdd:gpu:ram,gpu,7,8,0,0,45:65:0:0,,0,10,1788
