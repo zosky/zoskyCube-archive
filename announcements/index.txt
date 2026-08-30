@@ -1,6 +1,7 @@
 # announcements/index.txt — one entry per line
 # discordMsgId,imgCount,reactionCount,title  (title is field 4-end, safe for commas)
 
+1542922284959006760,1,32,🎂 birthday mode unlocked
 1533161463705895112,1,20,🎩 State of the Cube: Month 9
 1531123631764275300,1,29,🧺 bundleBump
 1525966233227497592,1,29,🔁 `!restart` to tilt the machine
