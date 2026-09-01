@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1788290642304,,false,gpu:hdd:ram:cpu,,0,11,12,10,45:65:90:0,,0,16,0
+boot_1788294966220,,false,hdd:cpu:ram:gpu,,11,11,0,0,45:0:0:0,,0,12,0
 boot_1788236847907,2026-09-01T05:02:59.382Z,true,ram:gpu:hdd:cpu,,11,8,9,7,45:65:90:120,alburldador:ikaliayev:xiaoxiao9313:dahhel:lmbs00,100,14,2131
 boot_1788239249893,2026-09-01T05:39:27.484Z,false,cpu:ram:gpu:hdd,hdd,8,0,6,9,45:65:90:0,,0,13,1917
 boot_1788241377526,2026-09-01T06:15:16.183Z,false,hdd:cpu:gpu:ram,gpu,8,11,0,0,45:65:0:0,,0,11,1939
@@ -27,3 +27,5 @@ boot_1788280899208,2026-09-01T17:20:51.770Z,false,cpu:hdd:gpu:ram,ram,10,10,0,9,
 boot_1788283461797,2026-09-01T18:06:23.480Z,false,cpu:gpu:hdd:ram,ram,13,10,0,10,45:65:90:0,,0,14,2522
 boot_1788286193670,2026-09-01T18:49:51.340Z,false,gpu:cpu:ram:hdd,hdd,10,0,10,10,45:65:90:0,,0,12,2397
 boot_1788288801556,2026-09-01T19:20:32.294Z,false,hdd:gpu:cpu:ram,cpu,0,7,0,9,45:65:0:0,,0,11,1630
+boot_1788290642304,2026-09-01T20:06:36.846Z,false,gpu:hdd:ram:cpu,cpu,0,11,12,10,45:65:90:0,,0,16,2554
+boot_1788293407028,2026-09-01T20:28:35.902Z,false,hdd:ram:gpu:cpu,ram,0,10,0,0,45:0:0:0,,0,10,1109
