@@ -1,6 +1,7 @@
 # data/newsnode-categories.txt — category tags per announcement
 # discordMsgId,categories (pipe-separated, e.g. miniGames|pixelPower)
 
+1544360021356187658,monthly
 1542922284959006760,meh
 1539875215759118467,meh
 1533161463705895112,monthly
