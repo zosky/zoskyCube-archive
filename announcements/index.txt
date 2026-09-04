@@ -1,6 +1,7 @@
 # announcements/index.txt — one entry per line
 # discordMsgId,imgCount,reactionCount,title  (title is field 4-end, safe for commas)
 
+1544360021356187658,1,32,🎩 State of the Cube: Month 10
 1542922284959006760,1,32,🎂 birthday mode unlocked
 1539875215759118467,1,27,📢 Co-Stream Alert
 1533161463705895112,1,20,🎩 State of the Cube: Month 9
