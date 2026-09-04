@@ -1,0 +1,31 @@
+---
+title: "🎩 State of the Cube: Month 10"
+date: 2026-09-01
+author: zosky
+channel: announcements
+categories: monthly
+discord_message_id: 1544360021356187658
+image prompt: A cyberpunk-meets-cozy streaming desk scene, wide 16:9 banner composition. Center stage: a glowing neon vault door blown wide open, pink/cyan zCube currency flooding out in two directions like a waterfall (one stream labeled "DISTRIBUTED" in holographic text, the other draining into a cracked storefront labeled "REDEEMED", both counters reading in the millions). To the left, a chaotic pile of ~150 tiny Steam-key game-disc icons spills toward a "JUNK" bin, a handful glowing gold and floating up into a store display case. To the right, a broken-down robot repair station covered in sparks and tiny floating gear icons represents bootLoop, with a small holographic scoreboard above it glitching between huge "FAIL" and "BOOT COMPLETE" text, a handful of golden star badges (proStar) orbiting it. In the background, a single glowing trophy pedestal holds a mysterious sci-fi game key labeled "starRapture" being handed to a silhouette figure. Warm neon magenta/cyan lighting, subtle glitch/pixel particle effects, high detail, cinematic, no text overlays besides the described holographic counters.
+---
+## 📆 monthly state of the cube
+-# hi @everyone **month 10** in the books, the vault is basically a colander at this point
+- **7.8M** :zCube: handed out, **8.4M** :zCube: redeemed 
+-# *(some of you are now dipping into your savings, respect!!)*
+- **74 new games** tossed into the store, **85 claimed** 
+### 🤖 bootLoop: still mostly on fire
+-# 67 clean boots vs **1,347** glorious failures... do it better :stuck_out_tongue_winking_eye: 
+-# *Phase 3 is clearly cursed, failing ~2x more then any other (someone should look into that)*
+### 🏆 miniGame overachievers
+-# ikaliayev decided to just win everything this month, no notes
+-# ok just one, maybe if they start winning a zCube salary other players can get a chance to win too
+### 🎖️ badges & the grandPrize
+- **5** of you cracked the **2mill** :zCube: badge, **4** more hit **1mill**
+- if anyone is looking for **valase** try the darkest caves of **starRapture**  :tada:
+  - there is 1 more and it is currently listed
+  - once its gone, likely wont restock 
+  - `<insert-more-FOMO-here>` 🤪 
+### :books: TLDR
+the cubes flow. games aplenty. ikaliayev is unstoppable. cube on!!
+~z
+
+# oh yeah, also 🎂 [birthday mode](https://discord.com/channels/1360087703286186116/1437918590186819685/1542922284959006760) <t:1788652800:R> ⬆️
