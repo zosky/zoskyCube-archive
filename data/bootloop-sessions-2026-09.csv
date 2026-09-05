@@ -171,3 +171,5 @@ boot_1788573210402,2026-09-05T02:14:58.051Z,false,hdd:cpu:ram:gpu,ram,5,3,0,0,45
 boot_1788574708075,2026-09-05T02:45:33.708Z,false,gpu:hdd:cpu:ram,cpu,0,5,0,6,45:65:0:0,,0,7,1625
 boot_1788576543732,2026-09-05T03:15:22.313Z,false,cpu:hdd:ram:gpu,ram,5,7,0,0,45:65:0:0,,0,8,1578
 boot_1788578332290,2026-09-05T04:00:20.907Z,true,ram:cpu:gpu:hdd,,9,9,9,7,45:65:90:120,lmbs00:dahhel:xiaoxiao9313:mori2323:ikaliayev:thanossoul,83,11,2488
+boot_1788581091545,2026-09-05T04:30:36.377Z,false,cpu:ram:hdd:gpu,hdd,8,0,5,0,45:65:0:0,,0,9,1545
+boot_1788582846252,2026-09-05T05:00:05.669Z,false,cpu:gpu:hdd:ram,hdd,6,0,0,5,45:65:0:0,,0,7,1559
