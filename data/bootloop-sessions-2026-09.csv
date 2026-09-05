@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1788569098625,,false,cpu:gpu:hdd:ram,,7,0,0,0,45:0:0:0,,0,7,0
+boot_1788573210402,,false,hdd:cpu:ram:gpu,,0,3,0,0,45:0:0:0,,0,3,0
 boot_1788236847907,2026-09-01T05:02:59.382Z,true,ram:gpu:hdd:cpu,,11,8,9,7,45:65:90:120,alburldador:ikaliayev:xiaoxiao9313:dahhel:lmbs00,100,14,2131
 boot_1788239249893,2026-09-01T05:39:27.484Z,false,cpu:ram:gpu:hdd,hdd,8,0,6,9,45:65:90:0,,0,13,1917
 boot_1788241377526,2026-09-01T06:15:16.183Z,false,hdd:cpu:gpu:ram,gpu,8,11,0,0,45:65:0:0,,0,11,1939
@@ -166,3 +166,5 @@ boot_1788560526668,2026-09-04T22:50:55.273Z,false,cpu:gpu:hdd:ram,hdd,8,0,0,7,45
 boot_1788562465318,2026-09-04T23:07:40.908Z,false,ram:hdd:cpu:gpu,hdd,0,0,4,0,45:0:0:0,,0,4,795
 boot_1788563711045,2026-09-04T23:58:27.538Z,true,hdd:ram:cpu:gpu,,10,7,9,9,45:65:90:120,shadowladyex:silent_luc:dahhel:valase:ikaliayev,100,13,2596
 boot_1788566577936,2026-09-05T00:41:28.429Z,false,ram:hdd:gpu:cpu,cpu,0,8,10,7,45:65:90:0,,0,10,2310
+boot_1788569098625,2026-09-05T01:12:17.181Z,false,cpu:gpu:hdd:ram,hdd,7,0,0,9,45:65:0:0,,0,9,1638
+boot_1788570947529,2026-09-05T01:50:00.382Z,false,gpu:ram:cpu:hdd,hdd,8,0,9,6,45:65:90:0,,0,9,2053
