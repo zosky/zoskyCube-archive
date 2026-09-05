@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1788605773254,,false,hdd:cpu:ram:gpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1788607502119,,false,hdd:gpu:ram:cpu,,0,8,7,8,45:65:90:0,,0,12,0
 boot_1788236847907,2026-09-01T05:02:59.382Z,true,ram:gpu:hdd:cpu,,11,8,9,7,45:65:90:120,alburldador:ikaliayev:xiaoxiao9313:dahhel:lmbs00,100,14,2131
 boot_1788239249893,2026-09-01T05:39:27.484Z,false,cpu:ram:gpu:hdd,hdd,8,0,6,9,45:65:90:0,,0,13,1917
 boot_1788241377526,2026-09-01T06:15:16.183Z,false,hdd:cpu:gpu:ram,gpu,8,11,0,0,45:65:0:0,,0,11,1939
@@ -185,3 +185,4 @@ boot_1788599458617,2026-09-05T09:17:29.198Z,false,gpu:cpu:ram:hdd,gpu,0,0,0,0,0:
 boot_1788600119305,2026-09-05T09:36:24.050Z,false,cpu:hdd:gpu:ram,hdd,3,0,0,0,45:0:0:0,,0,3,865
 boot_1788601434368,2026-09-05T10:22:43.024Z,true,hdd:cpu:ram:gpu,,6,10,7,7,45:65:90:120,xiaoxiao9313:alburldador:mori2323:alexwifi42:pika_gamy,100,10,2328
 boot_1788604033512,2026-09-05T10:52:43.195Z,false,gpu:ram:cpu:hdd,cpu,0,0,4,8,45:65:0:0,,0,9,1529
+boot_1788605773254,2026-09-05T11:21:31.933Z,false,hdd:cpu:ram:gpu,ram,8,4,0,0,45:65:0:0,,0,9,1519
