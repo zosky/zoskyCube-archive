@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789029340946,,false,ram:cpu:hdd:gpu,,8,0,4,0,45:65:0:0,,0,8,0
+boot_1789034248395,,false,ram:cpu:hdd:gpu,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -392,3 +392,5 @@ boot_1789021148354,2026-09-10T06:44:30.882Z,false,cpu:ram:hdd:gpu,hdd,5,0,4,0,45
 boot_1789022881123,2026-09-10T07:11:41.610Z,false,ram:cpu:gpu:hdd,gpu,6,0,4,0,45:65:0:0,,0,6,1420
 boot_1789024512117,2026-09-10T07:54:31.613Z,true,hdd:cpu:gpu:ram,,8,5,6,7,45:65:90:120,xiaoxiao9313:pika_gamy:mori2323:lmbs00:ikaliayev,100,9,2359
 boot_1789027142257,2026-09-10T08:32:10.831Z,false,cpu:hdd:ram:gpu,gpu,6,4,5,0,45:65:90:0,,0,7,1988
+boot_1789029340946,2026-09-10T09:15:58.503Z,false,ram:cpu:hdd:gpu,gpu,8,12,4,0,45:65:90:0,,0,12,2417
+boot_1789031968615,2026-09-10T09:53:58.325Z,false,ram:cpu:hdd:gpu,gpu,6,7,8,0,45:65:90:0,,0,9,2070
