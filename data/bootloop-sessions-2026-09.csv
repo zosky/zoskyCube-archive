@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789523222577,,false,cpu:hdd:gpu:ram,,10,0,0,0,45:0:0:0,,0,10,0
+boot_1789527468285,,false,hdd:cpu:ram:gpu,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -622,3 +622,5 @@ boot_1789513901366,2026-09-15T23:38:49.659Z,false,ram:gpu:cpu:hdd,cpu,0,0,8,6,45
 boot_1789515740013,2026-09-16T00:13:52.799Z,false,hdd:ram:gpu:cpu,gpu,0,7,10,0,45:65:0:0,,0,11,1892
 boot_1789517842923,2026-09-16T00:55:17.389Z,true,hdd:cpu:gpu:ram,,8,8,9,7,45:65:90:120,thanossoul:ikaliayev:dahhel:valase:silent_luc:shadowladyex,83,9,2274
 boot_1789520387843,2026-09-16T01:43:32.436Z,false,ram:cpu:gpu:hdd,hdd,11,0,10,7,45:65:90:0,,0,11,2624
+boot_1789523222577,2026-09-16T02:22:20.323Z,false,cpu:hdd:gpu:ram,gpu,10,10,0,0,45:65:0:0,,0,12,2118
+boot_1789525550253,2026-09-16T02:54:17.749Z,false,ram:cpu:gpu:hdd,gpu,6,0,9,0,45:65:0:0,,0,9,1707
