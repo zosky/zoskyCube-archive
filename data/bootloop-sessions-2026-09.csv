@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789642124603,,false,cpu:ram:hdd:gpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1789645270640,,false,ram:hdd:cpu:gpu,,0,0,14,0,45:0:0:0,,0,14,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -676,3 +676,4 @@ boot_1789631407468,2026-09-17T08:22:56.046Z,false,gpu:ram:hdd:cpu,hdd,0,0,10,10,
 boot_1789633586174,2026-09-17T08:58:28.766Z,false,cpu:hdd:ram:gpu,ram,10,10,0,0,45:65:0:0,,0,11,1922
 boot_1789635718944,2026-09-17T09:48:14.381Z,true,cpu:hdd:gpu:ram,,10,12,9,11,45:65:90:120,robin3one:hopelessss_:xiaoxiao9313:snoopys030:shadowladyex:naoka_ueno:alburldador:pika_gamy:ikaliayev,55,14,2775
 boot_1789638764954,2026-09-17T10:45:14.432Z,false,hdd:gpu:cpu:ram,ram,13,14,0,11,45:65:90:0,,0,15,3149
+boot_1789642124603,2026-09-17T11:36:40.007Z,true,cpu:ram:hdd:gpu,,13,9,14,12,45:65:90:120,hopelessss_:snoopys030:xiaoxiao9313:ikaliayev:shadowladyex:naoka_ueno:alphonsoe:pika_gamy,62,16,2875
