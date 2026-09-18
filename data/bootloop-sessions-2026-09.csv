@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789753374535,,false,cpu:gpu:hdd:ram,,14,0,0,0,45:0:0:0,,0,14,0
+boot_1789757626769,,false,hdd:ram:gpu:cpu,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -728,3 +728,5 @@ boot_1789743860324,2026-09-18T15:32:22.035Z,false,gpu:ram:cpu:hdd,cpu,0,0,10,7,4
 boot_1789745752039,2026-09-18T16:27:10.511Z,true,gpu:cpu:hdd:ram,,15,10,13,8,45:65:90:120,hopelessss_:xiaoxiao9313:mori2323:cerebralx1:avin_novor,100,18,3078
 boot_1789749101054,2026-09-18T17:07:18.470Z,false,ram:gpu:cpu:hdd,cpu,0,0,14,11,45:65:0:0,,0,15,2137
 boot_1789751448810,2026-09-18T17:39:24.303Z,false,cpu:ram:gpu:hdd,gpu,11,0,8,0,45:65:0:0,,0,11,1715
+boot_1789753374535,2026-09-18T18:17:12.186Z,false,cpu:gpu:hdd:ram,hdd,14,0,0,8,45:65:0:0,,0,15,2058
+boot_1789755642150,2026-09-18T18:50:16.659Z,false,cpu:hdd:ram:gpu,ram,11,9,0,0,45:65:0:0,,0,12,1774
