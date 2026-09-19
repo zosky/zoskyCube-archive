@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789826247939,,false,gpu:ram:hdd:cpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1789829010615,,false,hdd:gpu:ram:cpu,,0,14,0,0,45:0:0:0,,0,14,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -762,3 +762,4 @@ boot_1789816772808,2026-09-19T11:49:43.333Z,false,gpu:cpu:ram:hdd,ram,9,0,0,9,45
 boot_1789818793403,2026-09-19T12:35:20.666Z,false,hdd:gpu:cpu:ram,ram,10,10,0,10,45:65:90:0,,0,13,2527
 boot_1789821530983,2026-09-19T13:24:52.484Z,true,cpu:hdd:ram:gpu,,12,11,12,11,45:65:90:120,valase:hopelessss_:cerebralx1:shadowladyex:silent_luc:xiaoxiao9313:pika_gamy:mori2323,62,17,2761
 boot_1789824563156,2026-09-19T13:53:57.848Z,false,ram:cpu:hdd:gpu,hdd,11,0,5,0,45:65:0:0,,0,12,1474
+boot_1789826247939,2026-09-19T14:40:00.387Z,false,gpu:ram:hdd:cpu,cpu,0,11,12,12,45:65:90:0,,0,16,2552
