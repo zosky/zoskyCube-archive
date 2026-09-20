@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1789872189911,,false,gpu:hdd:cpu:ram,,0,0,0,8,45:0:0:0,,0,8,0
+boot_1789874669701,,false,gpu:hdd:ram:cpu,,0,7,9,9,45:65:90:0,,0,11,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -781,3 +781,4 @@ boot_1789861908752,2026-09-20T00:32:54.122Z,false,ram:hdd:cpu:gpu,gpu,11,13,11,0
 boot_1789864584422,2026-09-20T01:12:02.917Z,false,gpu:cpu:ram:hdd,ram,11,0,0,12,45:65:0:0,,0,12,2138
 boot_1789866933022,2026-09-20T01:59:15.530Z,true,cpu:gpu:hdd:ram,,10,10,9,9,45:65:90:120,hopelessss_:dahhel:silent_luc:mori2323:pika_gamy:avin_novor:lmbs00:snoopys030,62,11,2622
 boot_1789869826179,2026-09-20T02:39:39.759Z,false,gpu:hdd:cpu:ram,cpu,0,10,0,12,45:65:0:0,,0,13,2153
+boot_1789872189911,2026-09-20T03:20:59.585Z,false,gpu:hdd:cpu:ram,ram,8,7,0,8,45:65:90:0,,0,10,2269
