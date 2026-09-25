@@ -1,6 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1790031493306,,false,ram:cpu:gpu:hdd,,0,0,11,0,45:0:0:0,,0,11,0
-boot_1790314265430,,false,ram:hdd:cpu:gpu,,0,10,10,0,45:65:0:0,,0,13,0
+boot_1790318132048,,false,cpu:hdd:ram:gpu,,8,8,0,0,45:65:0:0,,0,10,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -987,3 +987,5 @@ boot_1790303980475,2026-09-25T03:07:18.163Z,false,cpu:gpu:ram:hdd,ram,9,0,0,7,45
 boot_1790305848081,2026-09-25T03:47:05.673Z,true,ram:gpu:cpu:hdd,,9,10,7,9,45:65:90:120,ikaliayev:shadowladyex:mori2323:dahhel:lmbs00,100,13,2177
 boot_1790308296264,2026-09-25T04:38:39.777Z,true,gpu:hdd:cpu:ram,,13,11,9,9,45:65:90:120,xiaoxiao9313:lmbs00:dahhel:ikaliayev:shadowladyex:avin_novor,83,14,2823
 boot_1790311390414,2026-09-25T05:26:34.933Z,true,gpu:cpu:hdd:ram,,11,12,10,8,45:65:90:120,ikaliayev:mori2323:lmbs00:ivanpetrov32:dahhel:xiaoxiao9313:avin_novor,71,16,2604
+boot_1790314265430,2026-09-25T06:03:00.228Z,false,ram:hdd:cpu:gpu,cpu,0,10,10,0,45:65:0:0,,0,13,1915
+boot_1790316390277,2026-09-25T06:32:01.880Z,false,hdd:cpu:ram:gpu,ram,7,8,0,0,45:65:0:0,,0,9,1531
