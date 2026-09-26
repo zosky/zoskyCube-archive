@@ -11,7 +11,7 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-09-07T05:29:16.873Z,1577120,ragnar175,260352,0,1,0,The Quarry
 2026-09-10T18:24:26.756Z,1214670,alburldador,47680,0,1,0,Mr. Sun's Hatbox
 2026-09-11T21:28:31.988Z,1851280,thanossoul,77120,0,1,0,Samurai Bringer
-2026-09-11T21:48:52.890Z,656350,ikaliayev,136576,0,1,318,UnderMine
+2026-09-11T21:48:52.890Z,656350,ikaliayev,136576,0,1,528,UnderMine
 2026-09-12T04:28:28.711Z,473950,dahhel,133632,0,1,717,Manifold Garden
 2026-09-12T07:59:20.225Z,209790,alburldador,30720,0,1,511,Splice
 2026-09-12T09:46:49.469Z,1522870,silent_luc,146304,0,1,0,Supraland Six Inches Under
@@ -43,15 +43,15 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-09-21T15:49:57.361Z,1390350,thanossoul,64384,0,1,0,Webbed
 2026-09-22T01:23:43.251Z,917950,alexwifi42,111712,0,1,135,Vellum
 2026-09-23T06:23:17.096Z,2002220,ikaliayev,171777,0,1,0,Keeper's Toll
-2026-09-23T15:21:26.193Z,3547010,slay_da_b,32048,0,1,386,Occlude
+2026-09-23T15:21:26.193Z,3547010,slay_da_b,32048,0,1,498,Occlude
 2026-09-23T16:24:34.822Z,727130,ivanpetrov32,82944,0,1,0,Between the Stars
 2026-09-24T03:58:46.688Z,424250,alburldador,48834,0,1,0,Balrum
 2026-09-24T09:19:12.335Z,325730,ichuy07,42881,0,1,0,The Hive
 2026-09-25T03:52:32.075Z,1122100,alburldador,43842,0,1,0,Giraffe and Annika
-2026-09-25T03:56:50.413Z,1137750,snoopys030,40640,0,1,302,Farmer's Life
-2026-09-25T04:49:34.169Z,664000,slay_da_b,43393,0,1,0,HammerHelm
+2026-09-25T03:56:50.413Z,1137750,snoopys030,40640,0,1,370,Farmer's Life
+2026-09-25T04:49:34.169Z,664000,slay_da_b,43393,0,1,270,HammerHelm
 2026-09-25T10:15:12.466Z,3081670,pika_gamy,25431,0,,,Strigoi: The Vampire Legend
-2026-09-25T10:32:47.671Z,1557480,alfims,47361,0,1,0,Project MIKHAIL: A Muv-Luv War Story
+2026-09-25T10:32:47.671Z,1557480,alfims,47361,0,1,900,Project MIKHAIL: A Muv-Luv War Story
 2026-09-25T14:07:52.979Z,2595940,dahhel,67202,0,1,0,Magical Bakery
 2026-09-25T15:10:15.151Z,1918450,mori2323,88832,0,1,0,HunterX
 2026-09-25T22:24:25.143Z,1939970,ura3535,117504,0,,,Nobody Wants to Die
