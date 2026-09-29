@@ -1,6 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1790031493306,,false,ram:cpu:gpu:hdd,,0,0,11,0,45:0:0:0,,0,11,0
-boot_1790650319569,,false,cpu:gpu:hdd:ram,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1790653481802,,false,cpu:ram:hdd:gpu,,11,0,0,0,45:0:0:0,,0,11,0
 boot_1788221132796,2026-09-01T00:46:51.423Z,false,gpu:cpu:hdd:ram,ram,9,10,0,9,45:65:90:0,,0,11,2478
 boot_1788223821463,2026-09-01T01:16:53.815Z,false,ram:cpu:gpu:hdd,gpu,7,0,7,0,45:65:0:0,,0,9,1592
 boot_1788225624010,2026-09-01T02:02:36.587Z,false,gpu:ram:hdd:cpu,cpu,0,9,10,10,45:65:90:0,,0,12,2532
@@ -1138,3 +1138,4 @@ boot_1790641052739,2026-09-29T00:52:01.246Z,false,cpu:ram:hdd:gpu,hdd,11,0,11,0,
 boot_1790643331352,2026-09-29T01:24:07.066Z,false,ram:cpu:hdd:gpu,hdd,7,0,8,0,45:65:0:0,,0,8,1716
 boot_1790645257004,2026-09-29T02:01:13.529Z,false,hdd:gpu:cpu:ram,ram,8,7,0,7,45:65:90:0,,0,11,2016
 boot_1790647483706,2026-09-29T02:47:29.122Z,true,cpu:hdd:ram:gpu,,7,10,8,9,45:65:90:120,dahhel:mori2323:shadowladyex,166,13,2565
+boot_1790650319569,2026-09-29T03:40:11.113Z,true,cpu:gpu:hdd:ram,,10,12,12,12,45:65:90:120,avin_novor:ikaliayev:darkranx:dahhel:mori2323:lmbs00:lovegamesandthings00000:alexwifi42,62,15,2891
