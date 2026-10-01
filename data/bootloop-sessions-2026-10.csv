@@ -1,0 +1,2 @@
+sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
+boot_1790828573112,,false,gpu:hdd:cpu:ram,,8,8,0,10,45:65:90:0,,0,11,0
