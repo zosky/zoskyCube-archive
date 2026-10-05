@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1791224936672,,false,cpu:gpu:hdd:ram,,8,12,0,10,45:65:90:0,,0,14,0
+boot_1791229964744,,false,ram:hdd:cpu:gpu,,0,0,5,0,45:0:0:0,,0,5,0
 boot_1790825745819,2026-10-01T03:42:16.582Z,false,hdd:gpu:cpu:ram,hdd,0,0,0,0,0:0:0:0,,0,0,391
 boot_1790826406507,2026-10-01T04:19:23.130Z,false,ram:gpu:hdd:cpu,hdd,0,0,10,7,45:65:0:0,,0,10,1956
 boot_1790828573112,2026-10-01T05:03:48.710Z,false,gpu:hdd:cpu:ram,ram,8,8,0,10,45:65:90:0,,0,11,2455
@@ -179,3 +179,5 @@ boot_1791216322563,2026-10-05T16:32:06.192Z,false,gpu:hdd:ram:cpu,ram,0,7,0,11,4
 boot_1791218136350,2026-10-05T17:04:04.944Z,false,ram:cpu:gpu:hdd,gpu,9,0,9,0,45:65:0:0,,0,12,1708
 boot_1791220055066,2026-10-05T17:48:02.638Z,true,gpu:cpu:ram:hdd,,12,11,8,10,45:65:90:120,pika_gamy:dahhel:avin_novor:shadowladyex:alburldador:xiaoxiao9313:lmbs00,71,14,2427
 boot_1791222753071,2026-10-05T18:25:26.559Z,false,hdd:ram:cpu:gpu,cpu,0,10,11,0,45:65:0:0,,0,13,1973
+boot_1791224936672,2026-10-05T19:05:09.139Z,false,cpu:gpu:hdd:ram,ram,8,12,0,10,45:65:90:0,,0,14,2172
+boot_1791227319364,2026-10-05T19:49:14.119Z,false,cpu:hdd:gpu:ram,ram,11,9,0,11,45:65:90:0,,0,14,2434
