@@ -1,5 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1791476858791,,false,gpu:hdd:cpu:ram,,0,0,0,11,45:0:0:0,,0,11,0
+boot_1791988928407,,false,cpu:ram:gpu:hdd,,10,0,0,0,45:0:0:0,,0,10,0
 boot_1790825745819,2026-10-01T03:42:16.582Z,false,hdd:gpu:cpu:ram,hdd,0,0,0,0,0:0:0:0,,0,0,391
 boot_1790826406507,2026-10-01T04:19:23.130Z,false,ram:gpu:hdd:cpu,hdd,0,0,10,7,45:65:0:0,,0,10,1956
 boot_1790828573112,2026-10-01T05:03:48.710Z,false,gpu:hdd:cpu:ram,ram,8,8,0,10,45:65:90:0,,0,11,2455
@@ -520,3 +521,4 @@ boot_1791978404735,2026-10-14T12:16:43.293Z,false,hdd:gpu:cpu:ram,cpu,0,9,0,8,45
 boot_1791980413506,2026-10-14T12:36:42.040Z,false,gpu:ram:hdd:cpu,ram,0,0,0,6,45:0:0:0,,0,6,988
 boot_1791981852158,2026-10-14T13:09:57.808Z,false,gpu:cpu:hdd:ram,hdd,5,0,0,7,45:65:0:0,,0,8,1545
 boot_1791983607832,2026-10-14T13:57:43.292Z,true,hdd:gpu:ram:cpu,,13,10,8,6,45:65:90:120,hopelessss_:xiaoxiao9313:lovegamesandthings00000:shadowladyex:ivanpetrov32,100,15,2655
+boot_1791986533788,2026-10-14T14:38:38.277Z,false,hdd:cpu:ram:gpu,ram,10,13,0,0,45:65:0:0,,0,15,2184
