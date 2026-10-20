@@ -471,7 +471,7 @@ appID,name,reviewScore,reviewScoreDesc,totalPositive,totalNegative,totalReviews,
 1181400,Path of Giants,9,Overwhelmingly Positive,981,33,1014,0.9675,0.9133,2026-10-16T09:21:30.908Z
 275390,Guacamelee! Super Turbo Championship Edition,8,Very Positive,6585,535,7120,0.9249,0.9169,2026-10-16T23:00:18.005Z
 812550,The King's Bird,5,Mixed,416,187,603,0.6899,0.7414,2026-10-16T23:00:19.587Z
-1380420,Grow: Song of the Evertree,8,Very Positive,2083,495,2578,0.8080,0.8072,2026-10-16T13:01:44.886Z
+1380420,Grow: Song of the Evertree,8,Very Positive,2083,495,2578,0.8080,0.8073,2026-10-16T13:01:44.886Z
 1228870,Bartlow's Dread Machine,8,Very Positive,80,13,93,0.8602,0.8123,2026-10-16T09:21:39.933Z
 603030,Lamp Head,6,Mostly Positive,369,96,465,0.7935,0.7987,2026-10-16T23:00:21.087Z
 231040,Beatbuddy: Tale of the Guardians,6,Mostly Positive,892,296,1188,0.7508,0.7664,2026-10-16T23:00:22.626Z
@@ -1410,7 +1410,7 @@ appID,name,reviewScore,reviewScoreDesc,totalPositive,totalNegative,totalReviews,
 350640,Sherlock Holmes: The Devil's Daughter,6,Mostly Positive,11593,2939,14532,0.7978,0.7979,2026-10-17T05:50:15.844Z
 669950,BDSM: Big Drunk Satanic Massacre,8,Very Positive,1063,153,1216,0.8742,0.8536,2026-10-17T05:50:17.358Z
 3755720,MIX IT! RELOADED,7,Positive,24,4,28,0.8571,0.8063,2026-10-16T10:41:45.604Z
-3771610,Flee the fallen,6,Mostly Positive,23,7,30,0.7667,0.8013,2026-10-17T05:50:18.877Z
+3771610,Flee the fallen,6,Mostly Positive,23,7,30,0.7667,0.8014,2026-10-17T05:50:18.877Z
 3047370,Net.Attack(),8,Very Positive,449,112,561,0.8004,0.8018,2026-10-17T05:50:20.388Z
 461950,Beat Cop,8,Very Positive,5081,1132,6213,0.8178,0.8167,2026-10-17T05:50:21.890Z
 561770,Just Ignore Them,6,Mostly Positive,1205,446,1651,0.7299,0.7470,2026-10-17T05:50:23.411Z
@@ -1665,14 +1665,14 @@ appID,name,reviewScore,reviewScoreDesc,totalPositive,totalNegative,totalReviews,
 2254990,Permafrost,6,Mostly Positive,1199,436,1635,0.7333,0.7497,2026-10-17T07:30:19.423Z
 3742030,Snogbert,0,No user reviews,0,0,0,0.0000,0.0000,2026-10-16T07:21:42.617Z
 2273430,BlazBlue Entropy Effect,8,Very Positive,34857,2093,36950,0.9434,0.9415,2026-10-17T07:30:20.921Z
-5297450,CLAWSTROPHOBIA Demo,7,Positive,14,2,16,0.8750,0.8056,2026-10-17T07:30:22.439Z
+5297450,CLAWSTROPHOBIA Demo,7,Positive,14,2,16,0.8750,0.8057,2026-10-17T07:30:22.439Z
 499170,Order of the Sinking Star,9,Overwhelmingly Positive,2014,57,2071,0.9725,0.9396,2026-10-14T16:40:06.820Z
 4665220,Blades & Trades Demo,0,No user reviews,0,0,0,0.0000,0.0000,2026-10-14T16:50:07.228Z
 2751000,Prince of Persia The Lost Crown,8,Very Positive,6333,1216,7549,0.8389,0.8367,2026-10-16T14:11:02.601Z
 4048470,Chicks In Trouble,0,No user reviews,0,0,0,0.0000,0.0000,2026-10-15T14:40:56.121Z
 1551980,Clive Barker's Hellraiser: Revival,8,Very Positive,5730,372,6102,0.9390,0.9288,2026-10-15T19:10:47.118Z
 1616110,Glitch Busters,6,Mostly Positive,128,48,176,0.7273,0.7836,2026-10-19T01:00:12.217Z
-2438180,Doggy Don't Care,8,Very Positive,83,3,86,0.9651,0.8272,2026-10-12T14:40:07.288Z
+2438180,Doggy Don't Care,8,Very Positive,87,3,90,0.9667,0.8283,2026-10-19T14:40:09.061Z
 1151930,Buissons,8,Very Positive,130,5,135,0.9630,0.8373,2026-10-14T17:20:08.203Z
 1868180,Etrian Odyssey HD,8,Very Positive,1244,209,1453,0.8562,0.8427,2026-10-16T23:50:08.120Z
 4399150,요단강행 빨간 버섯 Playtest,0,No user reviews,0,0,0,0.0000,0.0000,2026-10-18T17:40:06.076Z
