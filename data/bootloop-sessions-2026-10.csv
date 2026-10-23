@@ -1,6 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1791476858791,,false,gpu:hdd:cpu:ram,,0,0,0,11,45:0:0:0,,0,11,0
-boot_1792727479943,,false,hdd:ram:gpu:cpu,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1792729623719,,false,ram:cpu:gpu:hdd,,11,0,11,0,45:65:0:0,,0,13,0
 boot_1790825745819,2026-10-01T03:42:16.582Z,false,hdd:gpu:cpu:ram,hdd,0,0,0,0,0:0:0:0,,0,0,391
 boot_1790826406507,2026-10-01T04:19:23.130Z,false,ram:gpu:hdd:cpu,hdd,0,0,10,7,45:65:0:0,,0,10,1956
 boot_1790828573112,2026-10-01T05:03:48.710Z,false,gpu:hdd:cpu:ram,ram,8,8,0,10,45:65:90:0,,0,11,2455
@@ -865,3 +865,4 @@ boot_1792718369798,2026-10-23T01:35:06.328Z,false,gpu:hdd:cpu:ram,hdd,0,0,0,5,45
 boot_1792719756403,2026-10-23T02:23:01.966Z,false,gpu:hdd:ram:cpu,cpu,0,9,8,7,45:65:90:0,,0,10,2425
 boot_1792722392150,2026-10-23T03:13:07.744Z,true,hdd:gpu:ram:cpu,,8,10,9,10,45:65:90:120,hopelessss_:ikaliayev:dahhel:shadowladyex,125,14,2795
 boot_1792725458210,2026-10-23T03:47:49.739Z,false,hdd:gpu:cpu:ram,cpu,0,9,0,10,45:65:0:0,,0,11,1811
+boot_1792727479943,2026-10-23T04:23:33.456Z,false,hdd:ram:gpu:cpu,gpu,0,12,8,0,45:65:0:0,,0,12,1933
