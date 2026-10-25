@@ -20,11 +20,11 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-10-17T08:14:36.528Z,2297650,slay_da_b,41219,0,1,308,Re:Fresh
 2026-10-17T08:26:37.913Z,692850,mori2323,140960,0,1,0,Bloodstained: Ritual of the Night
 2026-10-17T11:55:19.638Z,4197890,pika_gamy,142848,0,1,0,The Last Cat in the Universe
-2026-10-20T04:41:17.202Z,3027930,slay_da_b,46150,0,1,333,Karate Survivor
+2026-10-20T04:41:17.202Z,3027930,slay_da_b,46150,0,1,334,Karate Survivor
 2026-10-20T07:35:13.437Z,242700,ikaliayev,71872,0,1,0,Injustice: Gods Among Us Ultimate Edition
 2026-10-22T13:14:41.659Z,591370,alfims,65578,0,1,1017,Production Line : Car factory simulation
 2026-10-22T16:22:56.876Z,1356280,cerebralx1,73025,0,1,0,Kitaria Fables
-2026-10-23T08:17:13.315Z,1424060,rafsongames,25436,0,,,Barn Finders: Amerykan Dream
+2026-10-23T08:17:13.315Z,1424060,rafsongames,25436,0,0,,Barn Finders: Amerykan Dream
 2026-10-23T09:49:55.371Z,990630,slay_da_b,44398,0,1,424,The Last Campfire
 2026-10-23T17:44:18.793Z,115100,100bitlive,63808,0,1,0,Costume Quest
 2026-10-23T21:19:29.016Z,1745510,shadowladyex,154880,0,1,0,Lunacid
@@ -46,5 +46,5 @@ timestamp,steamid,username,cost,hadAtPurchase,activated,playtimeMinutes,gamename
 2026-10-24T19:30:11.420Z,2230980,ikaliayev,727168,0,1,0,Caribbean Legend
 2026-10-24T20:28:25.860Z,1924170,lmbs00,197184,0,1,0,TT Isle Of Man: Ride on the Edge 3
 2026-10-24T21:26:28.314Z,1080020,valase,63040,0,1,0,Electrician Simulator
-2026-10-24T22:07:08.933Z,1220010,snoopys030,134991,0,1,0,Home Behind 2
+2026-10-24T22:07:08.933Z,1220010,snoopys030,134991,0,1,199,Home Behind 2
 2026-10-25T04:52:16.688Z,3400000,slay_da_b,49831,0,1,0,Cubic Odyssey
