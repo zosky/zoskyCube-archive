@@ -1,6 +1,6 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
 boot_1791476858791,,false,gpu:hdd:cpu:ram,,0,0,0,11,45:0:0:0,,0,11,0
-boot_1792941798731,,false,gpu:cpu:ram:hdd,,15,0,0,13,45:65:0:0,,0,16,0
+boot_1792944767425,,false,ram:cpu:hdd:gpu,,18,14,13,0,45:65:90:0,,0,22,0
 boot_1790825745819,2026-10-01T03:42:16.582Z,false,hdd:gpu:cpu:ram,hdd,0,0,0,0,0:0:0:0,,0,0,391
 boot_1790826406507,2026-10-01T04:19:23.130Z,false,ram:gpu:hdd:cpu,hdd,0,0,10,7,45:65:0:0,,0,10,1956
 boot_1790828573112,2026-10-01T05:03:48.710Z,false,gpu:hdd:cpu:ram,ram,8,8,0,10,45:65:90:0,,0,11,2455
@@ -957,3 +957,4 @@ boot_1792932006716,2026-10-25T13:20:04.429Z,false,hdd:cpu:ram:gpu,gpu,6,13,10,0,
 boot_1792934614503,2026-10-25T13:45:43.953Z,false,ram:cpu:hdd:gpu,cpu,0,0,11,0,45:0:0:0,,0,11,1329
 boot_1792936394105,2026-10-25T14:37:28.545Z,true,gpu:hdd:cpu:ram,,12,11,12,10,45:65:90:120,hopelessss_:alphonsoe:pika_gamy:shadowladyex:alburldador,100,17,2654
 boot_1792939319008,2026-10-25T15:19:48.403Z,false,ram:cpu:hdd:gpu,hdd,15,0,13,0,45:65:0:0,,0,17,2269
+boot_1792941798731,2026-10-25T16:09:17.281Z,false,gpu:cpu:ram:hdd,hdd,15,0,10,13,45:65:90:0,,0,17,2758
