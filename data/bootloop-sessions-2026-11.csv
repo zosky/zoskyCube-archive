@@ -1,5 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1793703326949,,false,cpu:hdd:gpu:ram,,0,0,0,0,0:0:0:0,,0,0,0
+boot_1793706273228,,false,gpu:ram:cpu:hdd,,0,0,0,7,45:0:0:0,,0,7,0
 boot_1793499367112,2026-11-01T02:45:48.453Z,false,hdd:cpu:gpu:ram,gpu,7,11,0,0,45:65:0:0,,0,12,1781
 boot_1793501358733,2026-11-01T03:13:49.290Z,false,gpu:ram:hdd:cpu,hdd,0,0,6,7,45:65:0:0,,0,8,1470
 boot_1793503039457,2026-11-01T03:46:48.879Z,false,cpu:gpu:hdd:ram,hdd,10,0,0,8,45:65:0:0,,0,11,1769
@@ -93,3 +93,4 @@ boot_1793694312786,2026-11-03T08:56:37.442Z,false,ram:gpu:hdd:cpu,cpu,0,7,6,5,45
 boot_1793696407547,2026-11-03T09:34:40.278Z,false,cpu:hdd:gpu:ram,ram,6,5,0,7,45:65:90:0,,0,8,2072
 boot_1793698690364,2026-11-03T10:09:53.145Z,false,hdd:gpu:ram:cpu,ram,0,9,0,8,45:65:0:0,,0,10,1902
 boot_1793700803142,2026-11-03T10:51:56.747Z,false,cpu:hdd:ram:gpu,gpu,8,9,7,0,45:65:90:0,,0,11,2313
+boot_1793703326949,2026-11-03T11:40:02.538Z,true,cpu:hdd:gpu:ram,,5,9,12,9,45:65:90:120,ikaliayev:ivanpetrov32:nobody_09999:dahhel,125,14,2675
