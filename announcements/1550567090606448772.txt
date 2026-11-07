@@ -1,0 +1,25 @@
+---
+title: "shadowLedger: quiet on the set, loud in the cloud"
+date: 2026-09-18
+author: zosky
+channel: announcements
+categories: infra economy
+discord_message_id: 1550567090606448772
+#image prompt: ...
+---
+-# the stream recenetly had a full-on brain transplant
+Hi @everyone next sub probably triggers a giftSub for one lucky viewer. if you are half asleep, or just pretending to work, lurking is still the winning strategy.
+### :brain: what changed
+- the stream DB, discordBot, redeemTrain & SSE bridge now all run on the cloud
+- the autoRecover module can do `!restart` for itself (or 3 VIPs/Subs - no change there)
+- **shadowLedger is now live** 
+  - every cube won and redeemed is being double-booked:  
+  - once in StreamElements, once in the shadow ledger  
+  - they check each other constantly, if one side starts lying, alarms go off in the mod channel
+### :moneybag: the vault situation
+- the back room is filling with rewards worth >1M cubes that currently cannot be redeemed
+- they are trapped behind the same stupid cap as the rest of us, 1 million max
+- once the ledger is clean, the cap will stop being the boss of your rewards
+### :book: TLDR
+shadowLedger is live, the numbers are being cross-checked in real time, hold on to your panties we're about to punch through the 1M ceiling ...soon, soonish 
+~z
