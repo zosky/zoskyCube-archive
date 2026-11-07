@@ -1,6 +1,8 @@
 # announcements/index.txt — one entry per line
 # discordMsgId,imgCount,reactionCount,title  (title is field 4-end, safe for commas)
 
+1550567090606448772,1,0,shadowLedger: quiet on the set, loud in the cloud
+1546166051761299516,1,0,tyvm!! ☁️.zoskycube.com
 1544360021356187658,1,32,🎩 State of the Cube: Month 10
 1542922284959006760,1,32,🎂 birthday mode unlocked
 1539875215759118467,1,27,📢 Co-Stream Alert
