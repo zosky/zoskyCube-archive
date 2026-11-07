@@ -1,0 +1,13 @@
+---
+title: "🍁🦃 Happy Thanksgiving"
+date: 2026-10-12
+author: zosky
+channel: announcements
+categories: holiday
+discord_message_id: 1559208427022975036
+---
+## 🍁🦃 Happy Canadian Thanksgiving Canucks! 
+-# Here's to friends, family, and a glorious feast. 
+And for @everyone else... well, it's just Monday, isn't it? 
+Have a... productive one.
+~z
