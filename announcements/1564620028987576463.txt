@@ -1,0 +1,18 @@
+---
+title: "pixelPower Rebalance"
+date: 2026-10-27
+author: zosky
+channel: announcements
+categories: pixelPower
+discord_message_id: 1564620028987576463
+---
+@everyone 
+### :loudspeaker: Pixel Power Tweak in progress
+Bare with me for a minute please while I adjust some of the formulas under the hood to tighten up the rules & stop a few specific patterns from breaking the story generation.
+### :warning: Important 
+This should **not** affect anyone playing the game! 
+Adjustments should be seamless to anyone playing the game 
+and they should be very visable to anyone farming it
+
+as always, __constructive__ feedback welcome
+~z
