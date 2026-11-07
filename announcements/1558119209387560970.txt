@@ -1,0 +1,23 @@
+---
+title: 🆕 New Loyalty Store BETA
+date: 2026-10-06
+author: zosky
+channel: announcements
+categories: store,rewards
+discord_message_id: 1558119209387560970
+---
+## new [zoskyCube.com/store](https://zoskyCube.com/store) LIVE READ-ONLY BETA 
+-# `ver 1.38.13` @everyone 
+> ### **SE remains the place to get rewards (for now)**
+- the new storeFront has filters, buttons, drop downs, personalization... and even some web 2.0 😉
+  - realTime inventory & zCubes <:zCube:1439260731399733418> (top corner change as you win)
+  - your steam WL & games are reloded daily
+  - your (onSite) "favs" & "ignored" remain unchanged 
+  - nothing here is final yet. as always, suggestions welcome
+  - **READ ONLY:** *the redeem button will open SE for you to do the thing*
+
+frankly, this has taken most of my free time the last few weeks and i sortta forgot we're all here for 1 prime directive: to play fun games & win more cubes, so i fixed that too... here is what ill be playing the next few days. all these are *from* zoskyCube *to me*, like gifts from some of you 🥰 or review keys from publishers & devs to show you cool new stuff. 
+## 📚 TLDR
+its goTime for games & i will also continue building the new [/store](https://zoskyCube.com/store) ... soon soon-ish. holla if any suggestions
+
+~z
