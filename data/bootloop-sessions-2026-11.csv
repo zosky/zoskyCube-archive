@@ -1,4 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
+boot_1794011593192,,false,ram:cpu:gpu:hdd,,10,0,7,0,45:65:0:0,,0,10,0
 boot_1793499367112,2026-11-01T02:45:48.453Z,false,hdd:cpu:gpu:ram,gpu,7,11,0,0,45:65:0:0,,0,12,1781
 boot_1793501358733,2026-11-01T03:13:49.290Z,false,gpu:ram:hdd:cpu,hdd,0,0,6,7,45:65:0:0,,0,8,1470
 boot_1793503039457,2026-11-01T03:46:48.879Z,false,cpu:gpu:hdd:ram,hdd,10,0,0,8,45:65:0:0,,0,11,1769
@@ -222,3 +223,16 @@ boot_1793970353960,2026-11-06T13:43:59.532Z,false,gpu:ram:hdd:cpu,cpu,0,9,6,10,4
 boot_1793972849593,2026-11-06T14:28:12.092Z,false,hdd:ram:gpu:cpu,cpu,0,14,7,9,45:65:90:0,,0,14,2442
 boot_1793975502225,2026-11-06T15:05:39.795Z,false,ram:hdd:gpu:cpu,gpu,0,13,13,0,45:65:0:0,,0,14,2037
 boot_1793977750592,2026-11-06T15:56:55.276Z,false,gpu:ram:hdd:cpu,cpu,0,13,17,12,45:65:90:0,,0,18,2865
+boot_1793980825309,2026-11-06T16:56:46.685Z,false,hdd:ram:gpu:cpu,cpu,0,17,16,16,45:65:90:0,,0,21,3381
+boot_1793984416930,2026-11-06T17:47:45.656Z,false,hdd:ram:cpu:gpu,gpu,12,16,14,0,45:65:90:0,,0,19,2848
+boot_1793987475682,2026-11-06T18:19:17.237Z,false,hdd:cpu:gpu:ram,gpu,11,9,0,0,45:65:0:0,,0,12,1681
+boot_1793989367224,2026-11-06T19:04:00.772Z,false,cpu:hdd:ram:gpu,ram,19,13,0,0,45:65:0:0,,0,19,2473
+boot_1793992050957,2026-11-06T20:05:56.726Z,false,gpu:ram:hdd:cpu,cpu,0,12,21,21,45:65:90:0,,0,27,3506
+boot_1793995766832,2026-11-06T20:42:14.576Z,false,cpu:ram:gpu:hdd,gpu,14,0,13,0,45:65:0:0,,0,19,1968
+boot_1793997944458,2026-11-06T21:05:51.012Z,false,hdd:cpu:ram:gpu,cpu,0,12,0,0,45:0:0:0,,0,12,1206
+boot_1793999601217,2026-11-06T21:37:54.660Z,false,cpu:hdd:gpu:ram,gpu,6,10,0,0,45:65:0:0,,0,11,1473
+boot_1794001284870,2026-11-06T22:06:01.500Z,false,gpu:hdd:cpu:ram,cpu,0,6,0,7,45:65:0:0,,0,7,1476
+boot_1794002971546,2026-11-06T22:47:39.227Z,false,ram:cpu:gpu:hdd,hdd,8,0,9,8,45:65:90:0,,0,13,2287
+boot_1794005469367,2026-11-06T23:17:55.828Z,false,cpu:hdd:gpu:ram,gpu,7,7,0,0,45:65:0:0,,0,9,1606
+boot_1794007285966,2026-11-06T23:40:05.477Z,false,cpu:ram:gpu:hdd,ram,9,0,0,0,45:0:0:0,,0,9,1119
+boot_1794008855600,2026-11-07T00:29:43.079Z,false,gpu:hdd:cpu:ram,ram,8,11,0,10,45:65:90:0,,0,13,2527
