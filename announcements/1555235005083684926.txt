@@ -1,0 +1,50 @@
+---
+title: "🎩 State of the Cube: Month 11"
+date: 2026-10-01
+author: zosky
+channel: announcements
+categories: monthly
+discord_message_id: 1555235005083684926
+image prompt: >-
+  Wide 16:9 cinematic banner for a chaotic streaming community monthly recap.
+  A pink-and-cyan zCube vault spills glowing cubes toward a busy game-key shop,
+  with exactly 62 small game icons entering and 62 claim tickets leaving. Three
+  achievement pedestals glow at the two-million mark, beside a smaller one-million
+  trophy and a fresh pair of badges for a new player. In one corner, a red penalty
+  cube dissolves into harmless sparks beside a clear seven-day calendar; another
+  remains locked behind a small vault latch. A vivid lightning surge doubles the
+  light from a crowd of cheering silhouettes. Add subtle pixel-art details and
+  warm magenta, cyan, and gold lighting. Polished, readable composition with no
+  words, numbers, logos, or text overlays.
+---
+## 🎩 monthly state of the cube: *issue 11*
+-# hi @everyone, september moved 8.1M cubes out and 7.5M back in. also,  the back room is full, adding new rewards to the shop remains your duty 😉
+### 📊 the cube report
+- **8.1M** <:zCube:1439260731399733418> won, **7.5M** claimed
+- **62 games** added **62 claimed**... suspiciously efficient
+- 3 players unlocked the **2M lifetime** cheevo; 3 crossed **1.6M lifetime spent**, and 1 unlocked **1M lifetime won**
+- *hopeless__* picked up their first two badges. 👋 
+### 🎮 mini-game nonsense
+- _ikaliayev_ dominated (only) two of the games this month 🤪 
+- **vodVote:** _shadowladyex_ set a new **111** back-to-back vote record
+- **gamePlayGauntlet:** _pika_gamy_ made the most votes
+### ⚡ 1st surge
+- *somemarblesfriday* won 74,065 <:zCube:1439260731399733418> with <:powerSurge15:1507182289472327722> for 6 hours + <:powerSurge02:1507182098077847552> for everyone else
+- a bunch of folks also dropped bits: unlocking 2hrs of <:powerSurge02:1507182098077847552> for all
+-# TYVM to the cheer squad 🥰 
+> # <:redCube:1502378081611022549> red cubes now expire after **7 days**.
+> - if you collect 5, still locked out, they stop expiring
+> - the remover <:removerCube:1502377923532034151> is your way back in
+> - new players will not get <:yellowCube:1502378165547438131>/ <:redCube:1502378081611022549> for the 1st week
+### 🛠️ less bill, fewer gremlins
+- monthly running costs **~50%⬇️** ... = more free games
+  - pixelPower's pricey shorts are capped at 1/day, **~60%⬇️**/month
+  - a year-long cloud deal means **~30%⬇️**/month
+- the plumbing is more stable
+  - long `/gamerScore` results now work properly
+  - reward Train banners show the actual payouts and games
+  - game metaData, banners, posters, and user avatars now cached
+-# the whole thing is still held together by tape... and slightly less janky code.
+### 📖 TLDR
+more cubes won than spent, 62 games in and out, red cubes now have a lifeSpan, and cheers made everyone will double. react for cubes.
+~z
