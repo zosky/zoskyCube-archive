@@ -1,0 +1,28 @@
+---
+title: "🥳 Loyalty Store LIVE"
+date: 2026-11-06
+author: zosky
+channel: announcements
+categories: rewards
+discord_message_id: 1568302538095329451
+---
+# 🧟 ITS ALIVE 
+-# New [Loyalty Store](<https://zoskycube.com/store>) & return of the ~~mack~~ [Gift Cards](<https://zoskycube.com/gift-cards>)
+
+The upgrade is complete. Our Native Loyalty Store is officially online, accompanied by a brand new Gift Cards Page for all your hard-earned rewards. Gift cards operate on a slightly different system to keep everything running smoothly **and sustainably**. Here is how they work:
+### 💡 Dynamic Buffer Mechanic
+-# Gift cards are dynamically available based on an undisclosed % of stream budget.
+- EX: If the buffer sits at 50% & the ledger @ 10$🍁
+  - a $5 redeem fits within the buffer.
+  - a $10 redeem leaves zero.
+  - a $25 redeem would leave me paying most of it out of pocket
+this allows quantity to be sustainably scaled with the growth of the community
+### 🌍 Global Distribution & Cooldowns
+To make sure rewards are distributed evenly across the world, two cooldown rules are in place:
+- Per-User: 30 days after grabbing any gift card.
+- All-Users: 16-hour cooldown ensures. No single timezone can permanently camp the redeems!
+
+Head over to the store, check out the new page. Spend your zCubes wisely!
+
+if you're not having fun, you're doing it wrong ... do it right ;P
+~z
