@@ -1,0 +1,27 @@
+---
+title: "tyvm!! ☁️.zoskycube.com"
+date: 2026-09-01
+author: zosky
+channel: announcements
+categories: infra
+discord_message_id: 1546166051761299516
+#image prompt: ...
+---
+## tyvm!! ☁️.zoskycube.com
+-# yes, we bought a cloud. no, you can't have one.
+funded straight from **your** ad watching skills, <:zCube:1439260731399733418> , cheers, & subs.
+> nothing new to see here. just a new toy 🎂 (for me)
+### 🏠➡️☁️ WHY
+it is time we stop using 1 home appliance to run a small community
+-# the family NAS has been pulling triple duty: as the stream's database, real-time signal bridge between 4 applications *and* web hosting for the live miniGames
+### 🛠️ WHAT IT DOES
+- 🔌 **the nervous system** — real-time signaling between every (host|game|app) 
+- 🗄️ **the backup brain** — a live clone of the steam DB 
+- 🤖 **z's personal assistant** — stats, banners, notifications, reward drops
+> the tower behind my couch will no longer cripple the stream
+### 💸 THE HUSTLE
+~$7/mo, forever, straight out of the stream's own pocket. a rounding error next to what you've already
+funded — buying reliability, not another vanity feature.
+# 📖 TLDR: 
+the home NAS was a single point of failure for the whole channel, so we hired it a cloud coworker. it costs the stream ~$7/mo. **you don't pay anything extra**, just cubes work better... soon, soon-ish
+~ z
