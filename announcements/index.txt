@@ -1,6 +1,14 @@
 # announcements/index.txt — one entry per line
 # discordMsgId,imgCount,reactionCount,title  (title is field 4-end, safe for commas)
 
+1568302538095329451,1,0,🥳 Loyalty Store LIVE
+1567224867944661062,1,0,🥳 state-of-the-cube: m12
+1564620028987576463,1,0,pixelPower Rebalance
+1564327932095234110,1,0,👾VGLX'26
+1561899537713594429,1,0,"👾 VGLX coming soon
+1559208427022975036,1,0,🍁🦃 Happy Thanksgiving
+1558119209387560970,1,0,🆕 New Loyalty Store BETA
+1555235005083684926,1,0,🎩 State of the Cube: Month 11
 1550567090606448772,1,0,shadowLedger: quiet on the set, loud in the cloud
 1546166051761299516,1,0,tyvm!! ☁️.zoskycube.com
 1544360021356187658,1,32,🎩 State of the Cube: Month 10
