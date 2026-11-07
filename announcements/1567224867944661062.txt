@@ -1,0 +1,37 @@
+---
+title: "🥳 state-of-the-cube: m12"
+date: 2026-11-03
+author: zosky
+channel: announcements
+categories: monthly
+discord_message_id: 1567224867944661062
+---
+#  🥳  `!oneYear` *(so what 🤪 )*
+-# celebrate 1yr @ the cube where watching is winning, and winning is watching
+> **step 1:** type `!oneYear optional-msg` on stream
+> **step 2:** win your watchTime hours in cubes
+> -# if you've watched 100hrs ... win 100 :zCube: 
+-# special offer only starting <t:1793750400:R> **ending <t:1794355200:R>**
+-# 1 per person & other fine print restrictions may apply *(if i think of them later)*
+## 📢  state of the cube `m12`
+-# ngl, what we have here is a field-of-dreams situation. *if you build it, they will come*. **thank you all for coming** and making it more awesome, like with !vv to help weed out all the crap recordings or nudging me anytime something falls off the rails. **hang on to your panties b/c year 2 is gonna be more fun !!**
+## 📊  by the books: 
+  - TY for __participating__ i hope the rewards where more fun
+    - ~750 games redeemed & ~70mil cubes won 
+    - :cubegg: 5 new folks unlocked the 3mill :zCube:  achievement, 7 unlocked 2mill, & 3 unlocked 1mill. 
+  - hope it didnt suck watching me suck 
+    - `5235 fails` across `141 games` and `738 gameplay VODs` 
+    - `~891hrs` or `~10%/yr` ... *just* shy of my 20% goal
+  - some more behind the scenes (fun?) facts ...
+    - `~750` overlay commits & `~600` project commits so far
+    - thats `~3/day` everyday, or some days more & some days less
+    - in total there is ~60% javaScript, 30% vue3, 9% python ... and 1% documentation
+## 📅 upcoming events
+  - nov7 - toronto gameExpo
+  - nov11 - golden joystick awards
+-# more on those later
+## :books:  TLDR
+ikaliayev probably won every game again. the new store is 95% ready, if no red flags in testing, we'll be pouring one out for SE soon *(and punching through the 1mill ceiling)*. type `!oneYear (optional msg)` to win stream-bDay cubes ... it will also post your optional-msg here ⬇️
+
+TY for being awesome yall 💖
+~z
