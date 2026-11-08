@@ -1,4 +1,5 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
+boot_1794123378020,,false,gpu:hdd:ram:cpu,,0,8,0,9,45:65:0:0,,0,12,0
 boot_1793499367112,2026-11-01T02:45:48.453Z,false,hdd:cpu:gpu:ram,gpu,7,11,0,0,45:65:0:0,,0,12,1781
 boot_1793501358733,2026-11-01T03:13:49.290Z,false,gpu:ram:hdd:cpu,hdd,0,0,6,7,45:65:0:0,,0,8,1470
 boot_1793503039457,2026-11-01T03:46:48.879Z,false,cpu:gpu:hdd:ram,hdd,10,0,0,8,45:65:0:0,,0,11,1769
@@ -269,3 +270,17 @@ boot_1794076355457,2026-11-07T19:13:25.857Z,false,cpu:gpu:hdd:ram,ram,14,12,0,10
 boot_1794079016122,2026-11-07T19:43:31.776Z,false,gpu:cpu:ram:hdd,ram,7,0,0,10,45:65:0:0,,0,10,1595
 boot_1794080821926,2026-11-07T22:10:21.519Z,false,hdd:ram:cpu:gpu,ram,0,16,0,0,45:0:0:0,,0,16,8599
 boot_1794083944530,2026-11-07T22:57:30.041Z,false,cpu:ram:gpu:hdd,hdd,3,0,10,6,45:65:90:0,,0,11,2828
+boot_1794092459912,2026-11-07T23:35:47.570Z,false,ram:cpu:hdd:gpu,hdd,13,0,11,0,45:65:0:0,,0,15,2087
+boot_1794094757593,2026-11-08T00:05:54.334Z,false,ram:cpu:gpu:hdd,gpu,6,0,9,0,45:65:0:0,,0,10,1597
+boot_1794096564442,2026-11-08T00:37:22.163Z,false,cpu:ram:hdd:gpu,hdd,10,0,8,0,45:65:0:0,,0,10,1678
+boot_1794098452198,2026-11-08T01:09:47.833Z,false,cpu:gpu:ram:hdd,ram,7,0,0,9,45:65:0:0,,0,9,1735
+boot_1794100398069,2026-11-08T01:19:48.530Z,false,cpu:hdd:gpu:ram,cpu,0,0,0,0,0:0:0:0,,0,0,390
+boot_1794101058712,2026-11-08T02:04:35.192Z,false,hdd:cpu:ram:gpu,gpu,8,9,9,0,45:65:90:0,,0,11,2416
+boot_1794103685511,2026-11-08T02:57:53.460Z,true,gpu:hdd:ram:cpu,,10,9,15,7,45:65:90:120,somemarblesfriday:pika_gamy:ikaliayev:avin_novor:lmbs00,100,16,2988
+boot_1794106943985,2026-11-08T03:43:43.698Z,false,ram:hdd:gpu:cpu,cpu,0,10,11,9,45:65:90:0,,0,14,2479
+boot_1794109633800,2026-11-08T04:16:41.247Z,false,hdd:ram:cpu:gpu,cpu,0,10,11,0,45:65:0:0,,0,11,1767
+boot_1794111611462,2026-11-08T04:50:00.152Z,false,cpu:ram:gpu:hdd,gpu,9,0,7,0,45:65:0:0,,0,10,1789
+boot_1794113610163,2026-11-08T05:34:46.550Z,false,hdd:gpu:cpu:ram,ram,11,5,0,9,45:65:90:0,,0,12,2476
+boot_1794116296780,2026-11-08T06:17:14.225Z,false,cpu:ram:gpu:hdd,hdd,5,0,13,11,45:65:90:0,,0,14,2337
+boot_1794118844381,2026-11-08T06:49:02.098Z,false,hdd:ram:gpu:cpu,gpu,0,10,9,0,45:65:0:0,,0,11,1697
+boot_1794120752186,2026-11-08T07:31:47.670Z,true,ram:hdd:cpu:gpu,,8,8,9,12,45:65:90:120,xiaoxiao9313:shadowladyex:ikaliayev:alburldador:dahhel:lmbs00,83,13,2355
