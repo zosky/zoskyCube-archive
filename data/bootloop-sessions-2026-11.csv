@@ -1,5 +1,4 @@
 sessionId,completedAt,bootSuccess,phaseOrder,failedPhase,cpuContribs,hddContribs,ramContribs,gpuContribs,phaseRewards,proStars,proStarBonus,totalContributors,durationSeconds
-boot_1795769367793,,false,gpu:hdd:ram:cpu,,0,0,0,0,0:0:0:0,,0,0,0
 boot_1793499367112,2026-11-01T02:45:48.453Z,false,hdd:cpu:gpu:ram,gpu,7,11,0,0,45:65:0:0,,0,12,1781
 boot_1793501358733,2026-11-01T03:13:49.290Z,false,gpu:ram:hdd:cpu,hdd,0,0,6,7,45:65:0:0,,0,8,1470
 boot_1793503039457,2026-11-01T03:46:48.879Z,false,cpu:gpu:hdd:ram,hdd,10,0,0,8,45:65:0:0,,0,11,1769
@@ -1126,3 +1125,7 @@ boot_1795761660919,2026-11-27T07:05:30.303Z,false,ram:hdd:gpu:cpu,gpu,0,5,6,0,45
 boot_1795763339726,2026-11-27T07:22:41.888Z,false,hdd:ram:gpu:cpu,ram,0,3,0,0,45:0:0:0,,0,3,821
 boot_1795764611341,2026-11-27T08:04:30.663Z,false,cpu:ram:gpu:hdd,hdd,4,0,7,6,45:65:90:0,,0,7,2058
 boot_1795766879986,2026-11-27T08:44:58.142Z,true,hdd:cpu:gpu:ram,,7,6,7,6,45:65:90:120,dahhel:pika_gamy:xiaoxiao9313:alburldador:naoka_ueno:ikaliayev,83,8,2217
+boot_1795769367793,2026-11-27T09:30:13.849Z,false,gpu:hdd:ram:cpu,cpu,0,9,6,10,45:65:90:0,,0,12,2445
+boot_1795772023348,2026-11-27T10:03:44.556Z,false,hdd:cpu:ram:gpu,ram,7,10,0,0,45:65:0:0,,0,11,1800
+boot_1795774034026,2026-11-27T10:27:31.345Z,false,cpu:ram:hdd:gpu,ram,10,0,0,0,45:0:0:0,,0,10,1216
+boot_1795775700726,2026-11-27T10:52:56.878Z,false,ram:gpu:hdd:cpu,gpu,0,0,8,0,45:0:0:0,,0,8,1075
